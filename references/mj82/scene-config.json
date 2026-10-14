@@ -1,0 +1,36 @@
+{
+  "reference_replication": {
+    "goal": "以参考图为唯一视觉基准，尽可能1:1复刻其Midjourney 8.2高端场景美学，并将这种视觉语言转译为可理解的真实摄影表达；核心不是机械模拟摄影器材，而是复刻光线雕刻方式、朦胧氛围、暗部层次、色调融合、空气感、光学柔化与整体视觉情绪。",
+    "composition": {
+      "focus": "场景主体为绝对视觉焦点，核心区域清晰，前后景快速进入柔和失焦，保持自然光学焦外而非夸张AI虚化"
+    },
+    "core_visual_language": {
+      "style": "high-end Midjourney 8.2 cinematic scene, artistic photorealism, luxury editorial photography, dark atmospheric beauty, sculptural lighting, tactile realism",
+      "priority": "artistic lighting > atmospheric depth > tonal harmony > optical texture > surface detail",
+      "lighting": {
+        "style": "强方向性主光结合极柔和环境漫射光，让光线像雕刻一样塑造场景形体，而不是平均照亮",
+        "key_light": "略偏侧的强烈硬光，集中强调场景主体的轮廓、纹理和高光路径，形成明确而具有艺术性的光影结构",
+        "shadow": "场景边缘和远离光源区域快速进入深色阴影，但阴影内部保留黑青、墨绿、深棕、灰褐等丰富层次",
+        "light_transition": "亮部由明确高光向柔和光泽渐进过渡，避免生硬数码边缘",
+        "atmosphere": "暗部被柔和空气感包裹，高光存在朦胧扩散，形成密集、湿润、梦幻、深邃的电影式光影氛围",
+        "light_interaction": "场景高光、材质反光、环境反射光、阴影与背景色必须统一为一个完整的光影系统"
+      }
+    }
+  },
+  "color_grading": {
+    "contrast": "中高对比度，但亮暗过渡必须柔和",
+    "saturation": "中低饱和，禁止鲜艳数码色",
+    "black_level": "深黑但不死黑，暗部保留层次与空气感",
+    "color_relationship": "暖调主体与冷暗环境形成克制而高级的色彩分离，避免明显商业LUT感"
+  },
+  "optical_texture": {
+    "rendering": "真实高端电影摄影机与玻璃镜头的自然光学质感",
+    "softness": "整体存在极轻微光学柔化，高光边缘自然扩散，避免临床式数字锐度",
+    "depth": "浅景深，场景主体清晰，背景迅速融化为低信息量暗色光影",
+    "diffusion": "轻微柔焦、soft bloom、subtle halation，尤其集中于高光和环境亮部",
+    "film_character": "极细腻35mm胶片颗粒、柔和highlight rolloff、自然暗部渐变",
+    "important": "胶片颗粒只是辅助纹理，不能取代核心的光影氛围和光学质感"
+  },
+  "style_keywords": "Midjourney 8.2 aesthetic, cinematic scene, artistic photorealism, sculptural light, atmospheric depth, deep detailed shadows, atmospheric darkness, warm subject against cool-dark environment, tactile surface texture, soft specular highlights, subtle bloom, delicate halation, organic optical softness, luxury editorial, dark moody atmosphere, dreamlike realism, refined tonal harmony",
+  "negative_prompt": "flat lighting, evenly illuminated scene, HDR look, plastic texture, CGI, 3D render, illustration, anime, harsh digital highlights, sharp white specular spots, crushed blacks, washed-out highlights, over-sharpening, oversaturated colors, excessive film grain, fake bokeh, sterile atmosphere, cutout subject, cheap cinematic LUT, exaggerated lens effects, cartoonish, artificial"
+}

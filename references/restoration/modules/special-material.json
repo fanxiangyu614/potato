@@ -1,0 +1,36 @@
+{
+  "module_name": "special-material",
+  "description": "特殊材质模块——玻璃、宝石、金属、缎面、半透明物、食物的反射与质感修复",
+  "glass": {
+    "preserve": "透明度、折射、反射、边缘厚度、气泡（如有）、玻璃厚度感",
+    "remove": "表面指纹、灰尘、水渍、划痕、反射杂影、边缘脏色、雾化感",
+    "rendering": "干净通透的玻璃质感，折射和反射符合物理规律，边缘清晰，无雾化无划痕"
+  },
+  "gemstone": {
+    "preserve": "刻面、火彩、透明度、颜色、内部包裹体（如有）、镶嵌结构",
+    "remove": "表面脏点、反射断裂、雾感、过曝死白、边缘锯齿、塑料感",
+    "rendering": "宝石内部通透，火彩自然，刻面反射清晰，颜色饱和但不溢出，镶嵌金属干净"
+  },
+  "metal": {
+    "preserve": "金属光泽、反射、纹理（拉丝/磨砂/抛光）、自然磨损、刻印",
+    "remove": "指纹、氧化斑、脏点、反射断裂、塑料感高光、边缘锯齿",
+    "rendering": "符合金属类型的反射特性，黄金暖反射、白银冷反射、铜合金偏红，拉丝纹理清晰"
+  },
+  "satin_silk": {
+    "preserve": "织物光泽、垂坠感、褶皱、颜色渐变、经纬纹理",
+    "remove": "塑料感反光、色带、摩尔纹、脏斑、过度锐化、色块断裂",
+    "rendering": "缎面丝绸有柔和的流动光泽，褶皱处明暗过渡自然，颜色渐变平滑无banding"
+  },
+  "translucent": {
+    "preserve": "半透明感、透光性、内部结构、边缘光晕、厚度感",
+    "remove": "表面脏点、内部杂质（非预期）、边缘锯齿、塑料感、过曝",
+    "rendering": "半透明材质有柔和的透光感，内部结构可见但不杂乱，边缘有自然的光线散射"
+  },
+  "food": {
+    "preserve": "食物纹理、颜色、光泽、汁水感、摆盘结构、食材细节",
+    "remove": "表面灰尘、异物、色块不均、塑料感、过曝高光、边缘锯齿",
+    "rendering": "食物有真实的质感和诱人的光泽，汁水自然，颜色新鲜，纹理清晰，不做塑料感美化"
+  },
+  "style_keywords": "clean glass, proper refraction, gemstone fire, realistic metal reflection, satin sheen, translucent glow, food texture, material accuracy, non-plastic surface, clean edges",
+  "negative_prompt": "fingerprints, dust, scratches, plastic look, fake reflection, overexposed highlights, dead white, opaque glass, muddy color, blocky texture, jagged edges, CGI material"
+}

@@ -1,0 +1,29 @@
+{
+  "presets": {
+    "light": {
+      "name": "弱",
+      "description": "仅去除明显脏点和压缩伪影，最大限度保留原图质感",
+      "scope": "随机斑点、轻微压缩伪影、细小灰尘、边缘微锯齿、轻微色带",
+      "intensity_modifier": "very light denoise cleanup, subtle cleanup, minimal intervention, preserve original material and surface texture, preserve fine and micro details, preserve original contrast, color relationships, lighting and shadow structure, no texture reconstruction",
+      "do_not": "不做纹理重建、不改变材质感、不调整光影、不过度平滑、不修复深度划痕"
+    },
+    "standard": {
+      "name": "中",
+      "description": "根据诊断执行中等清理，稳定受损纹理，保护仍完整的材质",
+      "scope": "脏点、污渍、灰雾、压缩伪影、锯齿、光晕、过度锐化、混乱高频细节、色块不均、表面脏斑",
+      "intensity_modifier": "moderate denoise cleanup, reduce visible noise, dirty speckles and color noise, stabilize damaged texture, controlled refined details, clean color transitions, natural shading, preserve original texture, lighting and shadow structure, local material regeneration only where needed",
+      "do_not": "不改变主体形状、不改变颜色、不改变灯光、不重新设计、不做超分辨率增强"
+    },
+    "deep": {
+      "name": "强",
+      "description": "重度脏图修复，允许更激进的纹理重建，但仍不改主体",
+      "scope": "密集异常高频纹理、虫状或重复伪纹理、大面积脏斑、重度色噪或压缩损伤、严重涂抹、蜡化塑料感、纹理丢失",
+      "intensity_modifier": "extreme denoise cleanup in damaged target regions, ultra aggressive removal of visible noise, dirty speckles, color noise, digital artifacts and dirty patches, strongly suppress messy high-frequency dirt, noisy micro-texture and unstable texture, regenerate physically plausible surfaces, preserve important real texture, identity, structure, original lighting and shadow structure",
+      "do_not": "不改变人物身份、不改变构图、不改变场景内容、不替换物体、不做风格化重绘、不添加原图没有的元素"
+    }
+  },
+  "selection_guide": {
+    "auto_rule": "必先分析问题位置、类型、范围、严重程度与真实材质可辨认程度，再选择足够的最低档。弱/light：轻微缺陷且细节完整；中/standard：明显缺陷但材质大部分可辨认；强/deep：密集伪纹理、严重涂抹或大面积受损。无明显缺陷不强行修复，无法确定的真实细节保留。主档只作用于目标缺陷，完整区域保护。",
+    "user_override": "用户指定强、中、弱优先，仍诊断但不自行升级。弱/轻度/light， 中/标准/standard，强/深度/deep 同义。老照片等类别不自动选强。"
+  }
+}

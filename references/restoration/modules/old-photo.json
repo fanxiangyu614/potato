@@ -1,0 +1,31 @@
+{
+  "module_name": "old-photo",
+  "description": "老照片与噪点修复模块——划痕、霉斑、褪色、高ISO噪点、夜景噪点的修复",
+  "scratches": {
+    "preserve": "照片内容、人物、场景、构图、年代感、合理的胶片颗粒",
+    "remove": "划痕、折痕、裂纹、白线、黑线、物理损伤痕迹",
+    "rendering": "修复后画面连续，损伤处用周围合理纹理填补，不产生模糊块或重复纹理"
+  },
+  "mold_stains": {
+    "preserve": "原始颜色、内容、光影、人物肤色",
+    "remove": "霉斑、污渍、水渍、黄变、氧化斑、局部变色",
+    "rendering": "霉斑污渍去除后颜色恢复自然，与周围区域过渡平滑，不留修复痕迹"
+  },
+  "fading": {
+    "preserve": "原始色板、光影关系、对比度、年代氛围",
+    "remove": "褪色、偏色、灰雾、对比度丢失、色彩断层",
+    "rendering": "恢复合理的色彩饱和度和对比度，但不强行现代化，保留老照片的色调氛围"
+  },
+  "high_iso_noise": {
+    "preserve": "画面内容、边缘细节、真实纹理、光影",
+    "remove": "高ISO噪点、彩色噪点、亮度噪点、夜景杂色、压缩伪影",
+    "rendering": "噪点去除后画面干净，边缘保持清晰，不产生塑料感或过度平滑，保留合理的胶片/数码颗粒"
+  },
+  "film_grain": {
+    "preserve": "自然的胶片颗粒、年代质感、照片氛围",
+    "remove": "异常颗粒、色块噪点、数字噪点、压缩伪影",
+    "rendering": "保留自然均匀的胶片颗粒，去除异常噪点，颗粒大小和密度符合胶片特性"
+  },
+  "style_keywords": "scratch-free, mold-free, restored color, noise reduction, clean old photo, preserved film grain, natural restoration, no artifacts, historical accuracy, clean details",
+  "negative_prompt": "scratches, mold, stains, yellowing, fading, high ISO noise, color noise, compression artifacts, over-smoothing, plastic look, modernized color, blurry details, duplicate texture"
+}

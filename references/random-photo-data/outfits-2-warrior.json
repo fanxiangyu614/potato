@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "outfit-2-001",
+    "name": "贴身侦察机甲",
+    "class_id": 2,
+    "subtype": "未来机甲",
+    "prompt": "采用用户当次身份参考的成年人物。深灰不透明弹性战斗底衣，胸背覆薄片护甲、髋部保留活动缝、软护膝与短靴；短发贴颈、灰色眼线，耳侧通信器。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "薄片胸背护甲",
+      "活动髋缝",
+      "耳侧通信器"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training",
+      "theme-2-bold-photo-moment",
+      "theme-2-megastructure-story"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-2-002",
+    "name": "轨道维修机甲",
+    "class_id": 2,
+    "subtype": "未来机甲",
+    "prompt": "采用用户当次身份参考的成年人物。全封闭贴身机能连身服外加胸前工具挂架，前臂磁吸式道具工具、加厚膝垫和抓地靴；低盘发、自然哑光妆，护目镜置额。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "胸前工具挂架",
+      "前臂道具工具",
+      "加厚膝垫"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "tool"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-repair",
+      "theme-2-rest"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-2-003",
+    "name": "光学潜行机甲",
+    "class_id": 2,
+    "subtype": "未来机甲",
+    "prompt": "采用用户当次身份参考的成年人物。哑光分区贴身战斗衣，斜向肩部轻甲与短兜帽、不透明腰腹、柔性踝靴；短侧分发、克制冷妆，腰后紧贴式模块。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "斜肩轻甲",
+      "短兜帽",
+      "腰后模块"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-004",
+    "name": "盾卫外骨骼",
+    "class_id": 2,
+    "subtype": "未来机甲",
+    "prompt": "采用用户当次身份参考的成年人物。不透明贴身底衣配厚肩甲和胸部骨架，手肘关节留空、重型平底靴；高束发、利落眼线，左臂固定轻量方盾。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "厚肩甲胸骨架",
+      "可活动手肘",
+      "左臂方盾"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "kneel"
+    ],
+    "props": [
+      "shield"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-archery",
+      "theme-2-ceremony",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "outfit-2-005",
+    "name": "救援医疗机甲",
+    "class_id": 2,
+    "subtype": "未来机甲",
+    "prompt": "采用用户当次身份参考的成年人物。柔性全身底衣配胸前救援识别块、肩部照明附件、腰侧药箱与宽底靴；编辫盘起、清爽淡妆，无武器。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "救援识别块",
+      "肩部照明附件",
+      "腰侧药箱"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-repair",
+      "theme-2-rest",
+      "theme-2-patrol"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "fresh"
+    ]
+  },
+  {
+    "id": "outfit-2-006",
+    "name": "沙漠防护机甲",
+    "class_id": 2,
+    "subtype": "未来机甲",
+    "prompt": "采用用户当次身份参考的成年人物。贴身不透明内服叠短防沙披肩、密封颈环与膝肘护片，防沙战靴；低束发、暖棕眼妆，护目镜及可放下的面罩。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短防沙披肩",
+      "密封颈环",
+      "护目镜面罩"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-2-007",
+    "name": "夜间城市特工",
+    "class_id": 2,
+    "subtype": "现代特工",
+    "prompt": "采用用户当次身份参考的成年人物。黑色短皮夹克配有支撑背心、弹性直筒战术长裤与软底短靴，枪套紧贴腰侧；高马尾、细长眼线、窄通信耳机。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短皮夹克",
+      "弹性战术长裤",
+      "窄通信耳机"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "dark",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-2-008",
+    "name": "商务潜入特工",
+    "class_id": 2,
+    "subtype": "现代特工",
+    "prompt": "采用用户当次身份参考的成年人物。合身双排扣西装与直筒长裤，白色衬衫完整扣合，低跟皮鞋和小道具公文箱；低髻、自然职业妆，腕表不带装饰堆叠。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "双排扣西装",
+      "低跟皮鞋",
+      "道具公文箱"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-patrol"
+    ],
+    "styling_families": [
+      "elegant",
+      "dark",
+      "martial"
+    ]
+  },
+  {
+    "id": "outfit-2-009",
+    "name": "机车追踪特工",
+    "class_id": 2,
+    "subtype": "现代特工",
+    "prompt": "采用用户当次身份参考的成年人物。短款机车夹克外壳配不透明长袖内衣、护膝长裤和防滑靴；编辫收于领后、简洁眉眼，配完整头盔。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "机车夹克",
+      "护膝长裤",
+      "完整头盔"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "helmet"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "street",
+      "martial",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-010",
+    "name": "潜水登陆特工",
+    "class_id": 2,
+    "subtype": "现代特工",
+    "prompt": "采用用户当次身份参考的成年人物。不透明长袖长裤潜水服、织带腰封与防滑潜水短靴，装备贴身固定；头发束入软帽、淡妆，潜水面镜挂于颈前。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "完整潜水服",
+      "织带腰封",
+      "潜水面镜"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "mask"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "athletic",
+      "martial",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-011",
+    "name": "无线电侦听特工",
+    "class_id": 2,
+    "subtype": "现代特工",
+    "prompt": "采用用户当次身份参考的成年人物。短防风衣、针织内衫和多袋宽腿工装裤，平底运动靴；耳下短发、淡棕眼妆，腰侧无线电道具与单耳监听器。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "多袋工装裤",
+      "无线电道具",
+      "单耳监听器"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "radio"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-communication",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "dark",
+      "futuristic"
+    ]
+  },
+  {
+    "id": "outfit-2-012",
+    "name": "伪装随行保镖",
+    "class_id": 2,
+    "subtype": "现代特工",
+    "prompt": "采用用户当次身份参考的成年人物。立领短外套配完整覆盖的弹性衬衫、锥形西裤和抓地皮鞋，袖口便于活动；利落低马尾、干净职业妆，透明通信耳管。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "立领短外套",
+      "锥形西裤",
+      "透明通信耳管"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "martial"
+    ]
+  },
+  {
+    "id": "outfit-2-013",
+    "name": "浪人佩刀旅装",
+    "class_id": 2,
+    "subtype": "武士",
+    "prompt": "采用用户当次身份参考的成年人物。窄袖交领和衣配宽袴、软腰带和绑腿，草履有稳固底；高束发、自然淡妆，肩披短斗篷，腰侧佩带鞘轻量刀。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "窄袖宽袴",
+      "短斗篷",
+      "带鞘佩刀"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-performance",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-014",
+    "name": "女武者轻甲",
+    "class_id": 2,
+    "subtype": "武士",
+    "prompt": "采用用户当次身份参考的成年人物。交领内衣配分片胸甲、短肩甲和开片裙甲，内层长裤与平底战靴；编辫盘束、清利眼线，轻量长刀挂在腰侧。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "分片胸甲",
+      "开片裙甲长裤",
+      "编辫盘束"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-archery",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-2-015",
+    "name": "道场练习武士",
+    "class_id": 2,
+    "subtype": "武士",
+    "prompt": "采用用户当次身份参考的成年人物。白色交领练习衣、深色宽袴和宽腰带，袖口收束、软底练习鞋；高髻、极淡妆，配圆钝木制练习刀。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "交领练习衣",
+      "宽袴宽腰带",
+      "木制练习刀"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-performance",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "athletic",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-2-016",
+    "name": "雪地披蓑剑客",
+    "class_id": 2,
+    "subtype": "武士",
+    "prompt": "采用用户当次身份参考的成年人物。厚交领短棉衣配窄腿布裤、绑腿靴，外披轻量草蓑；头戴可见脸部的笠帽、低束发、自然妆，腰侧带鞘刀。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "草蓑笠帽",
+      "窄腿绑腿靴",
+      "腰侧带鞘刀"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "sword",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-017",
+    "name": "仪仗铠武者",
+    "class_id": 2,
+    "subtype": "武士",
+    "prompt": "采用用户当次身份参考的成年人物。深色交领内衣上套轻量层叠胸甲、大袖肩甲与长裙甲，平底厚靴；高束发、收敛眼妆，配装饰头盔，佩刀不出鞘。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "层叠胸甲",
+      "大袖肩甲长裙甲",
+      "装饰头盔"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-performance",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-2-018",
+    "name": "行脚护送剑客",
+    "class_id": 2,
+    "subtype": "武士",
+    "prompt": "采用用户当次身份参考的成年人物。交领长衫缩短至膝下，分腿长裤、布腰带、绑腿鞋和斜挎小行囊；半束发、自然暖妆，轻量刀挂腰侧。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "膝下行脚长衫",
+      "斜挎行囊",
+      "绑腿鞋"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword",
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-2-019",
+    "name": "旧上海情报员",
+    "class_id": 2,
+    "subtype": "谍战",
+    "prompt": "采用用户当次身份参考的成年人物。及膝立领旗袍配合身短呢外套与低跟鞋，开衩克制且有内层；齐颈波浪短发、细眉红唇，配文件册，胸针简洁。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "旗袍短呢外套",
+      "波浪短发",
+      "文件册"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "classical",
+      "elegant",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-020",
+    "name": "战时电台译员",
+    "class_id": 2,
+    "subtype": "谍战",
+    "prompt": "采用用户当次身份参考的成年人物。长袖衬衫外搭针织背心、高腰宽腿长裤与系带皮鞋；盘辫发髻、淡妆，斜挎无线电道具包，耳机放于颈前。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "针织背心宽腿裤",
+      "无线电包",
+      "颈前耳机"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "radio"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-communication",
+      "theme-2-rest"
+    ],
+    "styling_families": [
+      "classical",
+      "martial",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-021",
+    "name": "车站接头旅客",
+    "class_id": 2,
+    "subtype": "谍战",
+    "prompt": "采用用户当次身份参考的成年人物。收腰长风衣、衬衫领裙与低跟短靴，宽腰带固定外衣；软毡帽遮阳而不遮脸、低盘发、克制红唇，配硬壳道具旅行箱。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "收腰长风衣",
+      "软毡帽",
+      "硬壳旅行箱"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "case",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-patrol"
+    ],
+    "styling_families": [
+      "classical",
+      "elegant",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-2-022",
+    "name": "暗房侦查记者",
+    "class_id": 2,
+    "subtype": "谍战",
+    "prompt": "采用用户当次身份参考的成年人物。短猎装外套与高腰长裤、衬衫和系带鞋，斜挎相机道具；卷发夹于耳后、自然妆，腰带带少量胶卷盒。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短猎装",
+      "斜挎相机",
+      "高腰长裤"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "camera"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "classical",
+      "street",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-023",
+    "name": "军装文职情报员",
+    "class_id": 2,
+    "subtype": "谍战",
+    "prompt": "采用用户当次身份参考的成年人物。立领合身文职制服配及膝直裙和低跟鞋，前襟规整、无真实组织徽标；头发盘髻、简洁职业妆，配套道具文件夹，持用方式按本次活动。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "立领文职制服",
+      "及膝直裙",
+      "道具文件夹"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-communication",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "classical",
+      "martial",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-2-024",
+    "name": "隐蔽交通员",
+    "class_id": 2,
+    "subtype": "谍战",
+    "prompt": "采用用户当次身份参考的成年人物。朴素布短袄、深色直筒长裤与布鞋，斜挎邮差式布包；粗辫盘起、自然淡妆，袖口和裤脚方便赶路。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "布短袄长裤",
+      "邮差式布包",
+      "粗辫盘束"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-patrol"
+    ],
+    "styling_families": [
+      "classical",
+      "street",
+      "martial"
+    ]
+  },
+  {
+    "id": "outfit-2-025",
+    "name": "霓虹街头护卫",
+    "class_id": 2,
+    "subtype": "炫酷战士",
+    "prompt": "采用用户当次身份参考的成年人物。无袖短机能马甲叠不透明弹性长袖、带扣工装长裤和厚底靴；不对称短发、金属色细眼线，前臂护具与圆钝道具短棍。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短机能马甲",
+      "带扣工装裤",
+      "前臂护具"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "street",
+      "futuristic",
+      "martial"
+    ]
+  },
+  {
+    "id": "outfit-2-026",
+    "name": "蒸汽机械守卫",
+    "class_id": 2,
+    "subtype": "炫酷战士",
+    "prompt": "采用用户当次身份参考的成年人物。高领衬衫、收腰皮革马甲和厚呢短外套，宽腿长裤、系带靴；卷发束髻、暖棕妆，铜色护目镜与轻量机械道具枪。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "皮革马甲厚呢外套",
+      "铜色护目镜",
+      "机械道具枪"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "classical",
+      "futuristic",
+      "martial"
+    ]
+  },
+  {
+    "id": "outfit-2-027",
+    "name": "荒原骑手护卫",
+    "class_id": 2,
+    "subtype": "炫酷战士",
+    "prompt": "采用用户当次身份参考的成年人物。短耐磨夹克、完整覆盖的针织内衣与拼接长裤，护膝和平底靴；低束辫、自然暖妆，围巾收在领内，配头盔。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "耐磨短夹克",
+      "拼接护膝长裤",
+      "完整头盔"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "helmet"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "street",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-2-028",
+    "name": "月面巡逻员",
+    "class_id": 2,
+    "subtype": "炫酷战士",
+    "prompt": "采用用户当次身份参考的成年人物。不透明柔性连身衣叠轻量肩胸护甲，密封式短领、宽底磁靴和背部小模块；银灰短发、冷色淡妆，透明面罩收起露出脸。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "肩胸轻甲",
+      "宽底磁靴",
+      "可收起透明面罩"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-alert",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-patrol",
+      "theme-2-repair",
+      "theme-2-rest",
+      "theme-2-training",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "martial",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-2-029",
+    "name": "森林斥候",
+    "class_id": 2,
+    "subtype": "炫酷战士",
+    "prompt": "采用用户当次身份参考的成年人物。短斗篷、束袖交领衣与耐磨长裤，软腰带和软底靴；编辫、自然妆，轻量道具弓与空箭筒固定背侧。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "束袖短斗篷",
+      "道具弓空箭筒",
+      "软底靴"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "bow"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-archery",
+      "theme-2-ceremony",
+      "theme-2-rest"
+    ],
+    "styling_families": [
+      "fantasy",
+      "martial",
+      "fresh"
+    ]
+  },
+  {
+    "id": "outfit-2-030",
+    "name": "都市剑道巡游者",
+    "class_id": 2,
+    "subtype": "炫酷战士",
+    "prompt": "采用用户当次身份参考的成年人物。短款宽肩夹克叠交领内衣、分片裙裤和高帮鞋，腰带悬轻量带鞘刀；高马尾、清利眼线，金属扣只留几处识别大形。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽肩夹克交领内衣",
+      "分片裙裤",
+      "高帮鞋带鞘刀"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-drawblade",
+      "theme-2-performance",
+      "theme-2-rest",
+      "theme-2-training"
+    ],
+    "styling_families": [
+      "martial",
+      "street",
+      "elegant"
+    ]
+  },
+  {
+    "id": "WEB-WAR-ARCHER",
+    "name": "森林游侠·枝冠护臂",
+    "class_id": 2,
+    "subtype": "幻想弓手",
+    "prompt": "成年森林游侠：树枝冠、深紫长衣与浅绿袖套，短披风，软质护臂与平底靴；道具箭杆配轻型弓，长衣两侧留步行余量，头发仍服从用户身份与妆造要求。",
+    "recognition_points": [
+      "树枝冠",
+      "浅绿护臂",
+      "轻弓与箭杆"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bow",
+      "arrow"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "hybrid",
+      "source_ids": [
+        "web-sdcc-huntress"
+      ],
+      "adaptation": "从枝冠、紫衣和袖套提炼，弓、靴及活动剪裁为原创；不是来源角色还原",
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-archery",
+      "theme-2-ceremony",
+      "theme-2-rest"
+    ],
+    "styling_families": [
+      "fantasy",
+      "martial",
+      "fresh"
+    ]
+  },
+  {
+    "id": "WEB-WAR-CRIMSON",
+    "name": "赤曜术士·战术袍装",
+    "class_id": 2,
+    "subtype": "幻想术战",
+    "prompt": "成年术士战士：暗红分片胸身与护腕，尖形额饰，腰下配侧开战术袍片与不透明长裤、平底战靴；分片大形保持灵活肘肩，具体手势由本张姿势决定。",
+    "recognition_points": [
+      "暗红分片胸身",
+      "尖形额饰",
+      "袍片与战靴"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "hybrid",
+      "source_ids": [
+        "web-sdcc-scarlet"
+      ],
+      "adaptation": "借实拍胸身；下装、护腕与战术轮廓原创，不称官方角色",
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-2-ceremony",
+      "theme-2-combat",
+      "theme-2-rest",
+      "theme-2-training",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "fantasy",
+      "martial",
+      "dark"
+    ]
+  },
+  {
+    "id": "style-outfit-F015",
+    "name": "中式复古武馆训练服·原创衣装方案",
+    "class_id": 2,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿棉麻对襟练功上衣、宽松练功长裤与布鞋；干净淡妆、紧实束发。识别配件为盘扣、束袖、棉麻腰带。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "盘扣",
+      "束袖",
+      "棉麻腰带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-2-performance",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "athletic"
+    ],
+    "style_affinities": [
+      "F015"
+    ]
+  }
+]

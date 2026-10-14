@@ -1,0 +1,6610 @@
+[
+  {
+    "id": "location-001",
+    "name": "白色无缝棚",
+    "prompt": "白色无缝背景与平整承重棚地，侧上方棚灯供光；一把稳固无轮椅可坐，人物与背景保持距离。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-002",
+    "name": "灰色素墙棚",
+    "prompt": "灰色实体素墙旁有平整棚地，顶侧棚灯可形成方向光；墙可轻倚，固定靠背椅可坐，无杂物。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-003",
+    "name": "黑色幕布棚",
+    "prompt": "黑色幕布悬在人物后方，前方承重硬地保持净空，侧面条形灯供光；独立固定椅可坐，不倚幕布。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-004",
+    "name": "木地板窗光棚",
+    "prompt": "摄影棚一侧为大窗、另一侧为实体墙，木地板平整干燥；窗光侧入，低木凳可坐，墙面可轻倚。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-005",
+    "name": "台阶摄影布景",
+    "prompt": "棚内宽木台阶为承重布景，两级低阶与固定扶栏相接；顶侧棚灯供光，阶面防滑，人物留在护栏内。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-006",
+    "name": "漫展入口广场",
+    "prompt": "展馆入口外为宽阔平整石地，建筑侧影和日光形成明暗；边缘固定长椅可坐，人物不挡通行。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "location-007",
+    "name": "漫展摄影区",
+    "prompt": "会场划定的摄影角有中性背景板、硬地和固定椅，展馆顶灯加摄影灯供光；人物前后有道具净空。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-008",
+    "name": "展馆落地窗边",
+    "prompt": "展馆落地窗内侧为平整石地，窗光从侧面入射；固定软垫长凳可坐，玻璃不作为倚靠支撑。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-009",
+    "name": "展馆连廊",
+    "prompt": "宽连廊两侧为实体墙与高窗，白昼侧窗光落在硬地；墙边固定长凳可坐，通道中央保持畅通。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-010",
+    "name": "展位休息角",
+    "prompt": "展位后方休息角有平整硬地、稳固椅和固定桌，展馆灯供光；桌上放场刊与空纸杯，不坐桌面。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book",
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-011",
+    "name": "舞台后台通道",
+    "prompt": "后台实体墙走道保持净空，顶灯与门口漏光形成方向；平整地面可走，固定椅可坐，远离线缆。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "theatre_backstage"
+    ]
+  },
+  {
+    "id": "location-012",
+    "name": "同人书摊外侧",
+    "prompt": "书摊外侧有干燥平地、稳固桌椅与道具书册，展馆顶灯供光；人物站在摊位侧方，不阻挡队列。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-013",
+    "name": "道具展示空地",
+    "prompt": "道具展示区旁留出宽阔硬地，无悬挂物进入人物动作范围；顶侧灯供光，边缘长凳可休息。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-014",
+    "name": "酒店大堂侧厅",
+    "prompt": "酒店侧厅为平整石地与固定软椅，侧窗和壁灯供光；矮桌可放空杯，椅子可坐，背景远处有通道。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-015",
+    "name": "酒店窗边会客角",
+    "prompt": "窗边会客角有承重地板、稳固单椅和矮桌，窗光侧入；桌上小书与空杯，窗玻璃不承担身体重量。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book",
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-016",
+    "name": "复古餐厅卡座",
+    "prompt": "餐厅固定卡座与木桌之间留出腿部空间，吊灯与窗光供光；地面干燥，桌上空杯，座垫可承重。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-017",
+    "name": "游戏厅休息区",
+    "prompt": "游戏厅边缘有固定长凳与平整硬地，机台屏幕光和顶灯照亮局部；拍摄位置远离活动设备。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "arcade"
+    ]
+  },
+  {
+    "id": "location-018",
+    "name": "复古车站候车厅",
+    "prompt": "高窗车站候车厅有石地、实体墙和固定木长椅，日光从高处斜入；座边放道具报刊册，轨道不入拍摄区。",
+    "eras": [
+      "historical",
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-019",
+    "name": "红砖街角",
+    "prompt": "街角实体红砖墙前是干燥人行道与低宽门阶，日光从街口照入；墙可轻倚，阶面可坐，避开道路。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior",
+      "urban_street"
+    ]
+  },
+  {
+    "id": "location-020",
+    "name": "空置工业摄影棚",
+    "prompt": "工业棚有平整水泥地、实体墙与稳固椅，侧高窗和棚灯供光；无运行机械，人物动作区净空。",
+    "eras": [
+      "modern",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-021",
+    "name": "未来维修舱布景",
+    "prompt": "未来维修舱的实体布景有平整金属外观承重地台、稳固椅与工作桌，侧面灯带供光；桌上圆钝工具道具。",
+    "eras": [
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "tool"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "location-022",
+    "name": "未来机库步道",
+    "prompt": "机库布景步道有宽承重地台、固定护栏和边缘低凳，顶侧工作灯供光；护栏内侧净空，不站设备上。",
+    "eras": [
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "location-023",
+    "name": "未来通信控制室",
+    "prompt": "控制室布景有硬质承重地板、固定操作桌与椅，屏幕及顶灯供光；桌上道具无线电和记录册。",
+    "eras": [
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "radio",
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "location-024",
+    "name": "未来观察甲板",
+    "prompt": "观察甲板布景为宽阔承重平台，固定护栏与长凳设在内侧；侧窗外光配顶灯，背景空间远离人物。",
+    "eras": [
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "space",
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-025",
+    "name": "未来医疗站",
+    "prompt": "医疗站布景有清洁硬地、固定椅、稳固检查床与桌，顶侧灯供光；桌旁放道具药箱，不演示医疗操作。",
+    "eras": [
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bed",
+      "table"
+    ],
+    "props": [
+      "case"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "space",
+      "medical_scifi"
+    ]
+  },
+  {
+    "id": "location-026",
+    "name": "未来训练平台",
+    "prompt": "未来训练区布景铺平整防滑地面，实体墙和固定长凳位于边缘；顶侧工作灯供光，中央无障碍可活动。",
+    "eras": [
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "location-027",
+    "name": "地下情报会客室",
+    "prompt": "封闭会客室有稳固桌椅、平整木地板与实体墙，桌灯侧照人物；桌旁有文件册和道具公文箱。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book",
+      "case"
+    ],
+    "allowed_classes": [
+      1,
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-028",
+    "name": "都市屋顶护栏内",
+    "prompt": "屋顶固定护栏内有宽阔干燥硬地和稳固长凳，城市灯与顶部工作灯供光；人物远离边沿，护栏仅轻扶。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "location-029",
+    "name": "道场练习区",
+    "prompt": "道场木地板平整防滑，侧面纸窗透入日光，墙边低凳可坐；中央有足够动作净空，圆钝练习刀置架上。",
+    "eras": [
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "bench"
+    ],
+    "props": [
+      "sword"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "dojo",
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-030",
+    "name": "旧城茶馆侧厅",
+    "prompt": "旧式茶馆侧厅有干燥木地板、稳固木椅与茶桌，窗光斜入；桌上空茶杯与小书册，桌面只作轻扶。",
+    "eras": [
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup",
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior",
+      "old_room"
+    ]
+  },
+  {
+    "id": "location-031",
+    "name": "战时电台布景室",
+    "prompt": "历史题材电台布景为稳固木桌椅和承重硬地，窗光与桌灯供光；桌上无线电道具和记录册，无真实组织徽标。",
+    "eras": [
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "radio",
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-032",
+    "name": "老式暗房门口",
+    "prompt": "摄影暗房门口有平整地面、实体墙和固定椅，门口工作灯供光；挂架上有道具相机，人物不进入黑暗操作区。",
+    "eras": [
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "chair"
+    ],
+    "props": [
+      "camera"
+    ],
+    "allowed_classes": [
+      1,
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-033",
+    "name": "山地营地平台",
+    "prompt": "营地平整木平台与坡地隔开，固定低凳和桌可承重；日光从侧面树隙落下，桌上空杯、边缘有布包。",
+    "eras": [
+      "modern",
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "cup",
+      "bag"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "mountain_landscape",
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-034",
+    "name": "荒原驿站布景",
+    "prompt": "荒原驿站布景以平整硬地、实体墙和木长凳构成，侧面日光入射；地面无碎石，墙可轻倚，远景留空。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "desert"
+    ]
+  },
+  {
+    "id": "location-035",
+    "name": "森林哨站台地",
+    "prompt": "林间哨站为宽平木台地、固定护栏和长凳，树间日光从侧后方进入；人物在平台内侧，远离高差。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-036",
+    "name": "舞蹈镜墙练习室",
+    "prompt": "练习室防滑地板留出宽阔净空，侧窗和顶灯供光；边缘固定长凳可坐，镜墙不能倚靠承重。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-037",
+    "name": "排练厅墙边",
+    "prompt": "排练厅实体墙前有防滑平地、无轮稳固椅，窗光侧入；墙可轻倚，动作范围避开音响线缆。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "music_workshop",
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-038",
+    "name": "小型音乐舞台",
+    "prompt": "低舞台承重地板与宽防滑台阶相连，侧上方舞台灯供光；边缘固定凳可坐，道具吉他置架上。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "bench"
+    ],
+    "props": [
+      "guitar"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "nightlife",
+      "music_workshop",
+      "music_stage"
+    ]
+  },
+  {
+    "id": "location-039",
+    "name": "后台化妆等候区",
+    "prompt": "后台化妆区有稳固椅、固定台面和平整地板，镜旁灯与顶灯供光；桌面清空，人物可坐或轻扶台沿。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "theatre_backstage"
+    ]
+  },
+  {
+    "id": "location-040",
+    "name": "唱片店试听角",
+    "prompt": "唱片店角落有稳固单椅、矮桌和硬地，侧窗光与顶灯供光；桌上有纸套道具唱片，试听设备留在背景。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "record"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-041",
+    "name": "时装发布会侧台",
+    "prompt": "发布会侧台有防滑硬地、低宽台阶和固定椅，侧顶灯供光；远离行走主通道，服装前后留净空。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-042",
+    "name": "机场室内候机角",
+    "prompt": "候机角有固定长椅、平整干燥地面和侧面落地窗，日光进入；人物不坐行李或窗台，通道留空。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior",
+      "airport_lounge"
+    ]
+  },
+  {
+    "id": "location-043",
+    "name": "现代车站连廊",
+    "prompt": "车站宽连廊有实体墙、承重硬地和固定长凳，顶灯与侧高窗供光；拍摄避开闸机队列。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-044",
+    "name": "城市服装店外",
+    "prompt": "服装店外侧是干燥人行道、实体墙和低门阶，店内橱窗灯照亮局部；人物不倚玻璃，避开车道。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "retail",
+      "urban_exterior",
+      "urban_street"
+    ]
+  },
+  {
+    "id": "location-045",
+    "name": "商场宽楼梯平台",
+    "prompt": "商场宽楼梯平台有固定护栏和防滑低阶，顶灯与侧窗供光；站在宽平台或坐宽阶，避开出入口。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-046",
+    "name": "现代美术馆大厅",
+    "prompt": "美术馆大厅硬地平整，实体墙和固定长凳位于侧面，高窗日光进入；人物不触碰展品。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-047",
+    "name": "红色幕布演出厅",
+    "prompt": "演出厅前区有平整硬地、固定椅与低宽阶，顶侧工作灯供光；红幕布作远背景，不作为身体支撑。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "nightlife",
+      "music_workshop",
+      "auditorium"
+    ]
+  },
+  {
+    "id": "location-048",
+    "name": "台球厅休息角",
+    "prompt": "休息角稳固椅与侧桌位于平整硬地上，吊灯供光；桌上空杯，球台只在远处，不坐球台。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-049",
+    "name": "运动场边看台",
+    "prompt": "运动场看台低层宽阶防滑，固定扶栏围住平台，日光侧入；拍摄范围远离运动轨迹，可坐宽阶。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "sports_field"
+    ]
+  },
+  {
+    "id": "location-050",
+    "name": "城市人行天桥",
+    "prompt": "天桥宽步道地面干燥，固定护栏与中段长凳可用，日光斜照；人物靠内侧拍摄，不攀护栏。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "location-051",
+    "name": "居家窗边客厅",
+    "prompt": "客厅木地板平整，固定沙发、椅和矮桌承重稳定，侧窗日光入射；桌上书册和空杯，不坐窗台。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "cup",
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-052",
+    "name": "居家餐桌角",
+    "prompt": "餐桌角有稳固木桌椅与干燥承重地板，侧窗和吊灯供光；桌上空杯、合拢书册，桌面供轻扶。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup",
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-053",
+    "name": "居家阅读卧室",
+    "prompt": "成年人的日常卧室有稳固床与单椅、干燥地板，侧窗与台灯供光；书放桌面，床上仅自然坐姿，不加入色情情境。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bed",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-054",
+    "name": "居家厨房外侧",
+    "prompt": "厨房外侧是干燥防滑地面与稳固餐桌椅，窗光侧入；台面有木勺和空杯，人物远离热源与刀具。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "tool",
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-055",
+    "name": "阳台园艺角",
+    "prompt": "封闭阳台平整干燥地面上放稳固椅和工作桌，侧窗日光供光；桌上圆钝园艺工具和盆花，不倚玻璃。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "tool",
+      "flower"
+    ],
+    "allowed_classes": [
+      1,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-056",
+    "name": "大学图书馆阅览角",
+    "prompt": "大学阅览区有固定桌椅和平整地板，高窗日光与阅读灯供光；桌上借阅书册，采用成年人的校园日常场景。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-057",
+    "name": "大学社团排练间",
+    "prompt": "大学社团排练间铺平整防滑地板，边缘稳固椅凳可坐，窗光与顶灯供光；道具吉他置架，线缆收好。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench"
+    ],
+    "props": [
+      "guitar"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "music_workshop",
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-058",
+    "name": "大学写生教室",
+    "prompt": "大学写生教室有承重地板、稳固桌椅，侧面高窗供光；桌上写生本和圆钝木工具，成年学习者场景。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book",
+      "tool"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-059",
+    "name": "河畔步道内侧",
+    "prompt": "河畔宽步道干燥平整，固定护栏与长椅位于内侧，日光从河面侧进入；远离水边缺口，不攀栏杆。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-060",
+    "name": "公园草地木平台",
+    "prompt": "公园木平台平整承重，固定长凳与桌置于草地边，日光经过树冠进入；桌旁放空野餐篮，地面不湿滑。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "basket"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-061",
+    "name": "街角花店外廊",
+    "prompt": "花店外廊有干燥平地、实体墙和固定长凳，日光从檐下侧入；边缘花桶提供一束道具花，保留通行空间。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "bench"
+    ],
+    "props": [
+      "flower"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior",
+      "urban_street"
+    ]
+  },
+  {
+    "id": "location-062",
+    "name": "书店靠窗书桌",
+    "prompt": "书店窗边稳固书桌椅置于平整地板，侧窗日光供光；桌上书册，书架在背景，不攀书架。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-063",
+    "name": "陶艺工作室休息区",
+    "prompt": "陶艺室休息区干燥平整，有稳固椅与工作桌，窗光侧入；桌上圆钝木工具，避开转动设备与湿泥地。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "tool"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-064",
+    "name": "乡间果园小径",
+    "prompt": "果园小径以平整干地铺设，旁设稳固木凳和桌，树隙日光入射；桌边空篮和草帽，拍摄处无坑洼。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "basket",
+      "hat"
+    ],
+    "allowed_classes": [
+      1,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior",
+      "rural_exterior"
+    ]
+  },
+  {
+    "id": "location-065",
+    "name": "乡间院落茶桌",
+    "prompt": "院落干燥石地上有稳固木椅和茶桌，檐下侧光入射；桌上空茶杯与单枝花，台阶与地面高差清楚。",
+    "eras": [
+      "modern",
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup",
+      "flower"
+    ],
+    "allowed_classes": [
+      1,
+      4,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "rural_exterior"
+    ]
+  },
+  {
+    "id": "location-066",
+    "name": "宴会厅侧廊",
+    "prompt": "宴会厅侧廊平整地面与实体墙相接，壁灯侧照人物，固定椅可坐；远离宴会行走主线，墙可轻倚。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-067",
+    "name": "酒店公共露台",
+    "prompt": "酒店公共露台有干燥承重硬地、固定护栏与稳固桌椅，日光及壁灯供光；桌上空杯，人物留在内侧。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-068",
+    "name": "剧院门厅侧区",
+    "prompt": "剧院门厅有平整石地、固定长凳与低宽阶，顶灯和玻璃门外光供光；座位可承重，门前通道留空。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-069",
+    "name": "泳池外干燥休息区",
+    "prompt": "泳池外的干燥防滑休息区设稳固躺椅与长凳、边桌，日光侧入；空杯放桌上，拍摄与水面保持距离。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "poolside"
+    ]
+  },
+  {
+    "id": "location-070",
+    "name": "海边度假步道",
+    "prompt": "海边木步道宽而干燥，固定护栏与长凳位于内侧，海面反光配日光；人物不走湿沙或靠近浪线。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "coast"
+    ]
+  },
+  {
+    "id": "location-071",
+    "name": "度假花园凉亭",
+    "prompt": "花园凉亭有承重干燥木地板与稳固桌椅，日光从侧面穿入；柱间净空充足，不倚装饰花架。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-072",
+    "name": "网球场外休息角",
+    "prompt": "球场外防滑平地配固定长凳与护栏，日光侧照；边缘放道具球拍与轻球，远离真实击球范围。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "rail"
+    ],
+    "props": [
+      "racket",
+      "ball"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "sports_field"
+    ]
+  },
+  {
+    "id": "location-073",
+    "name": "拳击馆训练空区",
+    "prompt": "训练空区有平整防滑地面、实体墙和固定长凳，顶侧灯供光；道具拳套放凳旁，不进入对练或绳索区。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [
+      "gloves"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-074",
+    "name": "复古酒店会客厅",
+    "prompt": "会客厅稳固弧背椅与矮桌置于干燥木地板，侧窗和台灯供光；桌上空杯，人物留在家具前方。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior",
+      "old_room"
+    ]
+  },
+  {
+    "id": "location-075",
+    "name": "宴会更衣等候区",
+    "prompt": "宴会后台等候区有固定椅、实体墙和干燥地面，侧顶工作灯供光；无更衣行为，衣着完整拍摄，墙可轻倚。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "theatre_backstage"
+    ]
+  },
+  {
+    "id": "location-076",
+    "name": "古风庭院石地",
+    "prompt": "庭院干燥石地连接低宽石阶，实体墙与稳固石凳可用，檐下侧光入射；小扇置凳边，远离水池。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "steps",
+      "wall"
+    ],
+    "props": [
+      "fan"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-077",
+    "name": "古风回廊",
+    "prompt": "回廊木地板平整，固定栏杆与长凳位于内侧，侧面天光从柱间进入；不坐栏杆，不依靠可移动屏风。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-078",
+    "name": "宫廷礼仪前厅布景",
+    "prompt": "宫廷前厅布景有宽硬地、稳固木椅和低宽台阶，侧窗透入日光；长衣有行走余量，台阶可坐。",
+    "eras": [
+      "historical"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior",
+      "palace"
+    ]
+  },
+  {
+    "id": "location-079",
+    "name": "古风书房布景",
+    "prompt": "书房布景木地板承重稳定，固定书桌椅与侧窗相邻，窗光加桌灯供光；桌上卷册和折扇，不攀书架。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book",
+      "fan"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-080",
+    "name": "竹林干燥小径",
+    "prompt": "竹林小径取平整干燥路段，路旁稳固木凳可坐，树隙日光侧入；人物远离竹根与坡边。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "bamboo_path",
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-081",
+    "name": "山门宽阶平台",
+    "prompt": "山门下宽承重石平台与低宽阶相接，固定护栏设在内侧，日光从门口斜入；不在高处边缘摆姿势。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-082",
+    "name": "仙门练剑庭布景",
+    "prompt": "仙门庭院布景有平整防滑硬地、实体墙和稳固长凳，侧面天光进入；道具木剑放架上，中央净空足够。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [
+      "sword"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-083",
+    "name": "炼丹书案布景室",
+    "prompt": "炼丹主题布景只有稳固书案椅、平整地面与封闭道具箱，窗光侧入；桌上道具书册，无真实火焰或烟雾。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "book",
+      "case"
+    ],
+    "allowed_classes": [
+      1,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-084",
+    "name": "仙门琴室布景",
+    "prompt": "琴室布景木地板平整，固定椅凳与琴桌可用，侧窗天光入射；桌上轻量古琴道具，不把桌面作坐席。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "table"
+    ],
+    "props": [
+      "instrument"
+    ],
+    "allowed_classes": [
+      1,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-085",
+    "name": "山居木屋门前",
+    "prompt": "木屋门前为宽干燥承重地台、低阶与固定长凳，日光从檐侧入射；实体墙可轻倚，凳上有小书册。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "steps",
+      "wall"
+    ],
+    "props": [
+      "book"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "rural_exterior"
+    ]
+  },
+  {
+    "id": "location-086",
+    "name": "古风茶亭",
+    "prompt": "茶亭木平台平整干燥，稳固桌椅设在柱间，侧面日光入射；桌上空茶杯，拍摄处无临水缺口。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [
+      "cup"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-087",
+    "name": "荷塘栈道内平台",
+    "prompt": "荷塘栈道取护栏完整的宽平台，干燥防滑地面和固定长凳可用，日光从水面侧入；空篮置凳边，远离栏边。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [
+      "basket"
+    ],
+    "allowed_classes": [
+      1,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-088",
+    "name": "雪山驿亭布景",
+    "prompt": "雪山主题驿亭布景的拍摄地面干燥防滑，实体墙与稳固木凳可用；侧面外光入射，雪仅在远景装饰区。",
+    "eras": [
+      "historical",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "mountain_landscape"
+    ]
+  },
+  {
+    "id": "location-089",
+    "name": "神话礼台布景",
+    "prompt": "神话礼台布景为宽承重平台、低防滑台阶与边缘固定凳，侧上方灯供光；无真实宗教标识与危险高差。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-090",
+    "name": "林间灵境木台",
+    "prompt": "林间灵境布景为宽平木台、固定护栏和长凳，侧面天光经过树冠进入；单枝道具花置凳边，不踏植被或悬空。",
+    "eras": [
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "rail"
+    ],
+    "props": [
+      "flower"
+    ],
+    "allowed_classes": [
+      1,
+      2,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "WEB-LOC-ATRIUM",
+    "name": "高窗漫展中庭",
+    "prompt": "现代展馆中庭，高玻璃窗与梁架、开阔硬质地面，周边展位与来往人群；自然侧光来自高窗，站立通道有足够宽度，照片未证明有座椅。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-nycc-qifrey",
+        "web-nycc-storm"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "WEB-LOC-STREET",
+    "name": "北欧石铺街区",
+    "prompt": "现代城市街道的石铺路面、砖石建筑与栏杆；人物站在平坦可落脚处，自然天光照入街道，空间支持站立和小步行走，路边栏杆只能轻扶不悬坐。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-pink",
+        "web-cph-white"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior",
+      "urban_street"
+    ]
+  },
+  {
+    "id": "WEB-LOC-LOTUS",
+    "name": "城市湖畔荷花步道",
+    "prompt": "湖岸步道旁有荷叶、少量花和树，远处城市天际线，白天天光；人物落脚在实际步道，不站到水面或荷叶上。没有图片证明的椅凳不加入可用支撑。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-wuhan-hanfu"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior",
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "WEB-LOC-CAFE",
+    "name": "红伞餐厅外步道",
+    "prompt": "现代餐厅外有红色遮阳伞、绿植与铺砖步道，人物站在步道平面，阳光从开放一侧进入；餐桌椅未清楚展示不作为已核实座面。",
+    "eras": [
+      "modern"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-sdcc-scarlet"
+      ]
+    },
+    "scene_tags": [
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "ACT-LOC-portrait",
+    "name": "多衣装摄影与道具休息棚",
+    "prompt": "实体棚地平整，灰色背景、宽窗及镜面各留拍摄距离；一把稳固靠背椅、长凳和桌面；侧边矮道具架远离脚下，服装拖尾可沿地面自然铺开。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "table",
+      "wall",
+      "mirror"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "ACT-LOC-private",
+    "name": "家中窗边休息与梳妆角",
+    "prompt": "有人日常使用的私人房间：窗帘筛光、实墙与固定镜，一把宽椅、长凳、床沿和小桌；杯留下浅浅水痕，书页停在读过的位置，软毯自然搭于椅背。人物穿本张原妆造，在生活间隙停留，手与物件都各有实际落点。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "bed",
+      "table",
+      "wall",
+      "mirror"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ],
+      "local_adaptation": "由试装棚改为有生活痕迹的私人房间，保留原支持面接口；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "ACT-LOC-convention-stage",
+    "name": "漫展剧情表演台",
+    "prompt": "现代展馆内带观众隔离线的实体低台，中央留足两臂及道具刀剑的活动空间；稳固台面、后台座椅和侧边道具架，观众默认画外。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "web-nycc-qifrey",
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "ACT-LOC-combat-ruin",
+    "name": "城市废墟剧情布景",
+    "prompt": "可承重的干燥城市场景布景，主角站在实体矮墙后侧；碎砖仅在远处，主角脚下平整，道具目标在画外。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": [
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "ACT-LOC-base-alert",
+    "name": "基地警戒机库",
+    "prompt": "基地机库门边设一条宽平整警戒步道、腰高实体栏与休息凳；背景设备不占走位区，侧墙留放装备位置。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "ACT-LOC-signing",
+    "name": "签售见面会桌区",
+    "prompt": "现代活动厅的一张固定签售桌和靠背椅，专辑平放在桌面；主角座位正面留拍摄距离，粉丝默认画外，互动版仅一位配角在桌外侧。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "ACT-LOC-heritage-mv",
+    "name": "古院水榭MV取景区",
+    "prompt": "现代获准取景的古院水榭，木柱、瓦檐与池面表达古建风貌；宽阔干燥石台距水边留安全距离，台上有摄影站位标记，侧面设固定栏、石凳与小桌，现代麦克风属于MV拍摄设备。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "ACT-LOC-pool-edge",
+    "name": "实体泳池沿座面",
+    "prompt": "度假泳池有宽实心池沿座面，背后是玻璃门和绿植；主角坐在池沿，两手接触干燥座面，双脚下方是浅水；旁边干地有躺椅和小桌。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "pool_edge",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-resort-pool",
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": [
+      "poolside"
+    ]
+  },
+  {
+    "id": "ACT-LOC-rain",
+    "name": "雨天有檐步道",
+    "prompt": "雨天街道的有檐宽步道，脚下为干燥防滑铺装，背景路面有雨水反光；伞面可展开而不碰檐，休息凳和花店墙位明确。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": [
+      "wet_urban",
+      "urban_exterior",
+      "urban_street"
+    ]
+  },
+  {
+    "id": "ACT-LOC-tea-desk",
+    "name": "古风读写茶案",
+    "prompt": "古风书房有稳固桌案和椅，案面铺平纸与墨碟，茶壶杯具分区安放；主角前方桌沿不压衣袖，侧边收纳架可固定长剑和杖。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "ACT-LOC-mirror-practice",
+    "name": "独立镜墙编舞区",
+    "prompt": "木地板镜墙练习室，主角站在镜前两步远的空地，镜中只出现同一主体映像；播放屏与设备留在侧桌，编舞脚下无背包和线缆。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      3,
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-br-practice",
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "ACT-LOC-reading-window",
+    "name": "窗边阅读座位",
+    "prompt": "宽窗旁固定座椅与柔软腿面织物，书可以放在腿上，杯放在侧桌或由一手端持；窗外亮、室内暗，座面真实承重。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-window-reading",
+        "activity-v11-original"
+      ]
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "PRIVATE-LOC-reading-bedroom",
+    "name": "有人生活的阅读卧室",
+    "prompt": "床上有轻微使用褶皱的棉布床品，靠窗宽椅、床尾长凳、小书桌与台灯，桌上只有正在用的书和杯；实墙、固定全身镜及床沿各有自然落点，地面净空。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "bed",
+      "table",
+      "wall",
+      "mirror"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创私人休息取景卡，空间年代为当次拍摄环境，历史/幻想衣装保留其衣装原设定；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "PRIVATE-LOC-travel-room",
+    "name": "旅途中休息的客房",
+    "prompt": "窗边靠背椅、床尾长凳、小书桌、固定镜与铺整但已使用的床；旅行箱靠实墙平放，外套留在椅背，午后窗光沿窗帘进入，房间保留日常休息痕迹。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "bed",
+      "table",
+      "wall",
+      "mirror"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创私人休息取景卡，空间年代为当次拍摄环境，历史/幻想衣装保留其衣装原设定；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "PRIVATE-LOC-backstage-rest",
+    "name": "演出后的私人休息房",
+    "prompt": "已使用的梳妆桌、固定镜、宽椅、长凳及一张休息床，台灯与门外走廊光相接；个人物件各有桌面或座旁落点，远离脚步通道。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "chair",
+      "bench",
+      "bed",
+      "table",
+      "wall",
+      "mirror"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创私人休息取景卡，空间年代为当次拍摄环境，历史/幻想衣装保留其衣装原设定；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "scene_tags": [
+      "theatre_backstage"
+    ]
+  },
+  {
+    "id": "style-location-S001",
+    "name": "九龙雨夜招牌密度·人物可站立区域",
+    "prompt": "九龙雨夜招牌密度，空间特征为密集招牌、雨棚、电线、湿热街巷。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S001"
+    ],
+    "scene_tags": [
+      "wet_urban",
+      "urban_exterior",
+      "urban_street"
+    ]
+  },
+  {
+    "id": "style-location-S002",
+    "name": "昭和喫茶店·人物可站立区域",
+    "prompt": "昭和喫茶店，空间特征为木墙、旧吊灯、烟灰缸、咖啡杯、怀旧安静。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S002"
+    ],
+    "scene_tags": [
+      "old_room"
+    ]
+  },
+  {
+    "id": "style-location-S003",
+    "name": "七十年代下沉客厅·人物可站立区域",
+    "prompt": "七十年代下沉客厅，空间特征为下沉沙发、厚地毯、木饰面、社交空间。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S003"
+    ],
+    "scene_tags": [
+      "old_room"
+    ]
+  },
+  {
+    "id": "style-location-S004",
+    "name": "Googie汽车餐厅·人物可站立区域",
+    "prompt": "Googie汽车餐厅，空间特征为斜屋顶、霓虹、太空时代快餐、路边美国梦。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S004"
+    ],
+    "scene_tags": [
+      "roadside_neon"
+    ]
+  },
+  {
+    "id": "style-location-S005",
+    "name": "苏联粗野主义太空旅馆·人物可站立区域",
+    "prompt": "苏联粗野主义太空旅馆，空间特征为混凝土巨体、冷清大堂、太空现代主义。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S005"
+    ],
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "style-location-S006",
+    "name": "胶囊旅馆复古未来·人物可站立区域",
+    "prompt": "胶囊旅馆复古未来，空间特征为小舱位、圆角塑料、编号灯、个人未来感。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S006"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S007",
+    "name": "香港旧式霓虹茶餐厅·人物可站立区域",
+    "prompt": "香港旧式霓虹茶餐厅，空间特征为马赛克砖、卡座、菜单墙、拥挤生活感。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S007"
+    ],
+    "scene_tags": [
+      "old_room",
+      "neon_interior"
+    ]
+  },
+  {
+    "id": "style-location-S008",
+    "name": "赛博服务器神龛·人物可站立区域",
+    "prompt": "赛博服务器神龛，空间特征为服务器机柜+祭坛、线缆、冷光、仪式感。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S008"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S009",
+    "name": "雨林太阳能温室·人物可站立区域",
+    "prompt": "雨林太阳能温室，空间特征为太阳能棚架、植物、泥土、实用生态科技。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S009"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S010",
+    "name": "地下卡拉OK包厢·人物可站立区域",
+    "prompt": "地下卡拉OK包厢，空间特征为镜面墙、皮沙发、彩灯、塑料麦克风。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S010"
+    ],
+    "scene_tags": [
+      "nightlife"
+    ]
+  },
+  {
+    "id": "style-location-S011",
+    "name": "九十年代电脑教室·人物可站立区域",
+    "prompt": "九十年代电脑教室，空间特征为米色电脑、CRT、公告板、塑料椅、校园记忆。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S011"
+    ],
+    "scene_tags": [
+      "old_room"
+    ]
+  },
+  {
+    "id": "style-location-S012",
+    "name": "月球基地儿童乐园·人物可站立区域",
+    "prompt": "月球基地儿童乐园，空间特征为月面基地+游乐场、塑料安全色、奇妙对比。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S012"
+    ],
+    "scene_tags": [
+      "space"
+    ]
+  },
+  {
+    "id": "style-location-S013",
+    "name": "意大利邮轮未来主义内舱·人物可站立区域",
+    "prompt": "意大利邮轮未来主义内舱，空间特征为流线型舱室、金属栏杆、复古豪华交通。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S013"
+    ],
+    "scene_tags": [
+      "vehicle_interior"
+    ]
+  },
+  {
+    "id": "style-location-S014",
+    "name": "后苏联公交车站·人物可站立区域",
+    "prompt": "后苏联公交车站，空间特征为奇特混凝土亭、马赛克、荒野公路。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S014"
+    ],
+    "scene_tags": [
+      "highway_exterior",
+      "rural_exterior"
+    ]
+  },
+  {
+    "id": "style-location-S015",
+    "name": "海底研究站旧科幻·人物可站立区域",
+    "prompt": "海底研究站旧科幻，空间特征为厚玻璃舷窗、仪表盘、海水幽光、旧潜艇感。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S015"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S016",
+    "name": "机场免税店九十年代·人物可站立区域",
+    "prompt": "机场免税店九十年代，空间特征为玻璃柜、香水灯箱、旅行零售、旧机场。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S016"
+    ],
+    "scene_tags": [
+      "retail"
+    ]
+  },
+  {
+    "id": "style-location-S017",
+    "name": "阿尔卑斯木屋科幻·人物可站立区域",
+    "prompt": "阿尔卑斯木屋科幻，空间特征为木屋温暖+高科技舱门、雪景、对比混合。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S017"
+    ],
+    "scene_tags": [
+      "mountain_landscape",
+      "warm_interior"
+    ]
+  },
+  {
+    "id": "style-location-S018",
+    "name": "赛璐璐城市屋顶黄昏·人物可站立区域",
+    "prompt": "赛璐璐城市屋顶黄昏，空间特征为屋顶水箱、护栏、远处城市、青春片氛围。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S018"
+    ],
+    "scene_tags": [
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "style-location-S019",
+    "name": "机场吸烟室·人物可站立区域",
+    "prompt": "机场吸烟室，空间特征为机场吸烟室、琥珀玻璃、旧地毯、密闭空气。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S019"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S020",
+    "name": "地下网吧深夜·人物可站立区域",
+    "prompt": "地下网吧深夜，空间特征为地下网吧、CRT排布、荧光雾、深夜疲惫。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S020"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S021",
+    "name": "商场喷泉中庭·人物可站立区域",
+    "prompt": "商场喷泉中庭，空间特征为商场中庭喷泉、亮瓷砖、天窗反光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S021"
+    ],
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "style-location-S022",
+    "name": "废弃水疗中心·人物可站立区域",
+    "prompt": "废弃水疗中心，空间特征为废弃水疗、粉彩瓷砖、潮湿静默。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S022"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S023",
+    "name": "雪山缆车站·人物可站立区域",
+    "prompt": "雪山缆车站，空间特征为雪山缆车站、冷玻璃、橙色护栏。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S023"
+    ],
+    "scene_tags": [
+      "mountain_landscape"
+    ]
+  },
+  {
+    "id": "style-location-S024",
+    "name": "老式电视演播室·人物可站立区域",
+    "prompt": "老式电视演播室，空间特征为老电视棚、手绘平面布景、钨丝灯架。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S024"
+    ],
+    "scene_tags": [
+      "tv_studio"
+    ]
+  },
+  {
+    "id": "style-location-S025",
+    "name": "港口冷库走廊·人物可站立区域",
+    "prompt": "港口冷库走廊，空间特征为港口冷库、湿混凝土、蓝色冷雾。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S025"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S026",
+    "name": "太空度假酒店大堂·人物可站立区域",
+    "prompt": "太空度假酒店大堂，空间特征为太空度假大堂、弧形塑料、人造棕榈。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S026"
+    ],
+    "scene_tags": [
+      "space",
+      "space_hotel"
+    ]
+  },
+  {
+    "id": "style-location-S027",
+    "name": "郊区车库工作间·人物可站立区域",
+    "prompt": "郊区车库工作间，空间特征为郊区车库、工具洞洞板、尘埃窗光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S027"
+    ],
+    "scene_tags": [
+      "garage_workshop",
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "style-location-S028",
+    "name": "市政档案室·人物可站立区域",
+    "prompt": "市政档案室，空间特征为市政档案、米色文件夹、荧光灰尘。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S028"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S029",
+    "name": "热带酒店走廊·人物可站立区域",
+    "prompt": "热带酒店走廊，空间特征为热带酒店走廊、藤影、绿松墙。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S029"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S030",
+    "name": "海底餐厅·人物可站立区域",
+    "prompt": "海底餐厅，空间特征为海底餐厅、蓝色焦散、玻璃隧道。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S030"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S031",
+    "name": "公共泳池更衣室·人物可站立区域",
+    "prompt": "公共泳池更衣室，空间特征为公共泳池更衣室、湿瓷砖、储物柜荧光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S031"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S032",
+    "name": "山间广播站·人物可站立区域",
+    "prompt": "山间广播站，空间特征为山间广播站、天线剪影、木墙小室。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S032"
+    ],
+    "scene_tags": [
+      "mountain_landscape"
+    ]
+  },
+  {
+    "id": "style-location-S033",
+    "name": "旧百货电梯厅·人物可站立区域",
+    "prompt": "旧百货电梯厅，空间特征为旧百货电梯厅、黄铜板、地毯暖光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S033"
+    ],
+    "scene_tags": [
+      "warm_interior"
+    ]
+  },
+  {
+    "id": "style-location-S034",
+    "name": "医院自动售货区·人物可站立区域",
+    "prompt": "医院自动售货区，空间特征为医院自动售货区、无菌灯、塑料椅。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S034"
+    ],
+    "scene_tags": [
+      "vending_machine_area"
+    ]
+  },
+  {
+    "id": "style-location-S035",
+    "name": "录像带仓库·人物可站立区域",
+    "prompt": "录像带仓库，空间特征为录像带仓库、纸箱、紫色货架光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S035"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S036",
+    "name": "儿童科学馆展厅·人物可站立区域",
+    "prompt": "儿童科学馆展厅，空间特征为儿童科学馆、互动展品、原色空间。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S036"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S037",
+    "name": "沙漠汽车旅馆泳池·人物可站立区域",
+    "prompt": "沙漠汽车旅馆泳池，空间特征为沙漠汽车旅馆泳池、褪色蓝水、霓虹招牌。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S037"
+    ],
+    "scene_tags": [
+      "desert",
+      "poolside"
+    ]
+  },
+  {
+    "id": "style-location-S038",
+    "name": "地下停车场洗车区·人物可站立区域",
+    "prompt": "地下停车场洗车区，空间特征为地下洗车区、湿混凝土、条形灯。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S038"
+    ],
+    "scene_tags": [
+      "wet_urban",
+      "parking_garage"
+    ]
+  },
+  {
+    "id": "style-location-S039",
+    "name": "火车餐车夜景·人物可站立区域",
+    "prompt": "火车餐车夜景，空间特征为夜间餐车、红绒座椅、窗外拖影。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S039"
+    ],
+    "scene_tags": [
+      "vehicle_interior"
+    ]
+  },
+  {
+    "id": "style-location-S040",
+    "name": "社区活动中心礼堂·人物可站立区域",
+    "prompt": "社区活动中心礼堂，空间特征为社区礼堂、折叠椅、横幅导轨。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S040"
+    ],
+    "scene_tags": [
+      "auditorium"
+    ]
+  },
+  {
+    "id": "style-location-S041",
+    "name": "旧电脑教室·人物可站立区域",
+    "prompt": "旧电脑教室，空间特征为旧电脑教室、米色显示器、蓝地毯。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S041"
+    ],
+    "scene_tags": [
+      "old_room"
+    ]
+  },
+  {
+    "id": "style-location-S042",
+    "name": "海边纪念品店·人物可站立区域",
+    "prompt": "海边纪念品店，空间特征为海边纪念品店、贝壳架、粉彩荧光货架。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S042"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S043",
+    "name": "屋顶气象站·人物可站立区域",
+    "prompt": "屋顶气象站，空间特征为屋顶气象站、仪器、风中灰天。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S043"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S044",
+    "name": "老式游戏厅厕所·人物可站立区域",
+    "prompt": "老式游戏厅厕所，空间特征为旧游戏厅厕所、棋盘瓷砖、霓虹溢光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S044"
+    ],
+    "scene_tags": [
+      "neon_interior"
+    ]
+  },
+  {
+    "id": "style-location-S045",
+    "name": "免税店玻璃柜·人物可站立区域",
+    "prompt": "免税店玻璃柜，空间特征为免税店玻璃柜、镜面层架、白色零售灯。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S045"
+    ],
+    "scene_tags": [
+      "retail"
+    ]
+  },
+  {
+    "id": "style-location-S046",
+    "name": "雨夜巴士总站·人物可站立区域",
+    "prompt": "雨夜巴士总站，空间特征为雨夜巴士站、蓝塑料椅、钠灯窗。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S046"
+    ],
+    "scene_tags": [
+      "wet_urban"
+    ]
+  },
+  {
+    "id": "style-location-S047",
+    "name": "船舱无线电室·人物可站立区域",
+    "prompt": "船舱无线电室，空间特征为船舱无线电室、黄铜旋钮、盐渍地图。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S047"
+    ],
+    "scene_tags": [
+      "vehicle_interior"
+    ]
+  },
+  {
+    "id": "style-location-S048",
+    "name": "郊区UFO后院·人物可站立区域",
+    "prompt": "郊区UFO后院，空间特征为郊区后院、门廊灯、湿草、UFO天空。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S048"
+    ],
+    "scene_tags": [
+      "suburban_backyard"
+    ]
+  },
+  {
+    "id": "style-location-S049",
+    "name": "艺术院线大厅·人物可站立区域",
+    "prompt": "艺术院线大厅，空间特征为艺术院线大厅、褪色海报、红毯暗光。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S049"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S050",
+    "name": "水族馆后场·人物可站立区域",
+    "prompt": "水族馆后场，空间特征为水族馆后场、蓝色水箱、维护管道。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S050"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S051",
+    "name": "小城广播电视塔·人物可站立区域",
+    "prompt": "小城广播电视塔，空间特征为小城电视塔、碎石地、红色闪灯。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S051"
+    ],
+    "scene_tags": [
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "style-location-S052",
+    "name": "老饭店包间·人物可站立区域",
+    "prompt": "老饭店包间，空间特征为老饭店包间、红地毯、转盘圆桌。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S052"
+    ],
+    "scene_tags": [
+      "old_room"
+    ]
+  },
+  {
+    "id": "style-location-S053",
+    "name": "室内滑冰场·人物可站立区域",
+    "prompt": "室内滑冰场，空间特征为室内冰场、浅蓝围板、荧光顶灯。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S053"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "style-location-S054",
+    "name": "工业温室·人物可站立区域",
+    "prompt": "工业温室，空间特征为工业温室、喷雾管、半透明屋顶。人物位于供人通行的平整稳固干燥地面；场景中的设备、水面或冰面位于行动区之外，人物与其保持距离。按本空间已有光源组织照明，保留连续空间与可辨尺度。",
+    "eras": [
+      "modern",
+      "historical",
+      "future",
+      "fantasy"
+    ],
+    "supports": [
+      "standing_floor"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "style_affinities": [
+      "S054"
+    ],
+    "scene_tags": []
+  },
+  {
+    "id": "location-bold-1-ordinary",
+    "name": "角色拳斗排练棚",
+    "prompt": "平整防滑软质地板、可承重的实体侧墙和低宽排练阶台，中央留足起落与转身净空；侧上方窗光照出衣装大形。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-bold-2-ordinary",
+    "name": "侦察训练隔墙区",
+    "prompt": "干燥防滑训练地板连接腰高实体掩体、低宽阶台与完整承重隔墙，墙后有开口观察通道；顶侧工作灯沿通道照射。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-bold-3-ordinary",
+    "name": "街舞排练低台",
+    "prompt": "宽阔防滑木地板、固定低台与实体侧墙组成排练空间，脚下无线缆；高窗侧光形成明暗带，摄影者可站台上或地面。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-bold-4-ordinary",
+    "name": "日常起居高低角",
+    "prompt": "平整干燥居家木地板、固定低矮软垫窗座、稳固低柜与稳固无轮无扶手、带窄靠背的木椅形成生活角；侧窗阳光照入，空地容纳单膝下蹲和伸臂，柜顶可放物。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "chair",
+      "table"
+    ],
+    "props": [],
+    "allowed_classes": [
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-bold-5-ordinary",
+    "name": "舞者休息排练角",
+    "prompt": "有防滑地板的私人排练休息角，固定软垫长凳、实体承重墙和稳固无轮靠背椅位于边缘；侧窗与一盏侧灯供光，中央保留大幅动作净空。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "window_lit_interior"
+    ]
+  },
+  {
+    "id": "location-bold-6-ordinary",
+    "name": "山门转折练习庭",
+    "prompt": "干燥防滑石庭连接两级低宽石阶、实体山门墙及固定石凳；墙影与侧面天光划开动作区，地上无散落兵器。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "wall",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": []
+  },
+  {
+    "id": "location-bold-1-megastructure",
+    "name": "巨型驾驶员学院中庭",
+    "prompt": "巨大的多层学院中庭由普通层高的教室门窗、楼廊和梁架密集堆叠，靠近人物的入口保持普通门高；宽阔平整中庭地面、固定腰高护栏与稳固长凳可用，高侧窗天光沿楼廊斜入。建筑或连续建筑群极其巨大，门、窗、楼梯踏步与栏杆仍为正常人的生活尺度；靠成百上千层重复与纵深积累体量，上缘和两侧越出画外，不收成完整孤立模型。近处结构清晰、中层略淡、远层被空气透视与薄雾逐级吞没；人物所在的承重地面和空间透视与建筑连续。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      1
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "megastructure",
+      "window_lit_interior",
+      "campus_corridor"
+    ]
+  },
+  {
+    "id": "location-bold-2-megastructure",
+    "name": "巨型后勤城廊",
+    "prompt": "横贯多座巨大后勤楼的内廊，普通大小值班门、办公室窗与层层走廊向高处和远处叠加；干燥平整通道连接实体墙、固定护栏和低宽台阶，侧顶天光穿过楼缝。建筑或连续建筑群极其巨大，门、窗、楼梯踏步与栏杆仍为正常人的生活尺度；靠成百上千层重复与纵深积累体量，上缘和两侧越出画外，不收成完整孤立模型。近处结构清晰、中层略淡、远层被空气透视与薄雾逐级吞没；人物所在的承重地面和空间透视与建筑连续。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "wall",
+      "rail",
+      "steps"
+    ],
+    "props": [],
+    "allowed_classes": [
+      2
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "megastructure"
+    ]
+  },
+  {
+    "id": "location-bold-3-megastructure",
+    "name": "巨型演艺住区广场",
+    "prompt": "由极高的演艺楼与生活塔群围合的平整广场，普通大小后台门、住户窗、阳台和走廊反复堆积，塔群相互遮挡；广场侧有固定低台、承重墙与长凳，午后侧光穿过楼缝。建筑或连续建筑群极其巨大，门、窗、楼梯踏步与栏杆仍为正常人的生活尺度；靠成百上千层重复与纵深积累体量，上缘和两侧越出画外，不收成完整孤立模型。近处结构清晰、中层略淡、远层被空气透视与薄雾逐级吞没；人物所在的承重地面和空间透视与建筑连续。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "steps",
+      "wall",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      3
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "megastructure",
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "location-bold-4-megastructure",
+    "name": "巨型居民楼花庭",
+    "prompt": "多座巨大居民楼围成有树影的生活花庭，窗格、阳台、单元门和窗边晾架均为普通人的尺度，向天空与远处密密层叠；宽阔干燥步道、固定软垫长凳和实体矮墙提供落点，天光从楼间斜落。建筑或连续建筑群极其巨大，门、窗、楼梯踏步与栏杆仍为正常人的生活尺度；靠成百上千层重复与纵深积累体量，上缘和两侧越出画外，不收成完整孤立模型。近处结构清晰、中层略淡、远层被空气透视与薄雾逐级吞没；人物所在的承重地面和空间透视与建筑连续。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "bench",
+      "wall"
+    ],
+    "props": [],
+    "allowed_classes": [
+      4
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "megastructure",
+      "urban_exterior",
+      "vegetated_exterior"
+    ]
+  },
+  {
+    "id": "location-bold-5-megastructure",
+    "name": "巨型宴会酒店露台",
+    "prompt": "庞大酒店建筑群的宽露台连着普通大小客房门窗与宴会侧廊，层层客房、连桥和退台重复至画外；地面干燥平整，固定腰高护栏和稳固无轮座椅可用，侧面暮光照到近处人物与栏杆。建筑或连续建筑群极其巨大，门、窗、楼梯踏步与栏杆仍为正常人的生活尺度；靠成百上千层重复与纵深积累体量，上缘和两侧越出画外，不收成完整孤立模型。近处结构清晰、中层略淡、远层被空气透视与薄雾逐级吞没；人物所在的承重地面和空间透视与建筑连续。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "chair"
+    ],
+    "props": [],
+    "allowed_classes": [
+      5
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "megastructure",
+      "urban_exterior"
+    ]
+  },
+  {
+    "id": "location-bold-6-megastructure",
+    "name": "巨型山城宫院",
+    "prompt": "极其巨大的山城宫院建筑群沿山体与院墙连续叠升，普通门洞、窗棂、日常台阶与栏杆重复成无数层回廊，近处可用人高门作尺度；干燥石台、固定石栏、低宽阶和石凳承重，侧面天光穿过院墙缺口。建筑或连续建筑群极其巨大，门、窗、楼梯踏步与栏杆仍为正常人的生活尺度；靠成百上千层重复与纵深积累体量，上缘和两侧越出画外，不收成完整孤立模型。近处结构清晰、中层略淡、远层被空气透视与薄雾逐级吞没；人物所在的承重地面和空间透视与建筑连续。",
+    "eras": [
+      "modern",
+      "historical",
+      "fantasy",
+      "future"
+    ],
+    "supports": [
+      "standing_floor",
+      "rail",
+      "steps",
+      "bench"
+    ],
+    "props": [],
+    "allowed_classes": [
+      6
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    },
+    "scene_tags": [
+      "megastructure",
+      "urban_exterior",
+      "palace",
+      "mountain_landscape"
+    ]
+  }
+]

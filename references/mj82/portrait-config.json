@@ -1,0 +1,74 @@
+{
+  "reference_replication": {
+    "goal": "以参考图为唯一视觉基准，尽可能1:1复刻其Midjourney 8.2高端人像美学，并将这种视觉语言转译为可理解的真实摄影表达；核心不是机械模拟摄影器材，而是复刻光线雕刻方式、朦胧油光、皮肤润泽感、暗部氛围、色调融合、空气感、光学柔化与整体视觉情绪。",
+    "composition": {
+      "focus": "双眼为绝对视觉焦点，面部核心清晰，前后景快速进入柔和失焦，保持自然光学焦外而非夸张AI虚化"
+    },
+    "core_visual_language": {
+      "style": "high-end Midjourney 8.2 cinematic fashion portrait, artistic photorealism, luxury editorial photography, dark atmospheric beauty, sculptural lighting, tactile realism",
+      "priority": "artistic lighting > hazy oily luminosity > atmospheric depth > tonal harmony > skin and hair realism > optical texture",
+      "overall_feel": "真实摄影基础上的艺术化光影人像，梦幻、湿润、朦胧、神秘、性感、压迫、高级，同时保持真实皮肤和真实镜头质感"
+    },
+    "signature_surface_effect": {
+      "core_effect": "distinctive hazy oily luminosity, translucent moisturized skin sheen, soft diffused wet glow, creamy luminous skin surface",
+      "skin_surface": "皮肤表面仿佛存在极薄、半透明的润泽光膜，使皮肤具有油润、湿润、柔亮的表面质感，但绝不呈现油腻、汗湿或塑料感",
+      "highlight_behavior": "额头、鼻梁、鼻尖、颧骨、眼睑、嘴唇等区域产生柔和镜面高光，高光不是锐利死白点，而是从亮点向周围自然扩散，并与暖肤色融合",
+      "micro_detail_relation": "毛孔、细纹、皮肤微纹理仍然清晰存在，高频真实细节位于柔润发光表层之下，同时叠加低频柔和光泽",
+      "light_diffusion": "高光区域存在轻微soft diffusion、soft bloom和极弱halation，使皮肤具有朦胧发光感",
+      "wetness": "自然湿润感、微妙皮脂反光、轻微潮润质感，不产生明显汗液或油腻油脸",
+      "critical_rule": "必须同时保留真实毛孔与柔润光泽，不能用磨皮、模糊或塑料材质代替朦胧油光"
+    },
+    "lighting": {
+      "style": "强方向性近距离闪光式主光结合极柔和环境漫射光，让光线像雕刻一样塑造五官，而不是平均照亮人物",
+      "key_light": "正面略偏侧的强烈硬光，集中强调额头、鼻梁、颧骨、鼻尖、眼睛和嘴唇，形成明确而具有艺术性的高光路径",
+      "shadow": "脸部边缘、发际线和头发快速进入深色阴影，但阴影内部保留黑青、墨绿、深棕、灰褐等丰富层次",
+      "light_transition": "亮部由明确高光向柔和皮肤光泽渐进过渡，避免生硬数码边缘",
+      "atmosphere": "暗部被柔和空气感包裹，高光存在朦胧扩散，形成密集、湿润、梦幻、深邃的电影式光影氛围",
+      "light_interaction": "皮肤高光、发丝反光、环境反射光、阴影与背景色必须统一为一个完整的光影系统"
+    },
+    "skin": {
+      "rendering": "真实原生皮肤，清晰可见毛孔、细小纹理、轻微肤色不均、自然皮脂反光和微妙瑕疵",
+      "tone": "暖棕、红褐、淡琥珀自然肤色",
+      "texture": "高频皮肤细节真实存在，但整体覆盖柔和低频光泽，使画面产生润泽而非干燥的数码皮肤质感",
+      "retouching": "极低磨皮，禁止商业美容精修",
+      "specular": "真实湿润镜面反射，柔和、宽广、具有层次",
+      "critical_rule": "真实毛孔 + 微观纹理 + 润泽光膜 + 柔性高光必须同时存在"
+    },
+    "hair": {
+      "rendering": "真实头发，大量独立细发丝，具有自然感",
+      "strand_detail": "发丝细碎、随机、独立可辨",
+      "highlight": "发丝表面产生细碎、油润、丝绸般镜面反光",
+      "integration": "部分发丝融入暗部并被景深柔化，人物头发自然融入整体环境而不是从背景中抠出来"
+    },
+    "color_grading": {
+      "contrast": "中高对比度，但亮暗过渡必须柔和",
+      "saturation": "中低饱和，禁止鲜艳数码色",
+      "black_level": "深黑但不死黑，暗部保留层次与空气感",
+      "color_relationship": "暖肤色与冷暗环境形成克制而高级的色彩分离，避免明显商业LUT感"
+    },
+    "optical_texture": {
+      "rendering": "真实高端电影摄影机与玻璃镜头的自然光学质感",
+      "softness": "整体存在极轻微光学柔化，高光边缘自然扩散，避免临床式数字锐度",
+      "depth": "极浅景深，双眼清晰，背景迅速融化为低信息量暗色光影",
+      "diffusion": "轻微柔焦、soft bloom、subtle halation，尤其集中于皮肤高光和环境亮部",
+      "film_character": "极细腻35mm胶片颗粒、柔和highlight rolloff、自然暗部渐变",
+      "important": "胶片颗粒只是辅助纹理，不能取代核心的朦胧油光和光影氛围"
+    },
+    "atmosphere": {
+      "overall": "湿润、朦胧、神秘、浓郁、贴近人物的暗色环境氛围",
+      "background": "背景高度虚化，仅保留深黑、墨绿、灰褐和少量暖橙环境色块，不需要可识别场景细节",
+      "integration": "人物尤其是头发、肩颈与暗部自然融入背景，通过空气透视、阴影与光线衰减建立空间深度",
+      "visual_depth": "利用光影层次、空气散射、暗部渐变和自然焦外建立纵深，而不是依赖夸张的景深特效"
+    },
+    "image_quality": {
+      "resolution": "超高解析度",
+      "detail": "眼睛、虹膜、皮肤、唇纹、毛孔、发丝具有高密度真实细节",
+      "dynamic_range": "高动态范围，同时保持胶片式高光压缩和暗部层次",
+      "micro_contrast": "面部核心区域具有真实微对比度，整体不做全局锐化",
+      "texture_balance": "高频细节与低频柔光同时存在，既清晰又朦胧，既真实又具有艺术渲染感",
+      "authenticity": "必须像真实高端摄影作品，同时保留Midjourney 8.2特有的光影设计感与审美统一性"
+    },
+    "style_keywords": "Midjourney 8.2 aesthetic, cinematic fashion portrait, artistic photorealism, sculptural light, hazy oily luminosity, translucent skin sheen, diffused wet glow, luminous skin, deep detailed shadows, atmospheric darkness, warm skin against cool-dark environment, tactile pores, soft specular highlights, subtle bloom, delicate halation, organic optical softness, luxury editorial, dark beauty, dreamlike realism, refined tonal harmony",
+    "negative_prompt": "generic studio portrait, commercial beauty photography, flat lighting, evenly illuminated face, beauty filter, plastic skin, porcelain skin, excessive retouching, perfect skin, AI beauty face, dry digital skin, harsh digital highlights, sharp white specular spots, greasy skin, sweaty skin, oily face, excessive blur, excessive skin smoothing, crushed blacks, washed-out highlights, HDR, over-sharpening, oversaturated colors, excessive film grain, fake bokeh, CGI, 3D render, illustration, anime, artificial hair, perfectly arranged hair, sterile background, cutout subject, cheap cinematic LUT, exaggerated lens effects"
+  }
+}

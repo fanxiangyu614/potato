@@ -1,0 +1,1781 @@
+[
+  {
+    "id": "shot-001",
+    "shot": {
+      "moment": "当前站姿中目光刚与摄影者或场景目标相接",
+      "camera_position": "人物侧前方眼高",
+      "framing": "中景至膝或腰，双手与关键原物件清楚",
+      "viewing_target": "神态、手部状态与原衣装轮廓"
+    }
+  },
+  {
+    "id": "shot-002",
+    "shot": {
+      "moment": "同一站姿里肩与头的方向形成自然层次",
+      "camera_position": "人物侧方偏前、肩高平视",
+      "framing": "中全景，保留脚下地面或依靠的支撑面",
+      "viewing_target": "身体侧向、衣装层次与环境接触"
+    }
+  },
+  {
+    "id": "shot-003",
+    "shot": {
+      "moment": "同一姿态中的安静停顿",
+      "camera_position": "人物前侧略高于头顶、轻俯视",
+      "framing": "全身环境景，留出人物目光方向的空间",
+      "viewing_target": "人物身份、完整服装及实际场地"
+    }
+  },
+  {
+    "id": "shot-004",
+    "shot": {
+      "moment": "当前停顿中可见眼睛刚抬起",
+      "camera_position": "人物侧前方眼高",
+      "framing": "近景至胸口，保留原发饰、领口和身份识别点",
+      "viewing_target": "可见眼睛、自然呼吸与原妆造"
+    }
+  },
+  {
+    "id": "shot-005",
+    "shot": {
+      "moment": "同一停顿中视线尚未移开",
+      "camera_position": "人物侧方偏前、略高于眼睛",
+      "framing": "半身近景，脸与原发型仍完整",
+      "viewing_target": "侧脸轮廓、肩颈松弛和衣装边缘"
+    }
+  },
+  {
+    "id": "shot-006",
+    "shot": {
+      "moment": "同一神态在环境中的短暂停留",
+      "camera_position": "人物正前方胸口高度平视",
+      "framing": "中景至腰部，保留手的状态与一个生活背景层次",
+      "viewing_target": "表情、原衣装识别点与所处空间"
+    }
+  },
+  {
+    "id": "shot-007",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、cup"
+    }
+  },
+  {
+    "id": "shot-008",
+    "shot": {
+      "moment": "同一动作阶段，目光保持动作卡的原方向，手部职责不变",
+      "camera_position": "人物斜后方略高于肩、避开头部遮挡",
+      "framing": "中景，保留脸的侧面、手及物件承托面",
+      "viewing_target": "原视线方向、手与身体的层次及当前物件接触关系"
+    }
+  },
+  {
+    "id": "shot-009",
+    "shot": {
+      "moment": "同一动作中身体停在实际工作位置",
+      "camera_position": "人物侧方胸高平视，保持自然距离",
+      "framing": "中全景或全身环境景，关键道具完整可见",
+      "viewing_target": "衣装与环境身份、桌案或地面接触"
+    }
+  },
+  {
+    "id": "shot-010",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、tool"
+    }
+  },
+  {
+    "id": "shot-011",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、book"
+    }
+  },
+  {
+    "id": "shot-012",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、桌面工作关系"
+    }
+  },
+  {
+    "id": "shot-013",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、guitar"
+    }
+  },
+  {
+    "id": "shot-014",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、camera"
+    }
+  },
+  {
+    "id": "shot-015",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、ball"
+    }
+  },
+  {
+    "id": "shot-016",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、basket"
+    }
+  },
+  {
+    "id": "shot-017",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、flower"
+    }
+  },
+  {
+    "id": "shot-018",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、weapon"
+    }
+  },
+  {
+    "id": "shot-019",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、orb"
+    }
+  },
+  {
+    "id": "shot-020",
+    "shot": {
+      "moment": "支撑脚刚接地、另一脚继续跟进",
+      "camera_position": "人物侧前方胸高，沿动线斜拍",
+      "framing": "全身，保留前进方向与完整鞋脚",
+      "viewing_target": "行走重心、衣摆及人物目的地"
+    }
+  },
+  {
+    "id": "shot-021",
+    "shot": {
+      "moment": "同一步中的身体从侧方经过",
+      "camera_position": "动线侧方眼高平视",
+      "framing": "中全景，双手与原道具可见",
+      "viewing_target": "行走中的侧脸、衣装轮廓与手部状态"
+    }
+  },
+  {
+    "id": "shot-022",
+    "shot": {
+      "moment": "同一步中人与环境相连",
+      "camera_position": "路径前方略高于头顶、温和俯视",
+      "framing": "环境全景，路线仍清楚可读",
+      "viewing_target": "人物沿哪条路线经过以及空间纵深"
+    }
+  },
+  {
+    "id": "shot-023",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、hand_mic"
+    }
+  },
+  {
+    "id": "shot-024",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、umbrella、cape"
+    }
+  },
+  {
+    "id": "shot-025",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、arrow"
+    }
+  },
+  {
+    "id": "shot-026",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、rifle"
+    }
+  },
+  {
+    "id": "shot-027",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、katana、scabbard"
+    }
+  },
+  {
+    "id": "shot-028",
+    "shot": {
+      "moment": "重心刚落到支撑脚的这一拍",
+      "camera_position": "人物侧前方、胸口高度斜向观察",
+      "framing": "完整全身，保留落脚面与动作方向的空白",
+      "viewing_target": "足底接触、肩胯转动与衣摆惯性"
+    }
+  },
+  {
+    "id": "shot-029",
+    "shot": {
+      "moment": "当前手臂与身体形成斜线的瞬间",
+      "camera_position": "人物侧面偏前、肩高平视",
+      "framing": "中全景，双手及全部关键道具完整入画",
+      "viewing_target": "身体动作线、原服装轮廓与道具职责"
+    }
+  },
+  {
+    "id": "shot-030",
+    "shot": {
+      "moment": "同一动作阶段中衣摆尚未完全回落",
+      "camera_position": "人物前方略高于头顶、轻俯视",
+      "framing": "全身环境景，保留地面轨迹与场地边界",
+      "viewing_target": "动作在场地中的位置与衣料运动"
+    }
+  },
+  {
+    "id": "shot-031",
+    "shot": {
+      "moment": "同一落步阶段的短暂停顿",
+      "camera_position": "人物侧前方腰部高度、温和向上，镜头与身体保持距离",
+      "framing": "全身或至小腿的中全景，原裙装保留自然轮廓",
+      "viewing_target": "肩臂力量、表情与服装外轮廓"
+    }
+  },
+  {
+    "id": "shot-032",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、bow、arrow"
+    }
+  },
+  {
+    "id": "shot-033",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、shield、sword"
+    }
+  },
+  {
+    "id": "shot-034",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、tool、radio"
+    }
+  },
+  {
+    "id": "shot-035",
+    "shot": {
+      "moment": "当前坐姿里头刚转过或抬起的一瞬间",
+      "camera_position": "人物侧前方、坐姿眼睛高度",
+      "framing": "半身至膝，保留正在接触的支撑手",
+      "viewing_target": "自然表情、原衣装与手的实际接触"
+    }
+  },
+  {
+    "id": "shot-036",
+    "shot": {
+      "moment": "同一坐姿在生活环境中的停顿",
+      "camera_position": "门边或过道略高于坐姿头顶、轻俯视",
+      "framing": "坐姿全景，座面、脚与生活物件可见",
+      "viewing_target": "身体的真实承托与有人生活的环境"
+    }
+  },
+  {
+    "id": "shot-037",
+    "shot": {
+      "moment": "同一姿态的呼吸刚平复",
+      "camera_position": "人物侧方、坐姿肩高",
+      "framing": "中景，保留侧脸与上身至座面",
+      "viewing_target": "肩颈放松、转头角度与原妆造轮廓"
+    }
+  },
+  {
+    "id": "shot-038",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、radio"
+    }
+  },
+  {
+    "id": "shot-039",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、pocket"
+    }
+  },
+  {
+    "id": "shot-040",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、phone"
+    }
+  },
+  {
+    "id": "shot-041",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、case"
+    }
+  },
+  {
+    "id": "shot-042",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、pen、album"
+    }
+  },
+  {
+    "id": "shot-043",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、fan"
+    }
+  },
+  {
+    "id": "shot-044",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、book、cup"
+    }
+  },
+  {
+    "id": "shot-045",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、tool、cup"
+    }
+  },
+  {
+    "id": "shot-046",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、umbrella"
+    }
+  },
+  {
+    "id": "shot-047",
+    "shot": {
+      "moment": "后撑双掌已接住上身的休息瞬间",
+      "camera_position": "沿池边侧前方、坐姿肩高",
+      "framing": "坐姿中全景，保留池沿、双掌与入水脚",
+      "viewing_target": "身体与实体池沿的承托关系"
+    }
+  },
+  {
+    "id": "shot-048",
+    "shot": {
+      "moment": "同一休息瞬间抬起目光",
+      "camera_position": "池边人物前侧略高、轻俯视",
+      "framing": "半身至膝，保留双掌接触处及水面",
+      "viewing_target": "放松神态、原泳装轮廓与反射"
+    }
+  },
+  {
+    "id": "shot-049",
+    "shot": {
+      "moment": "同一姿态中呼吸自然平复",
+      "camera_position": "池对侧平视坐姿、适当距离",
+      "framing": "环境全景，人物与池沿仍为观看重点",
+      "viewing_target": "度假空间、人物姿态与原衣装身份"
+    }
+  },
+  {
+    "id": "shot-050",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、water"
+    }
+  },
+  {
+    "id": "shot-051",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、sword"
+    }
+  },
+  {
+    "id": "shot-052",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、staff"
+    }
+  },
+  {
+    "id": "shot-053",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、brush、paper"
+    }
+  },
+  {
+    "id": "shot-054",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、teapot、cup"
+    }
+  },
+  {
+    "id": "shot-055",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、round_fan"
+    }
+  },
+  {
+    "id": "shot-056",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、towel"
+    }
+  },
+  {
+    "id": "shot-057",
+    "shot": {
+      "moment": "膝与支撑脚承重已经稳定",
+      "camera_position": "人物侧前方接近其肩高，平视动作",
+      "framing": "中全景，膝、支撑脚与原道具完整可见",
+      "viewing_target": "训练或观察姿态的接地与手部职责"
+    }
+  },
+  {
+    "id": "shot-058",
+    "shot": {
+      "moment": "同一半跪姿态中注意力停在目标方向",
+      "camera_position": "人物前侧略高、温和俯视",
+      "framing": "全身环境景，保留膝下地面",
+      "viewing_target": "身体在地形中的位置与原衣装活动余量"
+    }
+  },
+  {
+    "id": "shot-059",
+    "shot": {
+      "moment": "同一姿态中的侧脸与持物方向",
+      "camera_position": "人物侧方胸高、斜向观察",
+      "framing": "中全景，保留双手、膝与所持长件",
+      "viewing_target": "目光方向、肩臂与装备的空间关系"
+    }
+  },
+  {
+    "id": "shot-060",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、shield"
+    }
+  },
+  {
+    "id": "shot-061",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、bow"
+    }
+  },
+  {
+    "id": "shot-062",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、racket"
+    }
+  },
+  {
+    "id": "shot-063",
+    "shot": {
+      "moment": "当前手与原道具接触关系正清楚的瞬间",
+      "camera_position": "身体侧前方肩高、斜向桌面或持物方向",
+      "framing": "半身中景，完整纳入双手与关键道具",
+      "viewing_target": "面部与手部职责、cards"
+    }
+  },
+  {
+    "id": "shot-064",
+    "shot": {
+      "moment": "手仍轻触原有饰物、头刚回看",
+      "camera_position": "人物侧后方肩高，机位偏离镜面中心轴",
+      "framing": "中景，同时保留真实人物与一处完整反射",
+      "viewing_target": "调整饰物的手、反射中的脸与原妆造"
+    }
+  },
+  {
+    "id": "shot-065",
+    "shot": {
+      "moment": "同一调整动作尚未松手",
+      "camera_position": "镜旁侧前方、眼高",
+      "framing": "半身，保留当前接触饰物的手",
+      "viewing_target": "真实面部、自然转头与服装领口"
+    }
+  },
+  {
+    "id": "shot-066",
+    "shot": {
+      "moment": "同一动作里的短暂微笑或停顿",
+      "camera_position": "门边略高于眼睛、轻俯视",
+      "framing": "中全景，固定镜及地面位置清楚",
+      "viewing_target": "私人生活空间与人物的舒适姿态"
+    }
+  },
+  {
+    "id": "shot-067",
+    "shot": {
+      "moment": "前脚落地承重、另一脚将迈出的瞬间",
+      "camera_position": "侧前方眼高",
+      "framing": "中全景",
+      "viewing_target": "脸部神态与主要衣装结构"
+    }
+  },
+  {
+    "id": "shot-068",
+    "shot": {
+      "moment": "前脚落地承重、另一脚将迈出的瞬间",
+      "camera_position": "前侧腰高略仰视，保持自然人物比例",
+      "framing": "半身环境景",
+      "viewing_target": "脸部、手部与场景的空间关系"
+    }
+  },
+  {
+    "id": "shot-069",
+    "shot": {
+      "moment": "前脚落地承重、另一脚将迈出的瞬间",
+      "camera_position": "前侧略高于头顶轻俯视",
+      "framing": "全身环境景",
+      "viewing_target": "人物与原有落脚位置"
+    }
+  },
+  {
+    "id": "shot-070",
+    "shot": {
+      "moment": "当前动作的安静停顿",
+      "camera_position": "侧前方眼高",
+      "framing": "中全景",
+      "viewing_target": "脸部神态与主要衣装结构"
+    }
+  },
+  {
+    "id": "shot-071",
+    "shot": {
+      "moment": "肩部轻转但重心保持",
+      "camera_position": "侧前方肩高",
+      "framing": "半身环境景",
+      "viewing_target": "脸部、手部与场景的空间关系"
+    }
+  },
+  {
+    "id": "shot-072",
+    "shot": {
+      "moment": "原视线方向中的短暂停顿",
+      "camera_position": "前侧略高于头顶轻俯视",
+      "framing": "全身环境景",
+      "viewing_target": "人物与原有落脚位置"
+    }
+  },
+  {
+    "id": "shot-073",
+    "shot": {
+      "moment": "坐稳后肩部放松、视线停在侧前方的一瞬",
+      "camera_position": "侧前方眼高",
+      "framing": "半身近景",
+      "viewing_target": "自然神态、原侧向视线和坐姿接触关系"
+    }
+  },
+  {
+    "id": "shot-074",
+    "shot": {
+      "moment": "坐稳后肩部放松、视线停在侧前方的一瞬",
+      "camera_position": "侧前方肩高",
+      "framing": "半身环境景",
+      "viewing_target": "自然神态、原侧向视线和坐姿接触关系"
+    }
+  },
+  {
+    "id": "shot-075",
+    "shot": {
+      "moment": "坐稳后肩部放松、视线停在侧前方的一瞬",
+      "camera_position": "前侧略高于头顶轻俯视",
+      "framing": "膝上构图",
+      "viewing_target": "自然神态、原侧向视线和坐姿接触关系"
+    }
+  },
+  {
+    "id": "shot-bold-1-landing-1",
+    "shot": {
+      "moment": "前脚触地、后脚将落的刹那",
+      "camera_position": "前左方离地三十厘米，保持人物腿外侧观察线",
+      "framing": "全身，脚底接触与护臂不裁切",
+      "viewing_target": "低重心、落脚和角色服装识别"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-landing-2",
+    "shot": {
+      "moment": "双脚刚落、屈膝尚未回正",
+      "camera_position": "侧方腰高",
+      "framing": "横向中全景，面部和两拳处于同一动作轮廓",
+      "viewing_target": "落地冲量及向前看的神态"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-landing-3",
+    "shot": {
+      "moment": "落地后视线突然抬起",
+      "camera_position": "侧前方略高于头顶向下",
+      "framing": "胸部以上近景，留下护臂与发尾",
+      "viewing_target": "眼神、护势与动作余波"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-wall-turn-1",
+    "shot": {
+      "moment": "右脚转开而头已经回望",
+      "camera_position": "沿实体墙斜向，膝高",
+      "framing": "全身带墙面消失线",
+      "viewing_target": "脚底轴点、轻触墙的前臂与回望"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-wall-turn-2",
+    "shot": {
+      "moment": "胸肩刚从墙侧转出",
+      "camera_position": "排练区中央眼高",
+      "framing": "中景至髋，前臂接墙仍可见",
+      "viewing_target": "肩部转动和有事件的回望"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-wall-turn-3",
+    "shot": {
+      "moment": "轴脚尚未离地",
+      "camera_position": "斜上方从排练阶台俯看",
+      "framing": "全身俯视，墙地夹角入画",
+      "viewing_target": "墙、身体与双脚形成的三角关系"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-knee-recover-1",
+    "shot": {
+      "moment": "左腿将发力、右膝仍接地",
+      "camera_position": "前方接近地面，从左腿外侧拍",
+      "framing": "全身，双支点清楚",
+      "viewing_target": "跪地到站起的力量转移"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-knee-recover-2",
+    "shot": {
+      "moment": "眼神先抬起而身体仍低",
+      "camera_position": "前右方人物蹲姿眼高",
+      "framing": "腰以上近景，左掌按腿入画",
+      "viewing_target": "凝视和抬头瞬间"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-knee-recover-3",
+    "shot": {
+      "moment": "重心已移向左脚",
+      "camera_position": "侧后方腰高",
+      "framing": "中全景保留膝地接触",
+      "viewing_target": "膝、足、肩的受力链"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-cover-drop-1",
+    "shot": {
+      "moment": "膝刚落下而目光仍追踪通道",
+      "camera_position": "掩体内侧地面高度",
+      "framing": "全身带掩体边缘",
+      "viewing_target": "身体躲入实体遮挡的过程"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-cover-drop-2",
+    "shot": {
+      "moment": "右手刚触通信器",
+      "camera_position": "掩体内侧人物蹲姿眼高",
+      "framing": "面部到胸甲近景",
+      "viewing_target": "通信手势、压低的肩与凝视"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-cover-drop-3",
+    "shot": {
+      "moment": "左掌贴牢后准备探看",
+      "camera_position": "相邻低阶台斜俯视",
+      "framing": "中全景含膝与前脚",
+      "viewing_target": "掩体范围和可站起的受力结构"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-step-charge-1",
+    "shot": {
+      "moment": "左脚上阶、右脚正蹬地",
+      "camera_position": "阶台侧方离地二十厘米",
+      "framing": "全身带两级地面",
+      "viewing_target": "高低落脚、护膝和前冲趋势"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-step-charge-2",
+    "shot": {
+      "moment": "胸肩已向上层推进",
+      "camera_position": "上层通道正前方腰高",
+      "framing": "中景至膝，下层脚可在画面底部",
+      "viewing_target": "向摄影者推进的视线与护甲"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-step-charge-3",
+    "shot": {
+      "moment": "后脚即将跟进",
+      "camera_position": "侧后方眼高",
+      "framing": "宽幅环境全身",
+      "viewing_target": "路径长度与向前动线"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-wall-scan-1",
+    "shot": {
+      "moment": "头先探出、肩只露一半",
+      "camera_position": "通道侧方眼高，墙沿作近前景",
+      "framing": "紧中景",
+      "viewing_target": "脸、肩与墙沿的遮挡关系"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-wall-scan-2",
+    "shot": {
+      "moment": "两脚保持错开而上身探看",
+      "camera_position": "安全内侧膝高",
+      "framing": "全身，双手与墙接触都保留",
+      "viewing_target": "稳定底盘与探视幅度"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-wall-scan-3",
+    "shot": {
+      "moment": "视线停在远端目标",
+      "camera_position": "人物背后略高，沿其肩外看",
+      "framing": "肩部前景加通道深处的环境中景",
+      "viewing_target": "近肩、通道和目标方向的距离"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-wide-beat-1",
+    "shot": {
+      "moment": "宽步刚落到强拍",
+      "camera_position": "前方离地二十厘米，镜头不进入双腿之间",
+      "framing": "全身",
+      "viewing_target": "宽脚位、折臂和上衣惯性"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-wide-beat-2",
+    "shot": {
+      "moment": "肩与髋扭转达到最大",
+      "camera_position": "侧前方眼高",
+      "framing": "中景至髋",
+      "viewing_target": "肩髋反向和眼神"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-wide-beat-3",
+    "shot": {
+      "moment": "双脚压稳尚未回弹",
+      "camera_position": "低台上斜俯视",
+      "framing": "全身含地板线",
+      "viewing_target": "身体展开在地面的几何关系"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-floor-sweep-1",
+    "shot": {
+      "moment": "右足跟扫至最外侧",
+      "camera_position": "身体右侧离地十厘米",
+      "framing": "横幅全身，掌地接触清楚",
+      "viewing_target": "扫步弧线与真实支点"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-floor-sweep-2",
+    "shot": {
+      "moment": "上身随扫步转出",
+      "camera_position": "前左方坐姿眼高",
+      "framing": "中景含左掌和髋部",
+      "viewing_target": "手掌受力、肩转和表情"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-floor-sweep-3",
+    "shot": {
+      "moment": "扫步停住、右腿仍伸展",
+      "camera_position": "低台正上方偏侧俯视",
+      "framing": "完整全身",
+      "viewing_target": "落地身体轮廓与四肢方向"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-back-arch-1",
+    "shot": {
+      "moment": "双臂上举刚停",
+      "camera_position": "侧方腰高",
+      "framing": "全身",
+      "viewing_target": "脚墙双重位置与胸腔打开"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-back-arch-2",
+    "shot": {
+      "moment": "头侧转、呼吸尚未平稳",
+      "camera_position": "侧前方眼高",
+      "framing": "肩部以上近景，抬臂边缘入画",
+      "viewing_target": "收拍神态与肩臂线"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-back-arch-3",
+    "shot": {
+      "moment": "肘部形成展开轮廓",
+      "camera_position": "低台斜上方朝墙俯看",
+      "framing": "中景至膝",
+      "viewing_target": "墙面阴影和展开的肘线"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-cabinet-reach-1",
+    "shot": {
+      "moment": "右手仍在柜格、头先回望",
+      "camera_position": "低柜侧边蹲姿眼高",
+      "framing": "中景，柜格与膝脚入画",
+      "viewing_target": "未完成的小事与回头"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-cabinet-reach-2",
+    "shot": {
+      "moment": "身体向柜内伸长",
+      "camera_position": "地面侧方二十厘米",
+      "framing": "全身侧面",
+      "viewing_target": "亚麻衣褶、膝足和前伸长度"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-cabinet-reach-3",
+    "shot": {
+      "moment": "回望刚停、右手没有收回",
+      "camera_position": "椅后略高向下",
+      "framing": "近景到腰，柜格作为近前景",
+      "viewing_target": "眼神与仍在工作中的手"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-window-recline-1",
+    "shot": {
+      "moment": "右臂伸到最高处",
+      "camera_position": "窗座前端座面高度",
+      "framing": "横幅全身，脚跟与前臂接触可见",
+      "viewing_target": "生活伸展的长度和松弛"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-window-recline-2",
+    "shot": {
+      "moment": "脸朝侧窗微抬",
+      "camera_position": "窗边眼高斜拍",
+      "framing": "面部与举臂近景",
+      "viewing_target": "安静神态、亚麻领口与窗光"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-window-recline-3",
+    "shot": {
+      "moment": "伸展停顿、足跟仍落地",
+      "camera_position": "窗座外侧略高向下",
+      "framing": "中全景含座面边界",
+      "viewing_target": "承重前臂、臀和地面足跟"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-chair-listen-1",
+    "shot": {
+      "moment": "头刚越过前臂看向门口",
+      "camera_position": "椅背正前方坐姿眼高",
+      "framing": "中景，椅背与双臂形成前景",
+      "viewing_target": "听声神态与向前的亲近距离"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-chair-listen-2",
+    "shot": {
+      "moment": "前臂搭稳、双脚尚未移动",
+      "camera_position": "侧方膝高",
+      "framing": "全身带椅腿与双脚",
+      "viewing_target": "椅子承重、松裤和坐姿"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-chair-listen-3",
+    "shot": {
+      "moment": "目光停住、手指放松",
+      "camera_position": "侧前方略高俯拍",
+      "framing": "肩部近景含椅背上沿",
+      "viewing_target": "前臂、脸和发带的日常关系"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-bench-lounge-1",
+    "shot": {
+      "moment": "肩转向摄影者而坐姿未变",
+      "camera_position": "长凳末端座面高度",
+      "framing": "横幅中全景，支撑掌和落地脚清楚",
+      "viewing_target": "伸展线条、原裤装与坐面"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-bench-lounge-2",
+    "shot": {
+      "moment": "目光相接、呼吸放松",
+      "camera_position": "侧前方坐姿眼高",
+      "framing": "面部到胸口近景",
+      "viewing_target": "成人气质、细项链和神态"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-bench-lounge-3",
+    "shot": {
+      "moment": "右手落在左膝的停顿",
+      "camera_position": "侧上方斜俯视",
+      "framing": "中景至落地脚",
+      "viewing_target": "后撑手、曲腿与座面的接触"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-wall-longline-1",
+    "shot": {
+      "moment": "右足尖刚落、身形拉长",
+      "camera_position": "墙外侧膝高斜拍",
+      "framing": "全身，不从腿间拍摄",
+      "viewing_target": "支撑腿、伸长腿与贴墙轮廓"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-wall-longline-2",
+    "shot": {
+      "moment": "右手刚停在发辫根部",
+      "camera_position": "侧前方眼高",
+      "framing": "胸部以上近景",
+      "viewing_target": "手、发辫和侧转眼神"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-wall-longline-3",
+    "shot": {
+      "moment": "肩臂靠墙的停顿",
+      "camera_position": "休息椅旁略高朝下",
+      "framing": "中景至膝",
+      "viewing_target": "墙面接触和原衣装层次"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-low-dance-1",
+    "shot": {
+      "moment": "弓步压低、两手展开",
+      "camera_position": "左前方离地二十厘米，从腿外侧拍",
+      "framing": "全身",
+      "viewing_target": "弓步受力、臂线与裤脚"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-low-dance-2",
+    "shot": {
+      "moment": "脸在抬胸时转向前方",
+      "camera_position": "侧前方蹲姿眼高",
+      "framing": "中景至髋",
+      "viewing_target": "舞后的表情与抬胸动作"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-low-dance-3",
+    "shot": {
+      "moment": "低位动作尚未收回",
+      "camera_position": "靠椅位置斜高俯拍",
+      "framing": "全身带两足接地",
+      "viewing_target": "低位舞姿与地板投影"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-step-vault-1",
+    "shot": {
+      "moment": "左脚上阶、头已经回看",
+      "camera_position": "石階側前方離地二十厘米",
+      "framing": "全身含两级石地和腰侧剑鞘",
+      "viewing_target": "跨阶与回身的两条方向"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-step-vault-2",
+    "shot": {
+      "moment": "回看达到最清楚的角度",
+      "camera_position": "侧后方眼高",
+      "framing": "中景至髋，带鞘剑入画",
+      "viewing_target": "角色眼神与护臂"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-step-vault-3",
+    "shot": {
+      "moment": "重心移向上层左足",
+      "camera_position": "门墙旁略高俯拍",
+      "framing": "全身",
+      "viewing_target": "高低脚位、短袍和护势"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-low-palm-1",
+    "shot": {
+      "moment": "右膝刚接地、右掌仍向前",
+      "camera_position": "右前方贴近石地",
+      "framing": "全身，双掌与支撑膝清楚",
+      "viewing_target": "低重心和掌势方向"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-low-palm-2",
+    "shot": {
+      "moment": "眼神沿右掌前方凝住",
+      "camera_position": "前方蹲姿眼高",
+      "framing": "胸以上近景含右掌",
+      "viewing_target": "手掌、眼神和束发"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-low-palm-3",
+    "shot": {
+      "moment": "左掌回收到腹前",
+      "camera_position": "门台斜上方俯看",
+      "framing": "中全景",
+      "viewing_target": "双手分工与佩剑位置"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-gate-turn-1",
+    "shot": {
+      "moment": "脚步刚止、头开始拧回",
+      "camera_position": "沿墙侧方腰高",
+      "framing": "全身，脚底和剑鞘固定手可见",
+      "viewing_target": "急停后剩余惯性"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-gate-turn-2",
+    "shot": {
+      "moment": "目光穿过门洞",
+      "camera_position": "门洞内侧眼高",
+      "framing": "中景至腰，以门框作近前景",
+      "viewing_target": "拧身、握鞘手和警觉神态"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-gate-turn-3",
+    "shot": {
+      "moment": "后足外转后身体稳住",
+      "camera_position": "石阶上斜俯视",
+      "framing": "宽幅全身加墙地转折",
+      "viewing_target": "门墙、急停路线与落脚"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-structure-1",
+    "shot": {
+      "moment": "上述身体事件保持、人物抬眼或臂线刚定住",
+      "camera_position": "距离人物二十至四十米的地面低机位，斜向仰看楼群，人物落脚面仍入画",
+      "framing": "建筑占画面约八成的环境大全景，上缘与两侧出框，普通门窗重复清楚；建筑占据绝大部分画面，人物留在远端底部作同层正常门窗的微小尺度参照，不要求脸可辨",
+      "viewing_target": "建筑巨大体量、正常细部尺度、人所在层与远层空气距离；建筑或建筑群的巨大体量主导，正常细部反复积累至画外，远端底部人物仅作尺度参照"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-structure-2",
+    "shot": {
+      "moment": "事件持续、衣料或发束尚有余动",
+      "camera_position": "人物所在承重平面对侧的地面眼高，中远距离侧拍，前面一段普通墙或门框局部遮挡",
+      "framing": "建筑主导的环境远景，近前景普通门框、中远层巨构和远端底部微小人物依次分开，人物与同层门窗尺度一致，不要求脸可辨；建筑占据绝大部分画面，人物留在远端底部作同层正常门窗的微小尺度参照，不要求脸可辨",
+      "viewing_target": "建筑群巨大体量及画外延伸，多层正常门窗与空气层次；远端底部人物仅作同尺度参照；建筑或建筑群的巨大体量主导，正常细部反复积累至画外，远端底部人物仅作尺度参照"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-structure-3",
+    "shot": {
+      "moment": "动作已经稳住、视线仍指向高层",
+      "camera_position": "距离人物十五米的地面眼高，沿广场或庭院纵轴斜拍",
+      "framing": "宽幅环境全景，近地面路径通向巨构深处，楼群持续出框；建筑占据绝大部分画面，人物留在远端底部作同层正常门窗的微小尺度参照，不要求脸可辨",
+      "viewing_target": "真实地面、行动路径与巨量重复单元的纵深；建筑或建筑群的巨大体量主导，正常细部反复积累至画外，远端底部人物仅作尺度参照"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-shared-1",
+    "shot": {
+      "moment": "寻找、回身或转看入口的身体事件刚发生",
+      "camera_position": "人物侧前方腰高，距离三至五米，朝其事件目标方向斜拍",
+      "framing": "人物占三分之一左右的中全景，保留脚底接触、目标门洞及高层重复",
+      "viewing_target": "动作去向和普通入口连接，人物情绪与巨构路径共同叙事"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-shared-2",
+    "shot": {
+      "moment": "目光先抵达目标、身体动作尚未收回",
+      "camera_position": "人物背后肩外眼高，沿视线看向远端的普通入口",
+      "framing": "肩背近前景加入口和层层楼廊的环境中景，人物不是远处小点",
+      "viewing_target": "近人物、可抵达目标与被空气淡化的远楼关系"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-shared-3",
+    "shot": {
+      "moment": "双脚仍按本动作接地、手部职责保持",
+      "camera_position": "目标入口一侧地面膝高向人物侧面拍，距离约四米",
+      "framing": "全身加连贯通道，头部轮廓不被栏或门框截断",
+      "viewing_target": "回身方向、落脚路径和建筑生活尺度"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-person-1",
+    "shot": {
+      "moment": "侧头、抬头或任务暂停时目光刚接近摄影者",
+      "camera_position": "人物侧前方眼高，距离约一米至一点五米",
+      "framing": "脸与肩或上胸的近景，人物占画面一半以上；身后偏侧保留数层正常窗列向画外升高",
+      "viewing_target": "面部情绪、近处衣装识别与局部巨构的空气层次"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-person-2",
+    "shot": {
+      "moment": "当前手部动作刚停、另一支撑保持",
+      "camera_position": "人物侧面略低于肩的机位，距离约两米",
+      "framing": "中近景保留左掌扶长凳座面边缘，脸和近手主导；远层普通窗格重复出框",
+      "viewing_target": "脸手关系、承重点与巨构作为有距离的局部背景"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-1-mega-person-3",
+    "shot": {
+      "moment": "身体仍在同一位置、眼神转向画外",
+      "camera_position": "人物侧后方眼高绕至三分之二侧面，距离一点五至两米",
+      "framing": "侧面半身，近肩可轻遮画角，留一条窗廊或楼缝纵深而不收全建筑",
+      "viewing_target": "侧转神态、原妆造的发型与领口与远处巨量建筑局部"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-mega-structure-3",
+    "shot": {
+      "moment": "动作已经稳住、视线仍指向高层",
+      "camera_position": "同一场地可站立低台或台阶上斜俯拍，不使用未登记悬空位置",
+      "framing": "环境全景，地面路径向楼群深处延伸，建筑轮廓持续出框；建筑占据绝大部分画面，人物留在远端底部作同层正常门窗的微小尺度参照，不要求脸可辨",
+      "viewing_target": "真实地面、行动路径与巨量重复单元的纵深；建筑或建筑群的巨大体量主导，正常细部反复积累至画外，远端底部人物仅作尺度参照"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-2-mega-person-2",
+    "shot": {
+      "moment": "当前手部动作刚停、另一支撑保持",
+      "camera_position": "人物侧面略低于肩的机位，距离约两米",
+      "framing": "中近景保留双掌分开接触固定栏杆上沿，脸和近手主导；远层普通窗格重复出框",
+      "viewing_target": "脸手关系、承重点与巨构作为有距离的局部背景"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-3-mega-person-2",
+    "shot": {
+      "moment": "当前手部动作刚停、另一支撑保持",
+      "camera_position": "人物侧面略低于肩的机位，距离约两米",
+      "framing": "中近景保留左掌扶长凳座面，脸和近手主导；远层普通窗格重复出框",
+      "viewing_target": "脸手关系、承重点与巨构作为有距离的局部背景"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-4-mega-person-2",
+    "shot": {
+      "moment": "当前手部动作刚停、另一支撑保持",
+      "camera_position": "人物侧面略低于肩的机位，距离约两米",
+      "framing": "中近景保留左肘支在左大腿上与左掌托下颌侧，脸和近手主导；远层普通窗格重复出框",
+      "viewing_target": "脸手关系、承重点与巨构作为有距离的局部背景"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-5-mega-person-2",
+    "shot": {
+      "moment": "当前手部动作刚停、另一支撑保持",
+      "camera_position": "人物侧面略低于肩的机位，距离约两米",
+      "framing": "中近景保留左掌放在左大腿上与右手落膝，脸和近手主导；远层普通窗格重复出框",
+      "viewing_target": "脸手关系、承重点与巨构作为有距离的局部背景"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "shot-bold-6-mega-person-2",
+    "shot": {
+      "moment": "当前手部动作刚停、另一支撑保持",
+      "camera_position": "人物侧面略低于肩的机位，距离约两米",
+      "framing": "中近景保留右掌扶石凳边缘与左手轻握左腰剑鞘外侧，脸和近手主导；远层普通窗格重复出框",
+      "viewing_target": "脸手关系、承重点与巨构作为有距离的局部背景"
+    },
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  }
+]

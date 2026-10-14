@@ -1,0 +1,3817 @@
+[
+  {
+    "id": "outfit-3-001",
+    "name": "短西装百褶舞台",
+    "class_id": 3,
+    "subtype": "KPOP打歌",
+    "prompt": "采用用户当次身份参考的成年人物。截短双排扣西装配有支撑短背心、百褶短裙与安全内层，厚底短靴；高马尾、细闪眼线、金属耳环，肩线利落。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "截短双排扣西装",
+      "百褶短裙",
+      "高马尾金属耳环"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "playful",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-3-002",
+    "name": "赛车短夹克舞台",
+    "class_id": 3,
+    "subtype": "KPOP打歌",
+    "prompt": "采用用户当次身份参考的成年人物。赛车式短夹克配不透明背心和宽腰短裤、安全内层，运动长袜与高帮鞋；双束辫、图形眼线、腕带，夹克保留大块拼片。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "赛车短夹克",
+      "宽腰短裤",
+      "图形眼线"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "street",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-3-003",
+    "name": "领带衬衫裙舞台",
+    "class_id": 3,
+    "subtype": "KPOP打歌",
+    "prompt": "采用用户当次身份参考的成年人物。白色长袖衬衫搭细领带、束腰结构和A字短裙，内置不透明安全短裤、系带中筒靴；披肩直发、粉棕妆，单枚耳夹。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "细领带衬衫",
+      "束腰A字裙",
+      "系带中筒靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "elegant",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-004",
+    "name": "银色工装舞台",
+    "class_id": 3,
+    "subtype": "KPOP打歌",
+    "prompt": "采用用户当次身份参考的成年人物。金属色不透明短背心叠网眼袖套的实体内衬，宽松工装长裤与运动靴；齐颈短发、冷银眼线，腰间宽织带。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "金属色短背心",
+      "宽松工装长裤",
+      "宽织带腰封"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment",
+      "theme-3-megastructure-story"
+    ],
+    "styling_families": [
+      "stage",
+      "futuristic",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-3-005",
+    "name": "羽饰肩部舞台",
+    "class_id": 3,
+    "subtype": "KPOP打歌",
+    "prompt": "采用用户当次身份参考的成年人物。不透明贴身上衣配可拆羽饰肩片、斜裁及膝裙与安全内层，低跟舞鞋；高盘发、拉长眼线、长耳饰，羽片聚为肩部大形。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "羽饰肩片",
+      "斜裁及膝裙",
+      "高盘发长耳饰"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "elegant",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-3-006",
+    "name": "机能裙裤舞台",
+    "class_id": 3,
+    "subtype": "KPOP打歌",
+    "prompt": "采用用户当次身份参考的成年人物。立领短机能上衣配分片裙裤、不透明内层与平底靴，腰侧轻量扣带；短发侧分、锐利眼线、窄耳挂，露腰范围克制。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "立领机能上衣",
+      "分片裙裤",
+      "窄耳挂"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "street",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-3-007",
+    "name": "宽T街舞练习",
+    "class_id": 3,
+    "subtype": "练习室",
+    "prompt": "采用用户当次身份参考的成年人物。宽松短袖T恤、束脚运动长裤和抓地运动鞋，衣摆不扎紧；低马尾、自然淡妆、护腕，服装具完整胸臀覆盖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽T束脚裤",
+      "抓地运动鞋",
+      "低马尾护腕"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "theme-3-bold-photo-moment"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-008",
+    "name": "拉链卫衣练习",
+    "class_id": 3,
+    "subtype": "练习室",
+    "prompt": "采用用户当次身份参考的成年人物。短拉链卫衣内搭完整覆盖的运动背心、骑行长度紧身短裤和厚底运动鞋；双辫、轻淡妆、毛巾搭肩，拉链保留可活动余量。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短拉链卫衣",
+      "骑行长度短裤",
+      "肩搭毛巾"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "fresh"
+    ]
+  },
+  {
+    "id": "outfit-3-009",
+    "name": "背心阔腿练习",
+    "class_id": 3,
+    "subtype": "练习室",
+    "prompt": "采用用户当次身份参考的成年人物。有支撑棉质背心搭落地阔腿运动裤和薄底舞鞋，裤脚不拖地；丸子头、自然妆、发圈套腕，轮廓上窄下宽。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "棉背心阔腿裤",
+      "薄底舞鞋",
+      "丸子头"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "athletic",
+      "street",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-3-010",
+    "name": "针织热身舞者",
+    "class_id": 3,
+    "subtype": "练习室",
+    "prompt": "采用用户当次身份参考的成年人物。短针织开衫叠不透明运动连身短装，安全内层与腿套、软底舞鞋；低盘发、淡粉妆，小耳钉，胸部完整覆盖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "针织开衫连身短装",
+      "腿套软舞鞋",
+      "低盘发"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "fresh",
+      "athletic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-3-011",
+    "name": "棒球夹克练习",
+    "class_id": 3,
+    "subtype": "练习室",
+    "prompt": "采用用户当次身份参考的成年人物。宽松棒球夹克、长T与直筒运动裤，高帮鞋；低束发、淡妆，棒球帽戴稳不遮眼，袖口收束适合舞动。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "棒球夹克",
+      "直筒运动裤",
+      "棒球帽"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal"
+    ],
+    "styling_families": [
+      "street",
+      "playful",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-3-012",
+    "name": "背带工装练习",
+    "class_id": 3,
+    "subtype": "练习室",
+    "prompt": "采用用户当次身份参考的成年人物。不透明短袖上衣搭宽腿背带工装裤、帆布鞋，背带长度适合抬臂；侧辫、明净妆、织物腕带。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽腿背带工装裤",
+      "帆布鞋",
+      "侧辫"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-013",
+    "name": "风衣机场通勤",
+    "class_id": 3,
+    "subtype": "机场私服",
+    "prompt": "采用用户当次身份参考的成年人物。及膝双排风衣、针织圆领衫和九分直筒裤，软底皮鞋；低髻、自然职业妆，配小旅行箱，外衣可敞开。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "双排风衣",
+      "九分直筒裤",
+      "小旅行箱"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-airport",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-3-014",
+    "name": "针织套装机场",
+    "class_id": 3,
+    "subtype": "机场私服",
+    "prompt": "采用用户当次身份参考的成年人物。宽松圆领针织上衣配同材质直筒长裤、低帮运动鞋，斜挎小包；长发自然披肩、淡妆，小耳钉。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "针织上下套装",
+      "低帮运动鞋",
+      "斜挎小包"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-airport",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "elegant",
+      "fresh",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-3-015",
+    "name": "短皮衣机场",
+    "class_id": 3,
+    "subtype": "机场私服",
+    "prompt": "采用用户当次身份参考的成年人物。短皮夹克、完整覆盖的棉质内搭和高腰牛仔长裤，平底短靴；直发中分、棕色眼线、单肩包，皮衣用宽缓反光表现。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短皮夹克",
+      "高腰牛仔裤",
+      "中分直发"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-airport",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "street",
+      "dark",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-3-016",
+    "name": "衬衫长裙机场",
+    "class_id": 3,
+    "subtype": "机场私服",
+    "prompt": "采用用户当次身份参考的成年人物。宽松衬衫搭不透明及踝直裙，腰间细带、低跟凉鞋和帆布托特包；低马尾、暖淡妆，窄耳环。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "衬衫及踝直裙",
+      "帆布托特包",
+      "低马尾"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-airport",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "romantic",
+      "elegant",
+      "fresh"
+    ]
+  },
+  {
+    "id": "outfit-3-017",
+    "name": "牛仔套装街拍",
+    "class_id": 3,
+    "subtype": "杂志街拍",
+    "prompt": "采用用户当次身份参考的成年人物。结构短牛仔外套搭完整覆盖的贴身内衫、同材质宽腿裤和尖头低跟鞋；波浪短发、棕红妆，皮带与大耳环。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短牛仔外套宽腿裤",
+      "波浪短发",
+      "大耳环"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "street",
+      "fresh",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-018",
+    "name": "大西装骑行裤",
+    "class_id": 3,
+    "subtype": "杂志街拍",
+    "prompt": "采用用户当次身份参考的成年人物。宽肩长西装搭不透明运动背心、膝上骑行短裤和短靴，胸臀完整覆盖；贴头低髻、干净长眼线、粗项链。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽肩长西装",
+      "膝上骑行裤",
+      "贴头低髻"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "theme-3-street",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-3-019",
+    "name": "解构衬衫裙",
+    "class_id": 3,
+    "subtype": "杂志街拍",
+    "prompt": "采用用户当次身份参考的成年人物。不对称长袖衬衫裙以层叠门襟固定，裙长过膝、内层不透明，平底皮鞋；侧分短发、柔棕妆、单侧耳夹。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "不对称层叠门襟",
+      "过膝衬衫裙",
+      "单侧耳夹"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "theme-3-street",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-020",
+    "name": "针织背心套裙",
+    "class_id": 3,
+    "subtype": "杂志街拍",
+    "prompt": "采用用户当次身份参考的成年人物。箱形针织背心叠宽袖衬衫、及膝A字裙与长袜，系带皮鞋；长发半束、淡粉妆、小胸针，袖裙都留活动余量。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "箱形针织背心",
+      "宽袖衬衫A字裙",
+      "小胸针"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "theme-3-street",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "fresh",
+      "elegant",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-3-021",
+    "name": "长马甲裤装",
+    "class_id": 3,
+    "subtype": "杂志街拍",
+    "prompt": "采用用户当次身份参考的成年人物。无袖长马甲叠不透明高领短袖、九分阔腿西裤和低跟鞋；短发后梳、冷棕眼妆、细金属手镯。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "无袖长马甲",
+      "九分阔腿西裤",
+      "后梳短发"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "theme-3-street",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-3-022",
+    "name": "透明壳片时装",
+    "class_id": 3,
+    "subtype": "未来流行",
+    "prompt": "采用用户当次身份参考的成年人物。不透明短连衣裙外叠透明硬壳肩片与腰片，敏感区域无透明单独覆盖，低跟短靴；齐颈直发、冷光眼线、几何耳饰。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "透明外壳肩腰片",
+      "不透明短连衣裙",
+      "几何耳饰"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "elegant",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-023",
+    "name": "结构环肩套装",
+    "class_id": 3,
+    "subtype": "未来流行",
+    "prompt": "采用用户当次身份参考的成年人物。高领无袖不透明上衣带轻量弧形肩环，直筒长裤和方头鞋；高束发、银色细眼线、小耳钉，肩环不遮脸不夹手臂。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "弧形肩环",
+      "高领直筒套装",
+      "方头鞋"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "elegant",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "outfit-3-024",
+    "name": "模块背带时装",
+    "class_id": 3,
+    "subtype": "未来流行",
+    "prompt": "采用用户当次身份参考的成年人物。弹性不透明长袖内衣外搭可拆织带短马甲、宽腿长裤与运动鞋，扣件远离关节；编辫、图形眼线、窄耳挂。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "模块织带短马甲",
+      "宽腿长裤",
+      "窄耳挂"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-runway",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "street",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-3-025",
+    "name": "折纸裙时装",
+    "class_id": 3,
+    "subtype": "未来流行",
+    "prompt": "采用用户当次身份参考的成年人物。不透明方领上衣配硬挺折纸形及膝裙，内置安全层、低跟鞋；圆润短波波发、淡冷妆、扁平耳饰，裙片聚成三段大形。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "折纸形及膝裙",
+      "方领上衣",
+      "短波波发"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "elegant",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "outfit-3-026",
+    "name": "立体斗篷裤装",
+    "class_id": 3,
+    "subtype": "未来流行",
+    "prompt": "采用用户当次身份参考的成年人物。不透明连身长裤外叠短立体斗篷，肩线向外展开、低跟靴；低髻、简洁眼线、金属领扣，斗篷前方留足手臂空间。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短立体斗篷",
+      "连身长裤",
+      "金属领扣"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "futuristic",
+      "elegant",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-3-027",
+    "name": "复古迪斯科裤装",
+    "class_id": 3,
+    "subtype": "复古女团",
+    "prompt": "采用用户当次身份参考的成年人物。翻领短上衣配高腰喇叭长裤，胸部完整覆盖、厚底舞鞋；大波浪发、暖金眼妆、圆环耳饰，裤脚不盖鞋尖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "翻领短上衣",
+      "高腰喇叭裤",
+      "大波浪发"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-runway",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "classical",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-028",
+    "name": "复古网球裙装",
+    "class_id": 3,
+    "subtype": "复古女团",
+    "prompt": "采用用户当次身份参考的成年人物。条纹领短袖针织衫配百褶运动裙和不透明安全短裤，长袜、运动鞋；高马尾、清新粉妆、织物发带。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "条纹领针织衫",
+      "运动百褶裙",
+      "织物发带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-runway",
+      "theme-3-rehearsal",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "stage",
+      "athletic",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-3-029",
+    "name": "丝绒领结套装",
+    "class_id": 3,
+    "subtype": "复古女团",
+    "prompt": "采用用户当次身份参考的成年人物。丝绒收腰短西装、圆领内衫和及膝直裙，内层不透明、低跟玛丽珍鞋；齐刘海短发、细眼线、领口小蝴蝶结。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "丝绒收腰短西装",
+      "及膝直裙",
+      "领口蝴蝶结"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-runway",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "classical",
+      "elegant",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-3-030",
+    "name": "复古摇滚裙裤",
+    "class_id": 3,
+    "subtype": "复古女团",
+    "prompt": "采用用户当次身份参考的成年人物。不透明印花T、短皮马甲、格纹裙裤和厚底系带靴；层次中长发、柔烟熏妆、宽腕带，背轻量道具吉他。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短皮马甲格纹裙裤",
+      "宽腕带",
+      "道具吉他"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "dynamic"
+    ],
+    "props": [
+      "guitar"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-3-choreography",
+      "theme-3-concert",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-fansign",
+      "theme-3-heritage-mv",
+      "theme-3-mv",
+      "theme-3-runway",
+      "theme-3-rehearsal"
+    ],
+    "styling_families": [
+      "stage",
+      "street",
+      "dark"
+    ]
+  },
+  {
+    "id": "WEB-FAS-PINK",
+    "name": "粉色领衫·抽褶街拍",
+    "class_id": 3,
+    "subtype": "编辑街拍",
+    "prompt": "成年街拍人物穿粉色翻领针织上衣，灰蓝抽褶长裙，黑色系带鞋，白色墨镜，手袋及手机；裙形保留抽褶的不对称大线条，妆发自然，物件可用于行走抓拍。",
+    "recognition_points": [
+      "粉色翻领针织",
+      "灰蓝抽褶长裙",
+      "白墨镜黑系带鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag",
+      "phone",
+      "sunglasses"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-pink"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "street",
+      "romantic",
+      "playful"
+    ]
+  },
+  {
+    "id": "WEB-FAS-UTILITY",
+    "name": "卡其卷袖·迷彩短裤",
+    "class_id": 3,
+    "subtype": "实用街头",
+    "prompt": "成年街拍人物穿卡其翻领衬衫卷袖、带真实裤袋的及膝宽松迷彩短裤、黑帽与窄框墨镜，蓝色肩袋及细跟凉鞋；不追加武器或军用护甲，鞋型只支持稳站与小步行走。",
+    "recognition_points": [
+      "卡其卷袖衬衫",
+      "及膝迷彩宽短裤",
+      "蓝肩袋与细跟鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "hat",
+      "bag",
+      "sunglasses",
+      "pocket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-utility"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-3-editorial",
+      "theme-3-fanmeet",
+      "theme-3-heritage-mv",
+      "theme-3-street"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "fresh"
+    ]
+  },
+  {
+    "id": "style-outfit-F001",
+    "name": "赛博辣妹杂志·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿短款银灰夹克、黑背心与工装短裙；暖调日晒妆、黑色直发。识别配件为手机链、银色耳饰、金属腰链。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "手机链",
+      "银色耳饰",
+      "金属腰链"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "futuristic",
+      "playful"
+    ],
+    "style_affinities": [
+      "F001"
+    ]
+  },
+  {
+    "id": "style-outfit-F002",
+    "name": "Decora Kei贴纸极繁·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿彩色针织上衣、层叠纱裙与运动鞋；明亮淡妆、双侧编发。识别配件为彩色发夹、玩具串珠项链、贴章。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "彩色发夹",
+      "玩具串珠项链",
+      "贴章"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "playful"
+    ],
+    "style_affinities": [
+      "F002"
+    ]
+  },
+  {
+    "id": "style-outfit-F003",
+    "name": "Visual Kei哥特舞台·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿黑蕾丝衬衫、收腰长外套与皮裤；深色眼线、立体蓬松发型。识别配件为金属项链、蕾丝袖口、舞台短靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "金属项链",
+      "蕾丝袖口",
+      "舞台短靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage",
+      "dark",
+      "classical"
+    ],
+    "style_affinities": [
+      "F003"
+    ]
+  },
+  {
+    "id": "style-outfit-F004",
+    "name": "暴走族刺绣外套·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿刺绣长外套、白色内搭与宽腿裤；利落眉眼、高束发。识别配件为背部汉字刺绣、长衣摆、机车靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "背部汉字刺绣",
+      "长衣摆",
+      "机车靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "martial",
+      "dark"
+    ],
+    "style_affinities": [
+      "F004"
+    ]
+  },
+  {
+    "id": "style-outfit-F005",
+    "name": "英伦酸浩室传单穿搭·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿荧光点缀宽松运动外套、背心与直筒裤；清爽淡妆、短束发。识别配件为笑脸胸章、撞色袖片、运动鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "笑脸胸章",
+      "撞色袖片",
+      "运动鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street"
+    ],
+    "style_affinities": [
+      "F005"
+    ]
+  },
+  {
+    "id": "style-outfit-F006",
+    "name": "赛博哥特工业锐舞·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿PVC短外套、不透明长袖内搭与工装裤；深色眼线、荧光色假发束。识别配件为腰挂呼吸面罩、工业腰扣、厚底靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "腰挂呼吸面罩",
+      "工业腰扣",
+      "厚底靴"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage",
+      "futuristic",
+      "dark"
+    ],
+    "style_affinities": [
+      "F006"
+    ]
+  },
+  {
+    "id": "style-outfit-F008",
+    "name": "七十年代华丽摇滚妆·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿亮片长袖连体舞台裤装与平台靴；亮片眼影、蓬松卷发。识别配件为喇叭裤脚、亮片肩线、平台靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "喇叭裤脚",
+      "亮片肩线",
+      "平台靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage"
+    ],
+    "style_affinities": [
+      "F008"
+    ]
+  },
+  {
+    "id": "style-outfit-F009",
+    "name": "Afropunk编辑大片·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿图形印花衬衫、结构短外套与阔腿裤；图形眼线、保留本人发质的自然蓬松发型。识别配件为金属耳环、几何印花、宽腰带。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "金属耳环",
+      "几何印花",
+      "宽腰带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "stage",
+      "dark"
+    ],
+    "style_affinities": [
+      "F009"
+    ]
+  },
+  {
+    "id": "style-outfit-F010",
+    "name": "九十年代原宿街拍·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿混搭图案外套、条纹内搭与宽松半裙；轻快眼妆、随性束发。识别配件为撞色袜、帆布鞋、小徽章。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "撞色袜",
+      "帆布鞋",
+      "小徽章"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street"
+    ],
+    "style_affinities": [
+      "F010"
+    ]
+  },
+  {
+    "id": "style-outfit-F012",
+    "name": "未来部落珠饰·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿未来廓形长背心、不透明连体内搭与直筒裤；细金属眼线、整齐编发。识别配件为珠饰领片、弧形肩线、几何腰扣。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "珠饰领片",
+      "弧形肩线",
+      "几何腰扣"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F012"
+    ]
+  },
+  {
+    "id": "style-outfit-F013",
+    "name": "苏联青年牛仔杂志·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿复古牛仔夹克、素T与牛仔长裤；淡妆、自然侧分发。识别配件为牛仔门襟、卷袖、旧式运动鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "牛仔门襟",
+      "卷袖",
+      "旧式运动鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street"
+    ],
+    "style_affinities": [
+      "F013"
+    ]
+  },
+  {
+    "id": "style-outfit-F014",
+    "name": "太空歌剧华丽披风·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿宽大礼仪披风、高领上衣与长裤；庄重眼妆、盘发。识别配件为金属肩饰、宽披风、星形胸针。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "金属肩饰",
+      "宽披风",
+      "星形胸针"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "stage",
+      "futuristic",
+      "fantasy"
+    ],
+    "style_affinities": [
+      "F014"
+    ]
+  },
+  {
+    "id": "style-outfit-F016",
+    "name": "骑士机车皮衣杂志·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿铆钉皮衣、素色内搭与机车长裤；克制烟熏眼妆、侧分长发。识别配件为铆钉翻领、皮带、机车靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "铆钉翻领",
+      "皮带",
+      "机车靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "martial",
+      "dark"
+    ],
+    "style_affinities": [
+      "F016"
+    ]
+  },
+  {
+    "id": "style-outfit-F017",
+    "name": "太空度假酒店制服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿弧形领短外套、及膝A字裙与低跟鞋；明朗职业妆、盘髻。识别配件为圆帽、彩色袖边、服务胸牌。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "圆帽",
+      "彩色袖边",
+      "服务胸牌"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F017"
+    ]
+  },
+  {
+    "id": "style-outfit-F018",
+    "name": "民俗运动混搭·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿民俗纹样运动夹克、运动背心与长裤；自然暖妆、编发。识别配件为织带纹样、运动拼色、系带鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "织带纹样",
+      "运动拼色",
+      "系带鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "classical",
+      "playful"
+    ],
+    "style_affinities": [
+      "F018"
+    ]
+  },
+  {
+    "id": "style-outfit-F019",
+    "name": "铬色千禧时装大片·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿铬色短夹克、不透明背心与低腰长裤；局部亮泽妆、利落长发。识别配件为科技珠宝、铬色衣片、宽腰带。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "科技珠宝",
+      "铬色衣片",
+      "宽腰带"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F019"
+    ]
+  },
+  {
+    "id": "style-outfit-F020",
+    "name": "沙漠锐舞机能装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿沙色尼龙外套、透气内搭与工装长裤；干净淡妆、束发。识别配件为额上护目镜、防尘袖口、尼龙绑带。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "额上护目镜",
+      "防尘袖口",
+      "尼龙绑带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage",
+      "athletic"
+    ],
+    "style_affinities": [
+      "F020"
+    ]
+  },
+  {
+    "id": "style-outfit-F021",
+    "name": "美发沙龙烫发目录·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿柔软开襟衬衫、简洁长裤与低跟鞋；柔和日常妆、完整有体积的烫卷发。识别配件为亮卷发、弧形领口、细耳饰。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "亮卷发",
+      "弧形领口",
+      "细耳饰"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "classical"
+    ],
+    "style_affinities": [
+      "F021"
+    ]
+  },
+  {
+    "id": "style-outfit-F022",
+    "name": "哥特洛丽塔洗衣店·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿黑色蕾丝领长袖连衣裙与不透明裙衬；深色细眼线、卷发。识别配件为蕾丝领、层叠裙摆、系带短靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "蕾丝领",
+      "层叠裙摆",
+      "系带短靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "romantic",
+      "classical",
+      "dark"
+    ],
+    "style_affinities": [
+      "F022"
+    ]
+  },
+  {
+    "id": "style-outfit-F023",
+    "name": "高速公路牛仔夹克·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿日晒色补丁牛仔夹克、素色内搭与直筒裤；暖淡妆、随性束发。识别配件为补丁、牛仔翻领、皮靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "补丁",
+      "牛仔翻领",
+      "皮靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street"
+    ],
+    "style_affinities": [
+      "F023"
+    ]
+  },
+  {
+    "id": "style-outfit-F024",
+    "name": "太空酒店制服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿弧形领制服上衣、直筒长裙与低跟鞋；简洁职业妆、盘髻。识别配件为塑料胸牌、撞色弧领、制服滚边。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "塑料胸牌",
+      "撞色弧领",
+      "制服滚边"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F024"
+    ]
+  },
+  {
+    "id": "style-outfit-F025",
+    "name": "地下电台皮夹克·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿黑色皮夹克、针织上衣与长裤；克制深眼线、松散束发。识别配件为颈挂耳机、胸针、皮翻领。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "颈挂耳机",
+      "胸针",
+      "皮翻领"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "dark"
+    ],
+    "style_affinities": [
+      "F025"
+    ]
+  },
+  {
+    "id": "style-outfit-F026",
+    "name": "糖果色机车辣妹·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿糖果色机车夹克、素背心与长裤；清亮妆容、马尾。识别配件为挂在腰侧的漆面头盔、贴花、护肘衣片。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "挂在腰侧的漆面头盔",
+      "贴花",
+      "护肘衣片"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "playful"
+    ],
+    "style_affinities": [
+      "F026"
+    ]
+  },
+  {
+    "id": "style-outfit-F027",
+    "name": "赛博护士制服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿蓝绿滚边乙烯基感医护外套、不透明高领内搭与长裤；淡职业妆、盘发。识别配件为医护袖片、蓝绿边线、功能口袋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "医护袖片",
+      "蓝绿边线",
+      "功能口袋"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F027"
+    ]
+  },
+  {
+    "id": "style-outfit-F028",
+    "name": "旧百货试衣间时装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿合身衬衫、短西装与及膝裙；日常淡妆、自然卷发。识别配件为翻领、布扣、细腰带。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "翻领",
+      "布扣",
+      "细腰带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "stage"
+    ],
+    "style_affinities": [
+      "F028"
+    ]
+  },
+  {
+    "id": "style-outfit-F029",
+    "name": "城市民俗运动装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿刺绣运动外套、运动背心与条纹长裤；自然暖妆、编发。识别配件为民族刺绣、运动条纹、系带鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "民族刺绣",
+      "运动条纹",
+      "系带鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "classical"
+    ],
+    "style_affinities": [
+      "F029"
+    ]
+  },
+  {
+    "id": "style-outfit-F030",
+    "name": "电子游戏厅舞台装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿霓虹滚边舞台外套、短上衣与带安全内层的百褶裙；舞台眼线、高马尾。识别配件为霓虹丝带、塑料首饰、厚底鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "霓虹丝带",
+      "塑料首饰",
+      "厚底鞋"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage",
+      "futuristic",
+      "playful"
+    ],
+    "style_affinities": [
+      "F030"
+    ]
+  },
+  {
+    "id": "style-outfit-F031",
+    "name": "冷战滑雪制服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿复古配色保暖滑雪夹克、厚实滑雪长裤与雪靴；防寒自然妆、扎起的头发。识别配件为额上块状护目镜、高山图案布章、保暖手套。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "额上块状护目镜",
+      "高山图案布章",
+      "保暖手套"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "athletic",
+      "classical",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F031"
+    ]
+  },
+  {
+    "id": "style-outfit-F033",
+    "name": "电脑维修工装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿米色多袋维修马甲、长袖内搭与耐磨长裤；淡妆、束发。识别配件为工具口袋、盘好的腰挂线缆、维修胸牌。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "工具口袋",
+      "盘好的腰挂线缆",
+      "维修胸牌"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F033"
+    ]
+  },
+  {
+    "id": "style-outfit-F034",
+    "name": "民俗金属乐造型·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿织带边黑色长外套、内搭与长裤；深色眼线、编发。识别配件为民俗织带、暗金属扣、厚底鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "民俗织带",
+      "暗金属扣",
+      "厚底鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage",
+      "classical",
+      "dark"
+    ],
+    "style_affinities": [
+      "F034"
+    ]
+  },
+  {
+    "id": "style-outfit-F035",
+    "name": "学校灵异制服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿成年演员的复古学院制服外套、白衬衫与及膝百褶裙；清淡冷调妆、整齐直发。识别配件为制服领结、规整门襟、皮鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "制服领结",
+      "规整门襟",
+      "皮鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "dark",
+      "classical"
+    ],
+    "style_affinities": [
+      "F035"
+    ]
+  },
+  {
+    "id": "style-outfit-F036",
+    "name": "机场贵宾厅西装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿剪裁利落的西装、衬衫与长裤；职业淡妆、低盘发。识别配件为西装翻领、细腰带、登机证卡套。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "西装翻领",
+      "细腰带",
+      "登机证卡套"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "classical"
+    ],
+    "style_affinities": [
+      "F036"
+    ]
+  },
+  {
+    "id": "style-outfit-F038",
+    "name": "电视购物主持人造型·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿亮面西装、素色内搭与直筒裤；明朗主持妆、整齐卷发。识别配件为亮面翻领、胸针、低跟鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "亮面翻领",
+      "胸针",
+      "低跟鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "stage"
+    ],
+    "style_affinities": [
+      "F038"
+    ]
+  },
+  {
+    "id": "style-outfit-F039",
+    "name": "后院科幻童子军·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿成年科幻户外队员短外套、素T与长裤；自然淡妆、马尾。识别配件为手作徽章、腰挂手电、户外鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "手作徽章",
+      "腰挂手电",
+      "户外鞋"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F039"
+    ]
+  },
+  {
+    "id": "style-outfit-F040",
+    "name": "新千年办公室酷感·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿网眼外层叠穿不透明内搭、短西装与长裤；简洁时装妆、侧分发。识别配件为彩色眼镜、网眼叠层、细皮带。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "彩色眼镜",
+      "网眼叠层",
+      "细皮带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "classical"
+    ],
+    "style_affinities": [
+      "F040"
+    ]
+  },
+  {
+    "id": "style-outfit-F042",
+    "name": "地铁朋克通勤装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿补丁长外套、素色内搭与宽松长裤；细深眼线、随性束发。识别配件为交通标签胸章、补丁、帆布鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "交通标签胸章",
+      "补丁",
+      "帆布鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street"
+    ],
+    "style_affinities": [
+      "F042"
+    ]
+  },
+  {
+    "id": "style-outfit-F046",
+    "name": "社区电视主持装·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿亮色开衫、衬衫与长裤；亲和主持妆、自然卷发。识别配件为领夹麦、织纹开衫、衬衫领。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "领夹麦",
+      "织纹开衫",
+      "衬衫领"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "stage",
+      "playful"
+    ],
+    "style_affinities": [
+      "F046"
+    ]
+  },
+  {
+    "id": "style-outfit-F047",
+    "name": "雨夜侦探风衣·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿防水侦探风衣、衬衫与长裤；克制淡妆、收拢头发。识别配件为宽翻领、腰带、雨靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "宽翻领",
+      "腰带",
+      "雨靴"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "dark"
+    ],
+    "style_affinities": [
+      "F047"
+    ]
+  },
+  {
+    "id": "style-outfit-F048",
+    "name": "数码相机街拍造型·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿随意叠穿衬衫、素T与宽松长裤；清爽妆容、自然直发。识别配件为相机背带、帆布包、撞色鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "相机背带",
+      "帆布包",
+      "撞色鞋"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F048"
+    ]
+  },
+  {
+    "id": "style-outfit-F049",
+    "name": "月球服务员制服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿月球餐厅服务制服、高领内搭与长裤；明朗淡妆、盘发。识别配件为铬色围裙、可开启泡泡头盔、制服滚边。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "铬色围裙",
+      "可开启泡泡头盔",
+      "制服滚边"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "futuristic",
+      "playful"
+    ],
+    "style_affinities": [
+      "F049"
+    ]
+  },
+  {
+    "id": "style-outfit-F051",
+    "name": "霓虹保龄球夹克·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿复古缎面运动夹克、内搭与长裤；清爽妆容、马尾。识别配件为背部刺绣、撞色领口、运动鞋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "背部刺绣",
+      "撞色领口",
+      "运动鞋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "romantic",
+      "elegant",
+      "athletic"
+    ],
+    "style_affinities": [
+      "F051"
+    ]
+  },
+  {
+    "id": "style-outfit-F052",
+    "name": "工业实验室长袍·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿工业实验室长袍、长袖内搭与长裤；干净职业妆、束发。识别配件为橡胶手套、警示滚边、功能口袋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "橡胶手套",
+      "警示滚边",
+      "功能口袋"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F052"
+    ]
+  },
+  {
+    "id": "style-outfit-F054",
+    "name": "太空牛仔礼服·原创衣装方案",
+    "class_id": 3,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿西部剪裁礼服外套、衬衫与长裤；暖调淡妆、束发。识别配件为银色领绳、宽帽檐、带尘长靴。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "银色领绳",
+      "宽帽檐",
+      "带尘长靴"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-3-editorial",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "street",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F054"
+    ]
+  }
+]

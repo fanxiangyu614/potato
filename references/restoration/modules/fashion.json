@@ -1,0 +1,26 @@
+{
+  "module_name": "fashion",
+  "description": "服饰材质模块——布料、皮革、金属配饰、鞋包的纹理与反射修复",
+  "fabric": {
+    "preserve": "织物密度、厚薄、垂坠、折痕、缝线、受力褶皱、织物纹理、纽扣拉链细节",
+    "remove": "块状脏纹、灰雾、随机颗粒、色带、摩尔纹、油腻塑料反光、起球感、磨损脏斑",
+    "rendering": "正确的织物质感，棉麻粗糙、丝绸柔滑、牛仔粗粝各有区分，折痕处有合理的明暗过渡"
+  },
+  "leather": {
+    "preserve": "皮革纹理、毛孔、自然褶皱、磨损痕迹、缝线、皮革光泽",
+    "remove": "塑料感反光、灰雾脏斑、色块不均、过度锐化、人造革质感",
+    "rendering": "真实皮革质感，柔和的半哑光反射，纹理清晰但不夸张，褶皱处有自然阴影"
+  },
+  "metal_accessories": {
+    "preserve": "金属光泽、反射、自然磨损划痕、logo刻印、铆钉、链条结构",
+    "remove": "脏点、指纹、氧化斑、反射断裂、塑料感高光、锯齿边缘",
+    "rendering": "符合金属材质的反射特性，铬合金亮面反射清晰，哑光金属反射柔和，不使用统一高光"
+  },
+  "shoes_bags": {
+    "preserve": "鞋型、包型、结构线、材质拼接、品牌标识、鞋底纹理",
+    "remove": "灰尘、污渍、磨损脏边、反光不均、压缩伪影、边缘锯齿",
+    "rendering": "材质区分明确，皮革、织物、橡胶、金属各有正确反射和粗糙度，边缘干净利落"
+  },
+  "style_keywords": "correct fabric texture, natural drape, realistic leather, proper metal reflection, material distinction, clean garment edges, tactile fabric weave, natural folds, non-plastic material",
+  "negative_prompt": "plastic fabric, greasy reflection, moire pattern, color banding, dirty stains, blocky texture, over-sharpened, CGI clothing, fake leather, uniform highlights, compressed artifacts"
+}

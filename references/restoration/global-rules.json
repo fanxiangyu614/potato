@@ -1,0 +1,20 @@
+{
+  "core_principle": "对输入原图进行严格受控的纹理修复与干净化处理。原图约束身份、结构和空间，实际区域的物理材质指导纹理。按所选强度舍弃受损区域的劣质涂抹、塑料感和噪点，重生符合原材质、原光影与原透视的肌理，不进行重新设计。无法辨认的细节不宣称精确恢复。",
+  "must_preserve": {
+    "identity": "人物身份、五官、年龄、肤色和身体比例",
+    "composition": "构图、姿态、机位、透视、画幅和裁切",
+    "clothing": "服装结构、缝线、色块、褶皱位置和配饰",
+    "lighting": "背景、光源方向、曝光、阴影和整体色板",
+    "text": "文字内容、字体、字号、字距、位置和排版",
+    "non_target": "所有非目标区域的形状、数量、位置和遮挡关系",
+    "summary": "只修纹理，不改脸、不改手、不改身体、不改服装、不改配饰、不改文字、不改构图、不改颜色、不改灯光、不改背景、不裁切、不扩图。"
+  },
+  "overall_quality": {
+    "target": "按原材质区分平滑与粗糙表面，真实肌理克制可辨，保留原图光影，大形体清楚，主体分离明确，边缘精致，过渡自然，细节密度符合景深与尺度。",
+    "remove_global": "清除随机斑点、块状脏纹、伪影造成的脏暗块、压缩伪影、锯齿、非预期光晕、过度锐化和混乱高频细节；保留真实阴影、皮肤、发丝、布料与材质细节。",
+    "background_rule": "目标背景必须明确强调去除非预期噪点。纯色或平滑区域使用 clean, pure smooth background, completely noise-free；有纹理环境保留墙体、植物等真实纹理与空间层次，老照片保留合理胶片颗粒，插画保留笔触。局部任务不处理非目标背景。",
+    "style_rule": "材质修复服从原图风格；全局负向词中的 illustration、anime、CGI、3D render 等仅限制不受请求的风格转换，不否定原图已有风格。",
+    "balance_rule": "修复与保留的平衡——去除脏污伪影的同时，必须保留真实材质纹理。干净不等于磨平，清晰不等于锐化。"
+  },
+  "negative_prompt_global": "redesign, restyle, change face, change body, change pose, change composition, change clothing, change background, change lighting, change color, recolor, crop, outpaint, expand image, add elements, remove objects, super resolution, upscale, AI art style, illustration, anime, CGI, 3D render, plastic texture, over-smoothed, over-sharpened, beauty filter, heavy retouching"
+}

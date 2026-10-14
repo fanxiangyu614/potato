@@ -1,0 +1,26 @@
+{
+  "module_name": "scene",
+  "description": "场景背景模块——建筑、风景、室内、街景的洁净度与空间层次修复",
+  "architecture": {
+    "preserve": "建筑结构、线条、透视、材质纹理、门窗、装饰细节、历史痕迹",
+    "remove": "墙面脏斑、非预期涂鸦、水渍、霉斑、脱落色块、天空噪点、建筑边缘锯齿",
+    "rendering": "建筑线条笔直清晰，材质表面干净，透视正确，墙面、玻璃、金属各有正确反射"
+  },
+  "landscape": {
+    "preserve": "地形、植被、水面、天空、云层、光影方向、空间层次、自然纹理",
+    "remove": "天空噪点、水面杂色、植被色块断裂、远山灰雾、压缩伪影、色彩断层",
+    "rendering": "天空渐变平滑，水面反射干净，植被层次分明，远山有合理的空气透视，整体通透"
+  },
+  "interior": {
+    "preserve": "空间结构、家具、装饰、材质、灯光氛围、透视、软装细节",
+    "remove": "墙面脏斑、地面污渍、家具灰尘、玻璃反光杂影、灯光溢色、角落灰雾",
+    "rendering": "空间干净通透，材质表面洁净，灯光过渡自然，阴影有层次，整体氛围统一"
+  },
+  "street": {
+    "preserve": "街道结构、车辆、行人、店铺招牌、城市纹理、光影、生活气息",
+    "remove": "路面脏斑、非预期墙面涂鸦、车辆灰尘、天空灰雾、压缩噪点、过暗死角",
+    "rendering": "城市纹理清晰但不脏乱，光影过渡自然，招牌文字可读，整体有干净的街景质感"
+  },
+  "style_keywords": "clean architecture, smooth sky gradient, clear landscape layers, tidy interior, clean street, no noise, no color banding, proper atmospheric perspective, spatial depth, clean surfaces",
+  "negative_prompt": "noisy sky, dirty walls, water stains, mold, color banding, compression artifacts, blocky vegetation, hazy distance, jagged building edges, over-dark corners, messy clutter"
+}

@@ -1,0 +1,3245 @@
+[
+  {
+    "id": "cos-001",
+    "name": "不知火舞·经典红白忍者服成人COS调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "不知火舞",
+    "work": "饿狼传说／拳皇",
+    "costume_version": "经典红白忍者服成人COS调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。红白交领无袖忍者短袍，收合深领并加不透明胸襟与内置安全短裤，宽白腰带后垂长尾，长棕发高马尾、清利眼线，红发结与足袋；配折扇道具，轮廓轻巧。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "红白忍者短袍",
+      "宽白腰带长尾",
+      "高马尾与折扇"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Mai Shiranui",
+    "styling_families": [
+      "martial",
+      "classical",
+      "playful"
+    ]
+  },
+  {
+    "id": "cos-002",
+    "name": "蒂法·重制版战斗日装文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "蒂法",
+    "work": "最终幻想VII",
+    "costume_version": "重制版战斗日装文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色短款背心配黑色吊带结构，下着黑色百褶短裙与不透明安全内层，护肘、长袜和红色厚底短靴；黑色长直发、自然棕色眼妆，拳套保持可活动大形。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白背心黑吊带",
+      "百褶短裙",
+      "红色战斗短靴"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-ability",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-bold-photo-moment"
+    ],
+    "character_english": "Tifa Lockhart",
+    "styling_families": [
+      "martial",
+      "street",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-003",
+    "name": "2B·黑色哥特战斗裙文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "2B",
+    "work": "尼尔：机械纪元",
+    "costume_version": "黑色哥特战斗裙文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑色高领长袖短裙，肩袖蓬起、裙摆呈钟形，胸口镂空补不透明同色内衬，黑色过膝靴与手套；银白短波波发、淡妆、黑色眼罩，背负轻量道具长剑。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "银白短发眼罩",
+      "黑色蓬袖钟形裙",
+      "过膝靴与长剑"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "2B",
+    "styling_families": [
+      "dark",
+      "futuristic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-004",
+    "name": "艾达·王·生化危机4重制版针织战斗装文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "艾达·王",
+    "work": "生化危机",
+    "costume_version": "生化危机4重制版针织战斗装文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。红色贴身高领长袖针织连衣短裙配黑色不透明安全短裤和连裤袜，黑色高筒靴、皮革肩带与腿侧空道具套；黑色短发侧分、克制红唇，轻量道具手枪收在套中。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "红色高领针织短裙",
+      "侧分黑短发",
+      "黑色装备肩带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Ada Wong",
+    "styling_families": [
+      "dark",
+      "martial",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-005",
+    "name": "吉尔·瓦伦丁·生化危机3重制版日装文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "吉尔·瓦伦丁",
+    "work": "生化危机",
+    "costume_version": "生化危机3重制版日装文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝色背心配灰黑色工装长裤、腰间系衬衫，肩带、护膝与短军靴；棕色齐颈短发、自然哑光妆，腰侧佩轻量道具武器，裤腿保留屈膝余量。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝背心工装裤",
+      "齐颈棕短发",
+      "腰系衬衫与肩带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Jill Valentine",
+    "styling_families": [
+      "martial",
+      "street",
+      "athletic"
+    ]
+  },
+  {
+    "id": "cos-006",
+    "name": "春丽·经典蓝旗袍成人COS调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "春丽",
+    "work": "街头霸王",
+    "costume_version": "经典蓝旗袍成人COS调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝色立领盘扣旗袍短裙，金色滚边、白色泡泡肩袖，侧开口内配不透明舞蹈短裤，白色系带战靴；双丸子发髻覆白布带，干净眼线，腕部轻量尖刺手环。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝金旗袍泡泡袖",
+      "双丸子白布带",
+      "白色系带战靴"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-ability",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Chun-Li",
+    "styling_families": [
+      "martial",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-007",
+    "name": "阿狸·经典九尾狐服装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "阿狸",
+    "work": "英雄联盟",
+    "costume_version": "经典九尾狐服装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。红白交领束腰短裙加不透明胸襟和安全内层，深色长袜、轻便鞋，九条轻量白色道具尾巴挂在腰后；黑长发、狐耳发箍与面部三道彩绘，配软质光球道具。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "红白束腰短裙",
+      "九条白色道具尾巴",
+      "狐耳与颊侧彩绘"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "orb"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-ability",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Ahri",
+    "styling_families": [
+      "fantasy",
+      "playful",
+      "romantic"
+    ]
+  },
+  {
+    "id": "cos-008",
+    "name": "雷电将军·紫色和式战斗衣文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "雷电将军",
+    "work": "原神",
+    "costume_version": "紫色和式战斗衣文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。紫色和式交领短装与宽袖、腰间红紫结带，胸襟和侧开口使用同色不透明内层，长袜与轻量护腿；长紫发编成粗辫、紫花发饰、冷调眼妆，配轻量道具太刀。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "紫色和式宽袖",
+      "腰间结带",
+      "长紫发粗辫与太刀"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Raiden Shogun",
+    "styling_families": [
+      "martial",
+      "classical",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-009",
+    "name": "八重神子·白红巫女主题成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "八重神子",
+    "work": "原神",
+    "costume_version": "白红巫女主题成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色无袖交领上衣接红色垂片短裙，侧面补不透明内层，金色肩饰与脚踝系带鞋；长粉发披肩、狐耳形发饰，柔粉眼妆；配小折扇，保持巫女长垂片轮廓。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白红巫女垂片",
+      "长粉发狐耳饰",
+      "金色肩饰"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Yae Miko",
+    "styling_families": [
+      "classical",
+      "fantasy",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-010",
+    "name": "卡芙卡·都市猎手外套文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "卡芙卡",
+    "work": "崩坏：星穹铁道",
+    "costume_version": "都市猎手外套文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色衬衫配黑色高腰短裤和不透明连裤袜，酒红色短夹克披肩、黑色高跟短靴，外套保持硬挺短轮廓；酒红长发束起、墨镜置于头顶、成熟烟熏妆，腰侧轻量道具枪套。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "酒红短夹克",
+      "白衬衫黑短裤",
+      "头顶墨镜"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Kafka",
+    "styling_families": [
+      "dark",
+      "street",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-011",
+    "name": "娜美·两年后航海便装成人调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "娜美",
+    "work": "航海王",
+    "costume_version": "两年后航海便装成人调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。绿白条纹有支撑短上衣，胸部完整覆盖，蓝色低腰直筒牛仔长裤、腰带和凉鞋；橙色长波浪发、轻暖妆，腕戴航海表式道具，长棍以可拆轻量实体制作。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "绿白条纹短上衣",
+      "橙色长波浪发",
+      "牛仔长裤与航海道具棍"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "dynamic"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-adventure",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Nami",
+    "styling_families": [
+      "playful",
+      "fresh",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-012",
+    "name": "波雅·汉库克（女帝）·九蛇女帝红色长裙成人调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "波雅·汉库克（女帝）",
+    "work": "航海王",
+    "costume_version": "九蛇女帝红色长裙成人调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。红色立领长裙饰蛇纹大形，胸襟完整覆盖，单侧开衩止于安全位置并配内层，黑色披肩与高跟鞋；黑色中分长直发、金色蛇形耳饰、长眼线与红唇。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "红色蛇纹立领长裙",
+      "中分黑长直发",
+      "金色蛇形耳饰"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Boa Hancock",
+    "styling_families": [
+      "elegant",
+      "classical",
+      "romantic"
+    ]
+  },
+  {
+    "id": "cos-013",
+    "name": "纲手·五代火影外衣成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "纲手",
+    "work": "火影忍者",
+    "costume_version": "五代火影外衣成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。灰色交领上衣配深蓝直筒长裤，领口收合并有不透明内层，外披宽松绿色长外衣，深色腰带与便鞋；浅金发分束两侧、额间菱形妆记、简洁眼妆，外衣成连贯大形。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "绿色长外衣",
+      "浅金两侧束发",
+      "额间菱形妆记"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Tsunade",
+    "styling_families": [
+      "martial",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-014",
+    "name": "明日香·红色驾驶服成人扮演者演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "明日香",
+    "work": "新世纪福音战士",
+    "costume_version": "红色驾驶服成人扮演者演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。完整不透明红色贴身驾驶服覆盖躯干与四肢，胸腹分区只做外置织物拼片，不突出敏感部位，圆领、腕环与轻量装甲靴；橙棕长发双束、红色头饰、清爽眼线。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "红色驾驶服",
+      "橙棕双束长发",
+      "红色驾驶头饰"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment",
+      "theme-1-megastructure-story"
+    ],
+    "character_english": "Asuka",
+    "styling_families": [
+      "futuristic",
+      "athletic",
+      "playful"
+    ]
+  },
+  {
+    "id": "cos-015",
+    "name": "约尔·福杰·荆棘公主黑色礼服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "约尔·福杰",
+    "work": "间谍过家家",
+    "costume_version": "荆棘公主黑色礼服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑色露肩挂颈礼服，胸部以不透明结构完整覆盖，裙摆前短后长并配安全内层，长手套和长靴；黑色低束发、金色玫瑰头饰、酒红眼妆，配圆钝金色道具短刺。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黑色前短后长礼服",
+      "金玫瑰头饰",
+      "金色道具短刺"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Yor Forger",
+    "styling_families": [
+      "dark",
+      "elegant",
+      "romantic"
+    ]
+  },
+  {
+    "id": "cos-016",
+    "name": "爱丽丝·盖恩斯巴勒·粉裙红短外套文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "爱丽丝·盖恩斯巴勒",
+    "work": "最终幻想VII",
+    "costume_version": "粉裙红短外套文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。粉色方领及踝连衣裙、前襟扣线与短蓬袖，外搭红色短夹克、棕色系带短靴；棕发长辫以粉色大蝴蝶结束住，柔和暖妆，颈饰细链，配轻量道具法杖。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "粉色长裙红短外套",
+      "粉蝴蝶结长辫",
+      "棕色系带短靴"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-adventure",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Aerith Gainsborough",
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-017",
+    "name": "尤娜·召唤师和式长裙文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "尤娜",
+    "work": "最终幻想X",
+    "costume_version": "召唤师和式长裙文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色无袖上衣有不透明胸襟、黄色宽腰带和紫色及踝裙，独立长袖以带固定，裙摆花纹保留大色块；棕色齐肩短发、细长耳饰与自然妆，配轻量召唤道具杖。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白上衣紫长裙",
+      "黄色宽腰带独立长袖",
+      "召唤道具杖"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Yuna",
+    "styling_families": [
+      "classical",
+      "romantic",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-018",
+    "name": "贝优妮塔·初代黑色战斗连身衣成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "贝优妮塔",
+    "work": "猎天使魔女",
+    "costume_version": "初代黑色战斗连身衣成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑色不透明连身战斗衣覆盖胸臀，喇叭袖和裤腿形成修长轮廓，金链装饰与红色结绳，高跟鞋上为固定轻量道具附件；黑色高耸束发、黑框眼镜、红唇。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黑色喇叭袖连身衣",
+      "高耸黑束发与眼镜",
+      "金链红结绳"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Bayonetta",
+    "styling_families": [
+      "dark",
+      "elegant",
+      "martial"
+    ]
+  },
+  {
+    "id": "cos-019",
+    "name": "劳拉·克劳馥·经典探险装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "劳拉·克劳馥",
+    "work": "古墓丽影",
+    "costume_version": "经典探险装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。青绿色运动背心完整覆盖胸部，棕色合身短裤配不透明安全内层、腰带与双腿侧道具套，深色登山靴和小背包；棕色长辫、自然淡妆，保留探险实用轮廓。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "青绿背心棕短裤",
+      "长辫与小背包",
+      "双腿侧道具套"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-adventure",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Lara Croft",
+    "styling_families": [
+      "martial",
+      "athletic",
+      "street"
+    ]
+  },
+  {
+    "id": "cos-020",
+    "name": "萨姆斯·阿兰·零式蓝色战斗服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "萨姆斯·阿兰",
+    "work": "银河战士",
+    "costume_version": "零式蓝色战斗服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。深蓝不透明全身战斗服，浅蓝分区沿肩腰与腿外侧形成机能线，胸臀只作服装体积，短跟战靴与护腕；金色高马尾、干净运动妆，腰侧轻量道具手枪。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "深浅蓝全身战斗服",
+      "金色高马尾",
+      "护腕与短跟战靴"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Samus Aran",
+    "styling_families": [
+      "futuristic",
+      "athletic",
+      "martial"
+    ]
+  },
+  {
+    "id": "cos-021",
+    "name": "猎空·经典飞行夹克战斗装文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "猎空",
+    "work": "守望先锋",
+    "costume_version": "经典飞行夹克战斗装文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。棕色短飞行夹克、白色胸前时空装置外壳和橙色弹性长裤，白色护腿与运动鞋；棕色向上短发、橙色护目镜、明快淡妆，双侧轻量道具武器固定在腰部。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "橙色弹性长裤",
+      "胸前圆形装置",
+      "棕短发橙护目镜"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Tracer",
+    "styling_families": [
+      "street",
+      "playful",
+      "futuristic"
+    ]
+  },
+  {
+    "id": "cos-022",
+    "name": "D.Va·经典驾驶战斗服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "D.Va",
+    "work": "守望先锋",
+    "costume_version": "经典驾驶战斗服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝粉白拼接不透明驾驶连身服，立领、膝肘活动拼片与白色短靴；棕色长发、粉色耳机与脸颊三角彩绘，清爽妆容，配轻量道具小枪，明确为成年扮演者。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝粉白驾驶连身服",
+      "粉耳机",
+      "颊侧三角彩绘"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "D.Va",
+    "styling_families": [
+      "futuristic",
+      "athletic",
+      "playful"
+    ]
+  },
+  {
+    "id": "cos-023",
+    "name": "天使·经典医护装甲文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "天使",
+    "work": "守望先锋",
+    "costume_version": "经典医护装甲文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色上身轻量护甲与黑色内层连身服，橙白分片短裙、白色长靴，肩后固定可拆金白道具翼，翼幅不妨碍落脚；金发盘束、光环形头饰与淡妆，配医护道具杖。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白橙医护装甲",
+      "金白道具翼",
+      "光环头饰与道具杖"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Mercy",
+    "styling_families": [
+      "futuristic",
+      "fantasy",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-024",
+    "name": "黑百合·紫色狙击战斗服成人调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "黑百合",
+    "work": "守望先锋",
+    "costume_version": "紫色狙击战斗服成人调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。紫色不透明贴身战斗上衣配黑色弹性长裤，收合胸口开口、腰侧轻量护甲与长靴；长蓝紫发高马尾、红色护目头饰、冷色眼线，不改变用户基础肤色，配轻量道具长枪。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "紫黑战斗衣",
+      "蓝紫高马尾",
+      "红色护目头饰"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Widowmaker",
+    "styling_families": [
+      "dark",
+      "futuristic",
+      "martial"
+    ]
+  },
+  {
+    "id": "cos-025",
+    "name": "金克丝·蓝发机械街头装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "金克丝",
+    "work": "英雄联盟／双城之战",
+    "costume_version": "蓝发机械街头装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。紫黑有支撑短上衣完整覆盖胸部，条纹宽腰短裤配不透明内层、厚底军靴和工装腰带；蓝色极长双辫、烟熏眼妆、手臂可移除云纹彩绘，背负轻量道具武器。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "极长蓝双辫",
+      "紫黑短上衣条纹短裤",
+      "云纹彩绘与机械道具"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Jinx",
+    "styling_families": [
+      "street",
+      "playful",
+      "dark"
+    ]
+  },
+  {
+    "id": "cos-026",
+    "name": "蔚·红色夹克拳斗装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "蔚",
+    "work": "英雄联盟／双城之战",
+    "costume_version": "红色夹克拳斗装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。红色短夹克配浅色紧身背心、耐磨工装长裤和战靴，前臂轻量大拳套不锁死手腕；粉红侧剃短发、硬朗眼线、眉侧小妆记，肩宽与拳套形成力量轮廓。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "粉红侧剃短发",
+      "红色短夹克",
+      "大型轻量拳套"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-ability",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Vi",
+    "styling_families": [
+      "street",
+      "martial",
+      "athletic"
+    ]
+  },
+  {
+    "id": "cos-027",
+    "name": "凯特琳·皮城执法制服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "凯特琳",
+    "work": "英雄联盟／双城之战",
+    "costume_version": "皮城执法制服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝色立领执法短外套与同色及膝裙，黑色内层与长靴、皮革腰带，袖口利落；蓝黑长发束起、深蓝执法帽、自然冷妆，轻量道具长枪竖直收在身侧。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝色执法制服",
+      "深蓝执法帽",
+      "道具长枪"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "weapon",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Caitlyn",
+    "styling_families": [
+      "elegant",
+      "martial",
+      "classical"
+    ]
+  },
+  {
+    "id": "cos-028",
+    "name": "拉克丝·经典金蓝法师护甲成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "拉克丝",
+    "work": "英雄联盟",
+    "costume_version": "经典金蓝法师护甲成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝色连衣战裙覆盖胸臀，金色肩甲和腰甲以轻量壳体制作，白色布片垂在裙前、长靴与手套；金色齐肩发、蓝色发带、明净淡妆，配金色道具法杖。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "金蓝法师护甲",
+      "金色齐肩发蓝发带",
+      "金色法杖"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Lux",
+    "styling_families": [
+      "fantasy",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-029",
+    "name": "伊芙琳·K/DA舞台服装成人文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "伊芙琳",
+    "work": "英雄联盟",
+    "costume_version": "K/DA舞台服装成人文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑色贴身短礼服配紫色立体领肩与不透明安全内层，长手套、长靴和轻量金属指套；浅色长卷发侧分、紫调眼妆与深色唇，舞台轮廓强调肩腰，背后装饰以柔性可拆结构制作。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黑紫舞台短礼服",
+      "浅色长卷发",
+      "金属指套与立体领肩"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-stage",
+      "portrait-general-environment"
+    ],
+    "character_english": "Evelynn",
+    "styling_families": [
+      "stage",
+      "elegant",
+      "dark"
+    ]
+  },
+  {
+    "id": "cos-030",
+    "name": "妮可·德玛拉·狡兔屋都市便装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "妮可·德玛拉",
+    "work": "绝区零",
+    "costume_version": "狡兔屋都市便装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白黑短上衣完整覆盖胸部，粉色短外搭与黑色高腰短裤、安全内层，黑白长袜、厚底短靴；粉色双束长发、绿色发饰、甜酷妆，配轻量道具箱。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "粉色双束发",
+      "黑白短装",
+      "轻量道具箱"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Nicole Demara",
+    "styling_families": [
+      "street",
+      "playful",
+      "futuristic"
+    ]
+  },
+  {
+    "id": "cos-031",
+    "name": "艾莲·乔·鲨尾女仆主题成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "艾莲·乔",
+    "work": "绝区零",
+    "costume_version": "鲨尾女仆主题成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑白女仆短裙与围裙，胸部和裙内不透明覆盖，白色袖口、黑色长袜和短靴，腰后装轻量鲨尾；黑短发带红色发束、女仆发箍、简洁眼线，带圆钝巨剪道具。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黑白女仆裙",
+      "黑红短发",
+      "鲨尾与巨剪道具"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Ellen Joe",
+    "styling_families": [
+      "dark",
+      "playful",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-032",
+    "name": "朱鸢·都市治安官战术制服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "朱鸢",
+    "work": "绝区零",
+    "costume_version": "都市治安官战术制服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。深蓝衬衫式制服配黑色直筒战术长裤、橙色识别拼片和轻量防护背心，腰带、手套与战靴；黑色束发、干净职业妆，带轻量执法道具武器，前襟完整闭合。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝黑治安制服",
+      "橙色识别拼片",
+      "轻量战术背心"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-drama"
+    ],
+    "character_english": "Zhu Yuan",
+    "styling_families": [
+      "street",
+      "martial",
+      "futuristic"
+    ]
+  },
+  {
+    "id": "cos-033",
+    "name": "简·杜·都市潜入短夹克成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "简·杜",
+    "work": "绝区零",
+    "costume_version": "都市潜入短夹克成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。深色短夹克配白色短上衣完整覆盖胸部、弹性短裤与不透明安全内层，腿部护带与短靴，轻量道具尾巴；黑色短发带浅色发束、鼠耳式发饰、冷调眼妆，佩圆钝道具短刃。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黑色短夹克",
+      "鼠耳与轻量尾巴",
+      "腿部护带"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Jane Doe",
+    "styling_families": [
+      "dark",
+      "street",
+      "martial"
+    ]
+  },
+  {
+    "id": "cos-034",
+    "name": "星见雅·狐耳剑士制服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "星见雅",
+    "work": "绝区零",
+    "costume_version": "狐耳剑士制服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色衬衫配黑色制服短裙和安全内层，蓝黑长外套、黑色长袜与平底短靴；黑色长直发、狐耳发饰、冷静眼线，红色系带点缀腰侧，轻量道具刀连鞘携带。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "狐耳黑长直发",
+      "蓝黑长外套",
+      "制服短裙与带鞘长刀"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Hoshimi Miyabi",
+    "styling_families": [
+      "martial",
+      "classical",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-035",
+    "name": "芙宁娜·蓝色礼帽舞台正装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "芙宁娜",
+    "work": "原神",
+    "costume_version": "蓝色礼帽舞台正装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。深蓝燕尾短外套、白色胸前层叠领饰与蓝色短裤，内层不透明、长袜和礼鞋；浅色短发保留一侧长束、蓝色礼帽、柔蓝眼妆，金属饰件归为少量大形。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝色礼帽燕尾短外套",
+      "白色层叠领饰",
+      "浅色短发长侧束"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "theme-1-stage"
+    ],
+    "character_english": "Furina",
+    "styling_families": [
+      "stage",
+      "elegant",
+      "classical"
+    ]
+  },
+  {
+    "id": "cos-036",
+    "name": "娜维娅·黄黑贵族伞装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "娜维娅",
+    "work": "原神",
+    "costume_version": "黄黑贵族伞装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黄黑束腰连衣裙胸部完整覆盖，多层裙摆及膝、黑色长袜和跟鞋，金色滚边保留大轮廓；金色长卷发、黑色宽檐装饰帽、暖调妆容，配轻量蕾丝边道具伞。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黄黑多层裙",
+      "黑宽檐帽金长卷发",
+      "蕾丝边道具伞"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "umbrella",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Navia",
+    "styling_families": [
+      "romantic",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-037",
+    "name": "阿蕾奇诺·黑白燕尾正装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "阿蕾奇诺",
+    "work": "原神",
+    "costume_version": "黑白燕尾正装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑白高领燕尾式外套配贴身长裤和黑色跟靴，红色内衬与胸前交叉结构，双手戴黑手套；白色短发带黑色发束、锐利眼线，腰侧带轻量道具细剑。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "黑白燕尾正装",
+      "白黑短发",
+      "红色内衬交叉胸饰"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Arlecchino",
+    "styling_families": [
+      "dark",
+      "elegant",
+      "martial"
+    ]
+  },
+  {
+    "id": "cos-038",
+    "name": "克洛琳德·蓝紫决斗制服成人调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "克洛琳德",
+    "work": "原神",
+    "costume_version": "蓝紫决斗制服成人调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝紫立领短制服与单侧披肩，白衬衫前襟完整闭合，下着短裙、安全内层和黑色长袜；深蓝长发束起、宽檐羽饰帽、简洁妆，佩轻量细剑与道具手枪。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝紫决斗制服",
+      "宽檐羽饰帽",
+      "细剑与道具手枪"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "sword",
+      "weapon",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Clorinde",
+    "styling_families": [
+      "martial",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-039",
+    "name": "申鹤·白黑红束绳仙门服成人调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "申鹤",
+    "work": "原神",
+    "costume_version": "白黑红束绳仙门服成人调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。黑色不透明连身内衣覆盖躯干与腿部，外叠白色无袖长垂片和红色束绳，侧面以同色内层覆盖、短跟鞋；银白长发辫、红发结、淡冷妆，配轻量长柄道具。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白黑长垂片",
+      "红色束绳",
+      "银白长发辫"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Shenhe",
+    "styling_families": [
+      "classical",
+      "fantasy",
+      "elegant"
+    ]
+  },
+  {
+    "id": "cos-040",
+    "name": "黄泉·紫白行旅剑士成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "黄泉",
+    "work": "崩坏：星穹铁道",
+    "costume_version": "紫白行旅剑士成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白紫短外套搭黑色有支撑上衣，胸部完整覆盖，下着合身短裤和安全内层、不对称护腿与长靴；深紫长发侧落、冷色眼妆，腰侧携带轻量长刀，保留宽肩窄腰大形。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白紫短外套",
+      "深紫侧落长发",
+      "不对称护腿长刀"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-adventure",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Acheron",
+    "styling_families": [
+      "martial",
+      "dark",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-041",
+    "name": "黑天鹅·紫色占卜礼服成人调整版",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "黑天鹅",
+    "work": "崩坏：星穹铁道",
+    "costume_version": "紫色占卜礼服成人调整版",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。紫色贴身中长礼服以不透明内衬覆盖胸臀，金属胸饰、分片裙摆和长手套，连裤袜与跟鞋；浅色长卷发、紫色头纱与发饰、柔紫妆，配几张道具卡牌。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "紫色头纱",
+      "金饰紫色礼服",
+      "道具占卜卡牌"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "cards"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Black Swan",
+    "styling_families": [
+      "dark",
+      "romantic",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "cos-042",
+    "name": "姬子·白红旅行礼服成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "姬子",
+    "work": "崩坏：星穹铁道",
+    "costume_version": "白红旅行礼服成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色斜肩长裙，胸部完整覆盖、裙侧开衩有不透明内层，黑色短披肩、红色腰部结构与跟鞋；红色长卷发、金色耳饰、暖棕妆，配瓷杯，保持长裙垂坠大形。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白色斜肩长裙",
+      "红色长卷发",
+      "黑色短披肩"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-daily",
+      "theme-1-display"
+    ],
+    "character_english": "Himeko",
+    "styling_families": [
+      "elegant",
+      "romantic",
+      "classical"
+    ]
+  },
+  {
+    "id": "cos-043",
+    "name": "阮·梅·青色研究者旗袍成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "阮·梅",
+    "work": "崩坏：星穹铁道",
+    "costume_version": "青色研究者旗袍成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。青色立领无袖及膝裙，交叠前襟和不透明内层、黑色袖套与绑带鞋，浅色披肩；深棕长发侧束、梅花形发饰与清淡妆，配轻量弦乐道具，避免替换为现代吉他。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "青色交襟立领裙",
+      "梅花形发饰",
+      "黑色袖套"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "instrument"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Ruan Mei",
+    "styling_families": [
+      "classical",
+      "elegant",
+      "fresh"
+    ]
+  },
+  {
+    "id": "cos-044",
+    "name": "镜流·青黑剑士衣成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "镜流",
+    "work": "崩坏：星穹铁道",
+    "costume_version": "青黑剑士衣成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。青黑交领短战裙与浅色袖片，胸襟和裙内完整不透明覆盖，腰间红绳、长袜与战靴；银白长发、黑色眼罩、克制冷妆，配轻量冰色道具剑。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "青黑交领战裙",
+      "银白长发黑眼罩",
+      "红绳与冰色道具剑"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "character_english": "Jingliu",
+    "styling_families": [
+      "martial",
+      "classical",
+      "dark"
+    ]
+  },
+  {
+    "id": "cos-045",
+    "name": "芙莉莲·旅行法师装成人扮演者演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "芙莉莲",
+    "work": "葬送的芙莉莲",
+    "costume_version": "旅行法师装成人扮演者演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色长袖短外套配黑色不透明紧身内层和白色短裙，金色滚边、黑色连裤袜及棕色靴；银白双束长发、尖耳道具与红色耳饰，自然淡妆，带木柄轻量道具杖。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白金旅行短外套",
+      "银白双束发尖耳",
+      "红色耳饰与道具杖"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-adventure",
+      "theme-1-convention",
+      "theme-1-daily",
+      "theme-1-display"
+    ],
+    "character_english": "Frieren",
+    "styling_families": [
+      "fantasy",
+      "fresh",
+      "classical"
+    ]
+  },
+  {
+    "id": "cos-046",
+    "name": "玛奇玛·公安正装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "玛奇玛",
+    "work": "电锯人",
+    "costume_version": "公安正装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色长袖衬衫完整扣合、黑领带和黑色直筒西裤，外披深色长外套与皮鞋；红棕色长辫、额前齐刘海，淡妆与平静目光，服装依靠衬衫和直线外套识别。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白衬衫黑领带",
+      "红棕长辫齐刘海",
+      "深色直线长外套"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-daily",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Makima",
+    "styling_families": [
+      "elegant",
+      "dark",
+      "street"
+    ]
+  },
+  {
+    "id": "cos-047",
+    "name": "帕瓦·公安松领衬衫成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "帕瓦",
+    "work": "电锯人",
+    "costume_version": "公安松领衬衫成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色衬衫前襟完整闭合、领口略松，黑领带、黑色直筒长裤和运动鞋，深色外套松搭肩部；浅色长发、红色双角道具、干净眼妆与俏皮眉眼，避免血污。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "红色双角",
+      "浅色长发",
+      "白衬衫黑领带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-ability",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Power",
+    "styling_families": [
+      "street",
+      "playful",
+      "dark"
+    ]
+  },
+  {
+    "id": "cos-048",
+    "name": "妮可·罗宾·两年后蓝上衣长裙成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "妮可·罗宾",
+    "work": "航海王",
+    "costume_version": "两年后蓝上衣长裙成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝色短款有支撑上衣收合领口、完整覆盖胸部，下接粉橙色印花及踝长裙，凉鞋与太阳镜；黑色中分长直发、暖色淡妆，墨镜可置头顶，裙形保持垂直连贯。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝色短上衣",
+      "粉橙印花长裙",
+      "黑中分长发太阳镜"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Nico Robin",
+    "styling_families": [
+      "elegant",
+      "fresh",
+      "romantic"
+    ]
+  },
+  {
+    "id": "cos-049",
+    "name": "露西（赛博朋克：边缘行者）·白色短外套潜行装成人演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "露西（赛博朋克：边缘行者）",
+    "work": "赛博朋克：边缘行者",
+    "costume_version": "白色短外套潜行装成人演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。白色短夹克配黑色不透明连身短装，胸部与臀部完整覆盖、内置安全层，黑色长袜和短靴；白粉渐变齐颈短发、简洁冷妆，腕部线缆道具收纳为固定附件。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "白色短夹克黑连身装",
+      "白粉齐颈短发",
+      "腕部线缆附件"
+    ],
+    "era": [
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "character_english": "Lucy",
+    "styling_families": [
+      "futuristic",
+      "street",
+      "dark"
+    ]
+  },
+  {
+    "id": "cos-050",
+    "name": "薇尔莉特·伊芙加登·自动手记人偶蓝色礼服文字演绎",
+    "class_id": 1,
+    "subtype": "角色成人COS",
+    "character": "薇尔莉特·伊芙加登",
+    "work": "紫罗兰永恒花园",
+    "costume_version": "自动手记人偶蓝色礼服文字演绎",
+    "official_status": "text_interpretation",
+    "adult_cosplayer_interpretation": true,
+    "prompt": "采用用户当次身份参考的成年COS扮演者，不呈现未成年形象。蓝色短外套与白色及踝层叠裙，白色领巾、红色胸针和棕色短靴，手套以轻量壳体表现机械手；金色盘辫双结、蓝色发带、自然淡妆，配书册。本地可直接使用的成人COS文字演绎，不宣称官方精确复刻。",
+    "recognition_points": [
+      "蓝短外套白层叠裙",
+      "红胸针白领巾",
+      "金色盘辫与机械手套"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "legacy_text",
+      "source_ids": [
+        "legacy-cos-random-photo-pool",
+        "original-costume-text-design"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-daily",
+      "theme-1-display"
+    ],
+    "character_english": "Violet Evergarden",
+    "styling_families": [
+      "classical",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "WEB-COS-QIFREY",
+    "name": "奇弗利·漫展披风演绎",
+    "class_id": 1,
+    "subtype": "漫画COS",
+    "prompt": "成年人物COS奇弗利：白色尖顶帽、浅灰长披风与白色下装，黑色高领内搭，金色圆扣和垂穗，棕色靴；浅色短发与单侧深色镜片，保留帽、披风及黑内搭的大形。",
+    "recognition_points": [
+      "白尖顶帽",
+      "灰白披风",
+      "黑高领与金穗"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-nycc-qifrey"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "character": "奇弗利 Qifrey",
+    "work": "尖帽子的魔法工坊",
+    "costume_version": "NYCC 2026实拍COS演绎，未核实官方原画",
+    "official_status": "photo_observed_cosplay",
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "styling_families": [
+      "fantasy",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "WEB-COS-STORM",
+    "name": "暴风女·云伞演绎",
+    "class_id": 1,
+    "subtype": "超级英雄COS",
+    "prompt": "成年人物COS暴风女：黑色不透明连体衣、V形领口和腰侧开口，黑金边披风、金色颈饰与护腕，长白发、黑色冠形头饰；配一把云团与垂坠雨线装饰伞，关键是白发、黑金披风与天气道具。",
+    "recognition_points": [
+      "白长发",
+      "黑金披风",
+      "云雨装饰伞"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "umbrella",
+      "cape"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-nycc-storm"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "character": "暴风女 Storm",
+    "work": "X战警",
+    "costume_version": "NYCC 2026天气主题COS，非指定官方服装版本",
+    "official_status": "photo_observed_cosplay",
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "styling_families": [
+      "fantasy",
+      "futuristic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "WEB-COS-HUNTRESS",
+    "name": "Huntress Wizard·树枝冠演绎",
+    "class_id": 1,
+    "subtype": "动画COS",
+    "prompt": "成年人物COS Huntress Wizard：枝冠与绿色短发、黑色眼罩，深紫无袖长衣，浅绿色手套袖套与棕色披风，配道具箭杆；绿色与枝冠是重点，身体由不透明衣料覆盖。",
+    "recognition_points": [
+      "树枝冠",
+      "绿短发与黑眼罩",
+      "紫衣与绿袖套"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "arrow"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-sdcc-huntress"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "character": "Huntress Wizard",
+    "work": "探险活宝 Adventure Time",
+    "costume_version": "SDCC 2026实拍COS演绎",
+    "official_status": "photo_observed_cosplay",
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-convention",
+      "theme-1-display"
+    ],
+    "styling_families": [
+      "fantasy",
+      "martial",
+      "fresh"
+    ]
+  },
+  {
+    "id": "WEB-COS-SCARLET",
+    "name": "绯红女巫·暗红结构衣演绎",
+    "class_id": 1,
+    "subtype": "影视COS",
+    "prompt": "成年人物COS绯红女巫：暗红尖冠、红棕长发、红黑分片胸身和长袖，以结构线与主色保留角色识别；当前图片没有展示的下装采用同色不透明完整穿着，不声称观测到原图下身。",
+    "recognition_points": [
+      "暗红尖冠",
+      "红黑结构胸身",
+      "红棕长发"
+    ],
+    "era": [
+      "modern",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "hybrid",
+      "source_ids": [
+        "web-sdcc-scarlet"
+      ],
+      "adaptation": "上身提炼自实拍，下身为原创完整覆盖方案",
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "character": "绯红女巫 Scarlet Witch",
+    "work": "Doctor Strange in the Multiverse of Madness",
+    "costume_version": "SDCC 2026上身实拍＋下装文字补全",
+    "official_status": "photo_observed_cosplay",
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-1-ability",
+      "theme-1-convention",
+      "theme-1-display",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "fantasy",
+      "dark",
+      "elegant"
+    ]
+  }
+]

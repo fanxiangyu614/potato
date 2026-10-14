@@ -1,0 +1,21 @@
+{
+  "module_name": "portrait",
+  "description": "人像修复模块——皮肤、头发、五官边缘的纹理与洁净度修复",
+  "skin": {
+    "preserve": "自然毛孔、轻微色差、细纹、自然不对称、随光变化的柔和反射、真实皮肤微纹理",
+    "remove": "灰脏、蜡感、重复皮纹、过度磨皮、塑料高光、油腻反光、干燥脱皮感、色块不均",
+    "rendering": "真实原生皮肤质感，高频细节位于柔和光泽表层之下，低频润泽覆盖整体，既不磨皮也不锐化"
+  },
+  "hair": {
+    "preserve": "发束分组、走向、层次、重量、碎发、自然发际线、发丝独立可辨",
+    "remove": "焦黑结块、随机噪丝、发缘光晕、过度锐化、塑料发丝感、色块断裂、毛躁飞丝",
+    "rendering": "真实头发质感，发丝表面产生细碎柔和反光，部分发丝融入暗部被景深柔化，不做统一高光"
+  },
+  "facial_features": {
+    "preserve": "五官形状、眼神光、唇纹、眉毛走向、睫毛自然形态、面部轮廓",
+    "remove": "五官边缘锯齿、眼睑脏色、唇线模糊溢出、眉毛色块断裂、眼神光浑浊",
+    "rendering": "五官边缘精致清晰，过渡平滑，眼神光明亮通透，唇纹细腻真实"
+  },
+  "style_keywords": "natural skin texture, visible pores, real hair strands, clean facial edges, soft skin sheen, non-plastic skin, tactile realism, refined facial detail, natural asymmetry",
+  "negative_prompt": "plastic skin, wax face, over-smoothed skin, beauty filter, oily face, greasy skin, harsh highlights, blocky hair, noisy hair strands, halo around hair, over-sharpened, CGI skin, porcelain skin, excessive retouching"
+}

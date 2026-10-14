@@ -1,0 +1,4862 @@
+[
+  {
+    "id": "pose-001",
+    "name": "平行站立正面",
+    "prompt": "双脚髋宽落地、重心居中，手臂自然下垂，肩放松；看向镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-002",
+    "name": "一脚微前站立",
+    "prompt": "一脚向前半脚长、后脚承重，膝不锁死，双手松放身侧；温和看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-003",
+    "name": "三分侧身凝视",
+    "prompt": "双脚前后错开稳定站立，上身转向镜头约三分之一，双手交叠在腰前；目光坚定。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-004",
+    "name": "转身停步回眸",
+    "prompt": "双脚已停稳、重心落在后脚，上身只轻转，头转向镜头不过度扭颈；手臂自然。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-005",
+    "name": "双手背后浅笑",
+    "prompt": "双脚自然落地，双手松搭身后不强拉肩部，胸背保持自然；浅笑看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-006",
+    "name": "松抱双臂",
+    "prompt": "两脚稳定站立，前臂松交叠胸前不挤压身体，肩部放松；平静看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-007",
+    "name": "手搭另一侧上臂",
+    "prompt": "双脚落稳，一手轻搭另一上臂、另一手自然下垂，重心居中；略偏头看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-008",
+    "name": "指尖拨开额发",
+    "prompt": "前后错步站稳，一手拨开额前发束、另一手垂下，手指不遮眼；视线看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-009",
+    "name": "将碎发别向耳后",
+    "prompt": "双脚自然站立，一手把耳侧发束轻拢后移、另一手放腰侧，肘不遮脸；看侧方。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-010",
+    "name": "手掌遮阳远望",
+    "prompt": "站在稳定地面，一手抬至额上方遮阳不贴眼睛、另一手下垂，重心居中；看远处。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-011",
+    "name": "单手腰侧站姿",
+    "prompt": "双脚稍错开，重心均匀，一手松放腰侧而不夸张推胯、另一手下垂；自信看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-012",
+    "name": "双手松扣腰前",
+    "prompt": "双脚平行落地，双手在腰前轻扣不握紧，上身自然挺直；柔和看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-013",
+    "name": "一手摊掌介绍",
+    "prompt": "双脚落稳，一前臂向侧前方展开、掌心向上，另一臂放下；视线跟随手掌。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-014",
+    "name": "单拳举至肩旁",
+    "prompt": "两脚稳定站立，一拳举至肩旁、肘朝下，另一手放身侧，不作攻击；坚定看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-015",
+    "name": "竖指轻嘘",
+    "prompt": "双脚自然站立，一食指竖在唇前留小距离、另一手下垂，不遮整张脸；看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-016",
+    "name": "掌背掩笑",
+    "prompt": "一脚微前且后脚承重，一手掌背轻靠嘴角不压脸，另一手腰前松放；眉眼带笑。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-017",
+    "name": "双手爱心致意",
+    "prompt": "双脚站稳，双手在胸前下方组成爱心，手肘放松、不挡脸；自然浅笑看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-018",
+    "name": "指尖小爱心",
+    "prompt": "两脚落地重心居中，一手在肩下方做指尖小爱心、另一手自然放下；俏皮看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-019",
+    "name": "小幅挥手招呼",
+    "prompt": "双脚稳定站立，一手举在肩旁小幅挥动、另一手下垂，身体不摇晃；看镜头浅笑。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-020",
+    "name": "侧身听见呼唤",
+    "prompt": "双脚前后错开站稳，身体保持侧向、头转向声源，手臂松垂；眉眼略抬。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-021",
+    "name": "肩背轻倚墙",
+    "prompt": "站在实体墙前，双脚距墙适当、脚底完整落地，肩背轻倚墙而不悬空；双手腰前松搭，看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-022",
+    "name": "前臂扶墙侧站",
+    "prompt": "双脚前后错开保持自身承重，一前臂轻贴实体墙、另一臂下垂，不把重量全压在手上；侧看。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-023",
+    "name": "侧肩靠墙远望",
+    "prompt": "侧肩轻倚实体墙，两脚稳落地且膝微松，手指自然垂下；看向墙外空间。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-024",
+    "name": "双手轻扶护栏",
+    "prompt": "站在固定护栏内侧，双脚落地，双手轻扶栏面不倚出栏外；面向远处再略转头。",
+    "stance": "stand",
+    "requires_support": [
+      "rail"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-025",
+    "name": "单手扶栏回望",
+    "prompt": "一手轻扶固定护栏、另一手自然垂下，两脚站在内侧承重；头向镜头回望，身体不过度扭转。",
+    "stance": "stand",
+    "requires_support": [
+      "rail"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-026",
+    "name": "前臂放栏侧看",
+    "prompt": "在护栏内侧稳定站立，两前臂轻放栏面但身体自己承重；目光沿远景方向。",
+    "stance": "stand",
+    "requires_support": [
+      "rail"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-027",
+    "name": "一手轻扶桌沿",
+    "prompt": "双脚落稳站在稳固桌旁，一手轻扶桌沿、另一手腰前松放，不坐桌面；看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-028",
+    "name": "桌旁双手交叠",
+    "prompt": "稳定站在桌旁，双手松交叠在桌沿、上身只稍前倾，脚底完整落地；看侧方。",
+    "stance": "stand",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-029",
+    "name": "椅背轻扶站姿",
+    "prompt": "站在稳固椅后方，一手轻扶椅背而不推动椅子，双脚落地自己承重；另一手下垂，看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-030",
+    "name": "台阶边静立",
+    "prompt": "站在低宽阶的平台上，两脚同处一个稳固平面，双手松放腰前；看下方远处。",
+    "stance": "stand",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-031",
+    "name": "自然走向镜头",
+    "prompt": "沿平整净空地面缓慢向镜头走，一脚落地承重、另一脚将迈出，双臂自然摆动；看镜头。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-032",
+    "name": "从镜头侧方经过",
+    "prompt": "沿镜头侧方缓步经过，前脚稳定落地、后脚抬跟，上身直立、手臂自然摆；看前路。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-033",
+    "name": "边走边侧望",
+    "prompt": "沿平整地面缓步，一脚承重、另一脚轻迈，头只稍向侧转不扭腰；手臂松摆。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-034",
+    "name": "走到一半回眸",
+    "prompt": "脚步缩短并保持落脚稳定，身体沿行进方向、头短暂回看镜头，不大幅扭转；全身侧后构图。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    }
+  },
+  {
+    "id": "pose-035",
+    "name": "向亮处缓步",
+    "prompt": "沿现有光照方向缓慢走，前脚落地、后脚自然跟进，两臂轻摆；看行进方向。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-036",
+    "name": "低头看路行走",
+    "prompt": "小步沿平地前行，重心随前脚稳定转移，上身自然直立、头略低看路；手臂下垂摆动。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-037",
+    "name": "走近后放慢脚步",
+    "prompt": "前脚已落地、后脚将并拢，步幅变小，双手松放腰前；抬眼看镜头。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-038",
+    "name": "并行同行者视角",
+    "prompt": "沿平整地面缓步，与镜头保持并行，脚步自然交替、两臂轻摆；侧头对镜头浅笑。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-039",
+    "name": "朝侧方小步移动",
+    "prompt": "身体先转向侧方再小步前行，脚不交叉打结，一脚承重、另一脚跟进；看前路。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-040",
+    "name": "沿墙边缓步",
+    "prompt": "沿实体墙边净空缓步、与墙保持距离，不扶墙行走，一脚落地承重、双臂松摆；看前路。",
+    "stance": "walk",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-041",
+    "name": "沿栏内侧行走",
+    "prompt": "沿固定护栏内侧平地缓慢走，双手不拖拽栏杆，前脚落稳后脚跟进；看远方。",
+    "stance": "walk",
+    "requires_support": [
+      "rail"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-042",
+    "name": "向椅子走近",
+    "prompt": "朝稳固椅缓慢走近，前脚落地、后脚迈小步，手臂自然，尚未坐下；视线看座位。",
+    "stance": "walk",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-043",
+    "name": "桌旁转向缓步",
+    "prompt": "在桌旁宽净空处先转身再小步走，脚步不交叉，双臂放松而不碰桌角；看前路。",
+    "stance": "walk",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-044",
+    "name": "迈上低阶",
+    "prompt": "一脚完整踩上低宽台阶、另一脚仍在下方承重，身体稍向前，手臂平衡；看阶面。",
+    "stance": "walk",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-045",
+    "name": "缓步走下低阶",
+    "prompt": "后脚稳在低阶、前脚小步探向下一级，双臂自然平衡不夸张伸展；看落脚点。",
+    "stance": "walk",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-046",
+    "name": "阶梯平台横向走",
+    "prompt": "在宽阶梯平台同一平面小步行走，前脚落稳、后脚跟进，手臂松摆；看前方。",
+    "stance": "walk",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-047",
+    "name": "走向镜头并招手",
+    "prompt": "小步前行且一脚稳落地，一手在肩旁轻招手、另一手自然摆；看镜头。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-048",
+    "name": "走动中轻拢发",
+    "prompt": "放慢步幅、一脚承重，单手把脸侧发束拢后，另一手自然摆，不挡视线；看前路。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-049",
+    "name": "走过后侧头微笑",
+    "prompt": "沿平地缓步经过镜头，前脚落稳，上身沿行进方向、头小幅侧转；双臂自然，看镜头。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-050",
+    "name": "向远处离开",
+    "prompt": "背向镜头沿平地缓步，一脚落地、另一脚轻迈，双臂自然摆；头看前路，背面环境全身留去向空间。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    }
+  },
+  {
+    "id": "pose-051",
+    "name": "椅上双脚落地",
+    "prompt": "坐稳固椅中央，双脚完整落地、膝自然平行，背部保持自然；双手放大腿，看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-052",
+    "name": "椅上前倾聆听",
+    "prompt": "稳坐椅面、双脚落地，上身稍前倾但不拱背，双手松交叠在膝上；看侧前方。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-053",
+    "name": "椅上侧身转头",
+    "prompt": "臀部完整落在稳固椅面，双脚朝同一侧落地，上身只轻转向镜头；双手放膝，看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-054",
+    "name": "椅缘端坐",
+    "prompt": "坐在足够宽的稳固椅前部，双脚落地提供稳定，膝并拢但不夹紧；双手腰前轻扣，看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-055",
+    "name": "靠背椅放松",
+    "prompt": "稳坐椅面、背部轻靠固定靠背，双脚落地不翘起，手掌放大腿；目光远望。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-056",
+    "name": "椅上托腮思考",
+    "prompt": "稳坐椅中央、双脚落地，一肘轻放膝上以手托下颌、另一手放腿侧；看侧下方。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-057",
+    "name": "椅上抬手致意",
+    "prompt": "坐稳椅面、双脚落地，一手在肩旁轻挥、另一手放大腿，肩不耸起；浅笑看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-058",
+    "name": "椅上看向窗外",
+    "prompt": "坐稳固椅、双脚自然落地，身体略侧向已有光源，双手松搭腿上；看侧方。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-059",
+    "name": "长凳正坐浅笑",
+    "prompt": "坐固定长凳中央，双脚落地、膝自然并排，双手放腿上；看镜头浅笑。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-060",
+    "name": "长凳侧坐回望",
+    "prompt": "臀部稳坐长凳，双腿朝同一侧、双脚落地，上身轻转回镜头；一手扶凳面，另一手放腿上。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-061",
+    "name": "长凳双手扶侧",
+    "prompt": "坐固定长凳，双脚稳落地、背部自然直立，双手轻放两侧凳面；看远方。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-062",
+    "name": "长凳松交脚踝",
+    "prompt": "稳坐长凳，两脚踝松交且脚尖接地，膝不过度扭转，双手放腿上；看镜头，低幅全身显示落脚。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ]
+    }
+  },
+  {
+    "id": "pose-063",
+    "name": "长凳低头含笑",
+    "prompt": "坐长凳中央、双脚落地，双手在膝前松扣，头略低而不压胸；眉眼放松。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-064",
+    "name": "长凳听见呼唤",
+    "prompt": "稳坐固定凳面、双脚落地，上身不急转，仅头向镜头方向转；一手放膝一手扶凳。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-065",
+    "name": "长凳坐姿拢发",
+    "prompt": "稳坐凳面、双脚落地，一手把耳侧头发拢后、另一手放大腿；目光看侧方。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-066",
+    "name": "低阶正坐",
+    "prompt": "坐宽而低的稳固阶面，双脚落在下一级或平地，双膝自然并拢；手放膝上，看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-067",
+    "name": "阶上侧坐",
+    "prompt": "臀部落稳宽阶面，双腿朝同一侧、脚放下一级，上身轻转；一手扶身侧阶面，看远方。",
+    "stance": "sit",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-068",
+    "name": "阶上前倾休息",
+    "prompt": "稳坐低宽阶、双脚落地，前臂松放膝上、上身适度前倾；看侧下方。",
+    "stance": "sit",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-069",
+    "name": "阶上直背抬头",
+    "prompt": "稳坐阶面，双脚放下一级、膝自然并排，双手置身侧阶面但不向后压肩；抬眼看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-070",
+    "name": "阶上听风侧望",
+    "prompt": "稳坐宽阶中央，双脚完整落在下一级，双手松交膝前，上身自然；看侧方远处。",
+    "stance": "sit",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-071",
+    "name": "床沿日常端坐",
+    "prompt": "成年人物衣着完整坐在稳固床沿，双脚落地、膝自然并拢，双手放腿上；看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "bed"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-072",
+    "name": "床侧自然回头",
+    "prompt": "成年人物衣着完整稳坐床边，双腿同向且双脚落地，上身只轻转；一手放床面一手放腿，看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "bed"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-073",
+    "name": "床沿整理发束",
+    "prompt": "成年人物衣着完整坐床沿、双脚落地，一手拢耳侧发束、另一手放膝上；目光看侧下方。",
+    "stance": "sit",
+    "requires_support": [
+      "bed"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-074",
+    "name": "椅上松交脚踝",
+    "prompt": "臀部完整落稳椅面，脚踝在身前松交且脚尖接地，双膝不强扭、手掌松放腿上；看侧前方。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-075",
+    "name": "长凳收手浅笑",
+    "prompt": "稳坐固定长凳、双脚自然落地，双手轻扣置于一侧大腿，上身略侧但不扭腰；看镜头浅笑。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-076",
+    "name": "单膝跪地正面",
+    "prompt": "在清洁干燥平地一膝着地、另一脚完整落地，重心居中，上身直立，双手放前腿上；看镜头。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-077",
+    "name": "单膝跪地侧向",
+    "prompt": "一膝落地、另一脚前置承重，身体侧向且背部自然，一手放前膝一手身侧；看前方。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-078",
+    "name": "跪姿回头观察",
+    "prompt": "单膝与另一脚稳定支撑，身体保持正向、头小幅回看，双手放膝前；冷静目光。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-079",
+    "name": "单膝低头思考",
+    "prompt": "单膝落地、另一脚稳在前方，一前臂放前腿上，另一手自然下垂，背不塌；看侧下方。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-080",
+    "name": "单膝抬手招呼",
+    "prompt": "单膝与前脚稳固支撑，一手在肩旁轻挥、另一手放前腿上，躯干不摇晃；看镜头浅笑。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-081",
+    "name": "半跪双手腰前",
+    "prompt": "一膝落在清洁平地、另一脚完整落地，上身直立，双手松交腰前，臀部不压脚跟、不强折踝；看镜头。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-082",
+    "name": "半跪抬眼侧望",
+    "prompt": "一膝与另一脚稳固支撑，上身朝侧方自然直立，双手松放前腿，臀部不压脚跟；头稍抬看远处。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-083",
+    "name": "直立双膝跪姿",
+    "prompt": "双膝髋宽落在清洁平地，臀部抬离脚跟、髋部自然伸展，双手放腰前，不后仰；看镜头。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-084",
+    "name": "双膝跪姿侧望",
+    "prompt": "双膝稳定落地、髋部抬起，上身竖直不扭腰，双臂松垂；头向侧方转。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-085",
+    "name": "半跪手掌向前",
+    "prompt": "一膝落地、另一脚前置，一手向侧前方摊掌、另一手放前腿，躯干保持稳定；看掌向。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-086",
+    "name": "半跪抱臂凝视",
+    "prompt": "单膝和前脚支撑，前臂松交胸前、不压胸，背部自然直立；看镜头。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-087",
+    "name": "半跪抬眼浅笑",
+    "prompt": "一膝落地、另一脚稳定前置，双手松扣于前膝上，头先略低再抬眼；看镜头浅笑。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-088",
+    "name": "半跪拢发",
+    "prompt": "一膝落地、另一脚完整落地，一手拢耳侧发束、另一手放前腿，肩背放松、臀部不压脚跟；看侧方。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-089",
+    "name": "半跪手扶前膝",
+    "prompt": "单膝与前脚形成稳固支撑，一手轻扶前膝、另一臂自然垂落，上身直立且不扭腰；看远处。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-090",
+    "name": "半跪准备起身",
+    "prompt": "单膝落地、前脚完整承重，上身稍前倾准备起身，双手轻放前腿，不悬空跳起；看前路。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-091",
+    "name": "轴转回落舞步",
+    "prompt": "一脚以前脚掌为轴承重，另一脚完成半圈转步后接地；肩与上身随旋转展开，一臂外展另一臂收至胸侧，衣摆随转动自然扬起，目光朝回落方向。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-092",
+    "name": "横向滑步重拍",
+    "prompt": "左脚向侧方滑出并承重，右脚随行收到半步外，膝自然屈伸；两前臂以不同高度划过身前，头朝滑步方向，定格在节拍重音。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-093",
+    "name": "交叉步转向",
+    "prompt": "前脚落地承重、后脚交叉迈到侧前方，髋肩随步法转向；一臂向前引领、一臂向后展开，目光随前进方向，双脚所在路面清楚。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-094",
+    "name": "跑动换脚瞬间",
+    "prompt": "沿平整路径轻跑，前脚落地接住重心、后脚正在离地，手臂以相反方向自然摆动；上身略前倾，视线看前路，鞋与地面接触清楚。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-095",
+    "name": "弓步进身护势",
+    "prompt": "前脚向侧前方踏出并弯膝承重，后脚稳踩地面，双臂形成一前一后的空手护势；上身随前进方向转动，目光锁定画外练习目标。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-096",
+    "name": "举臂踏点节奏",
+    "prompt": "一脚承重、另一脚踏向侧前方，双臂一上一下随节奏形成斜线；肩胯反向转动，头随抬臂方向，定格在新一步刚接地时。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-097",
+    "name": "急停转向定格",
+    "prompt": "行进中前脚踩稳、后脚外开刹住重心，上身向侧方转回，双臂自然分开保持平衡；视线已经移向新的路线。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-098",
+    "name": "侧点足回收",
+    "prompt": "支撑腿微屈承重，另一腿向侧方伸出轻点地，脚尖沿地面回收；一手在胸侧另一手外展，动作幅度由原衣装活动余量决定。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-099",
+    "name": "上身律动开合",
+    "prompt": "双脚分开落地，膝随节拍弯伸，上身从收合转为展开；两手一前一侧形成不同层次，指尖放松，目光朝演出方向。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-100",
+    "name": "收拍交叉落步",
+    "prompt": "转步结束后双脚先后接地，重心落在前脚，后脚停在斜后方；一臂收至肩下另一臂向侧下延伸，头随收拍停住，衣摆落回自然位置。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-101",
+    "name": "持扇侧身",
+    "prompt": "两脚错开稳定站立，一手持已有扇具在胸口下方、另一手放身侧；折扇可展开，团扇或不可折叠扇保持原形，不遮脸；看侧方。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-102",
+    "name": "道具剑垂侧",
+    "prompt": "双脚稳定落地，一手握轻量道具剑垂于身侧、剑尖朝地但不接触脚，另一手自然垂下；坚定看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-103",
+    "name": "翻阅书册",
+    "prompt": "稳坐椅或长凳、双脚落地，书放在腿上，一手托书一手翻页，头略低；看书页。",
+    "stance": "sit",
+    "requires_support": [
+      "chair",
+      "bench"
+    ],
+    "requires_props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-104",
+    "name": "撑伞站立",
+    "prompt": "双脚稳定站立，一手在胸旁握伞柄撑起伞、另一手放身侧，伞面不遮脸；看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "umbrella"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-105",
+    "name": "手扶帽檐",
+    "prompt": "双脚自然落地，一手轻扶已有帽子的帽檐不遮眼、另一手下垂，重心居中；看侧方。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-106",
+    "name": "双手捧杯",
+    "prompt": "稳坐椅或凳、双脚落地，双手在腰前捧空杯不贴嘴，肩背放松；抬眼看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "chair",
+      "bench"
+    ],
+    "requires_props": [
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-107",
+    "name": "吉他自然抱持",
+    "prompt": "稳坐椅或凳、双脚落地，吉他下部稳放大腿，一手扶琴颈一手搭琴身，不凭空演奏；看琴。",
+    "stance": "sit",
+    "requires_support": [
+      "chair",
+      "bench"
+    ],
+    "requires_props": [
+      "guitar"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-108",
+    "name": "道具武器收低",
+    "prompt": "双脚自然站稳，双手将轻量道具武器收低于腰侧、朝安全地面方向，不指向镜头或人物；看远处。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "weapon"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-109",
+    "name": "盾牌侧置",
+    "prompt": "两脚稳定落地，一前臂承轻量盾在身体侧前方、另一手松垂，盾不挡脸；看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "shield"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-110",
+    "name": "道具杖竖于身侧",
+    "prompt": "双脚髋宽站稳，一手握轻量道具杖于身侧、杖底轻触地面但不承担体重；另一手腰前，看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-111",
+    "name": "弓具垂持",
+    "prompt": "两脚前后错开站稳，一手持未张弦的轻量道具弓垂于侧方、另一手自然下垂，不搭箭；看远方。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "bow"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-112",
+    "name": "无线电查看",
+    "prompt": "稳坐椅或凳、双脚落地，一手托道具无线电、一手轻触外壳不操作真实设备；看道具。",
+    "stance": "sit",
+    "requires_support": [
+      "chair",
+      "bench"
+    ],
+    "requires_props": [
+      "radio"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-113",
+    "name": "相机胸前待拍",
+    "prompt": "双脚站稳，双手在胸前托相机道具而不遮脸，手指自然落在机身；看侧前方。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "camera"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-114",
+    "name": "提箱停步",
+    "prompt": "双脚平稳落地，一手提轻量道具箱垂于腿外侧、另一手松放腰前，不压腿；看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-115",
+    "name": "轻球腰前托持",
+    "prompt": "双脚髋宽站稳，双手在腰前托轻量球，肘自然弯曲、肩放松；看镜头浅笑。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "ball"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-116",
+    "name": "球拍垂持",
+    "prompt": "两脚自然站稳，一手持轻量球拍在腿外侧、拍面离开脚，另一手放腰前；看侧方。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "racket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-117",
+    "name": "小花束胸前",
+    "prompt": "双脚落稳，双手在胸口下方托一枝或小束花，不挡脸、不擅自加大花束；看镜头浅笑。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "flower"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-118",
+    "name": "展示一张卡牌",
+    "prompt": "双脚站稳，一手在肩下方举一张已有道具卡牌、另一手收好其余牌，手指不遮面；看镜头。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "cards"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-119",
+    "name": "提篮休息",
+    "prompt": "稳坐凳或椅、双脚落地，轻量篮放在腿上，一手扶篮沿一手放膝侧；看侧方。",
+    "stance": "sit",
+    "requires_support": [
+      "bench",
+      "chair"
+    ],
+    "requires_props": [
+      "basket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-120",
+    "name": "查看圆钝工具",
+    "prompt": "双脚站稳，一手持已有圆钝工具在腰前、另一手轻扶其外壳，不指向身体；目光看工具。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "tool"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "WEB-POSE-SPELL",
+    "name": "前后脚双手施术",
+    "prompt": "双脚前后错开稳站，躯干直立；一手抬到肩侧、另一手掌朝上放在腰前，手指自然分开，视线向镜头侧；三分之二身能读出手脚关系。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-nycc-qifrey"
+      ]
+    }
+  },
+  {
+    "id": "WEB-POSE-UMBRELLA",
+    "name": "持伞展开披风",
+    "prompt": "一手稳握伞柄在身侧抬起，伞冠高于头部，另一手轻提披风边；两脚稳站，肘部留空间，脸不被伞柄遮挡。需要伞和可提披风。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "umbrella",
+      "cape"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-nycc-storm"
+      ]
+    }
+  },
+  {
+    "id": "WEB-POSE-ARROW",
+    "name": "道具箭低持站姿",
+    "prompt": "直立重心放在后脚，一手将安全道具箭杆低持在腰前，尖端远离身体和他人，另一手放松；正面半身或三分之二身。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "arrow"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-sdcc-huntress"
+      ]
+    }
+  },
+  {
+    "id": "WEB-POSE-CAST",
+    "name": "前手伸展后手呼应",
+    "prompt": "前手向镜头伸出但不遮脸，后手弯肘在肩侧呼应，五指自然张开；双脚稳站，躯干轻转，侧前方机位保留前后手的空间差。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-sdcc-scarlet"
+      ]
+    }
+  },
+  {
+    "id": "WEB-POSE-WALKPHONE",
+    "name": "手机垂握小步走",
+    "prompt": "小步向前走，一手自然垂握手机，另一手轻贴袋或自然摆动，重心落在支撑脚，视线稍偏前；不是大幅跨步，适合长裙。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "phone"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-pink"
+      ]
+    }
+  },
+  {
+    "id": "WEB-POSE-RELAX",
+    "name": "放松正面并脚站",
+    "prompt": "面向镜头自然站立，两脚保持舒适间距，双手放松在身体两侧，肩颈不耸起；头轻抬、视线平稳。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-white"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "WEB-POSE-SIDEPOCKET",
+    "name": "微侧站手贴口袋",
+    "prompt": "身体微侧，一手贴真实裤袋口，另一手自然垂下，双脚小幅前后错开，重心留在支撑脚；保持所选鞋型下的稳定站姿，不给无口袋衣装凭空加口袋。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "pocket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-utility"
+      ]
+    }
+  },
+  {
+    "id": "WEB-POSE-SELFIE",
+    "name": "湖畔单人举手机自拍",
+    "prompt": "一手举手机高于眼线，另一手在脸旁做轻手势，肩部舒展，两脚在真实步道站稳；从双人自拍提炼为单人，手势不遮五官。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "phone"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "hybrid",
+      "source_ids": [
+        "web-wuhan-hanfu"
+      ],
+      "adaptation": "原图双人自拍改为单人，保留手机与站姿逻辑"
+    }
+  },
+  {
+    "id": "ACT-POSE-rifle-alert",
+    "name": "双手长枪低位警戒",
+    "prompt": "双脚前后小幅错开稳定落地，右手握道具长枪握把、左手托前护木，枪口斜下指向空地；两肘留在身前，目光看画外警戒方向。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "rifle"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-rifle-combat",
+    "name": "肩托长枪交战定格",
+    "prompt": "两脚稳定前后站位、前膝微弯，道具长枪肩托贴肩，右手握把、左手托前护木；枪口朝画外剧情靶位，面部与瞄准动作清楚，只呈现静态剧情瞬间。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "rifle"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-rifle-training",
+    "name": "低幅半跪训练",
+    "prompt": "右膝落在平整软垫地面，左脚整掌落地且左膝不内扣；右手握长枪握把、左手托前护木，枪口斜下；目光朝训练标记。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "rifle"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-draw-katana",
+    "name": "右手拔刀左手稳鞘",
+    "prompt": "双脚稳定错开，上身正立；左手在左腰稳住配套刀鞘，右手握刀柄沿鞘口方向把道具刀抽出约三分之一；刀刃走向身侧空地，右肘与长袖留空间。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "katana",
+      "scabbard"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-wear-sword",
+    "name": "佩刀回望",
+    "prompt": "双脚停稳，刀完整入鞘固定于腰侧，双手空闲，一手松搭腰带另一手自然垂下；回头看向画外，刀鞘不穿透衣摆。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "sword",
+      "scabbard"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-sword-guard",
+    "name": "持剑低幅守势",
+    "prompt": "双脚前后站稳，右手握剑柄在身侧前方，剑尖斜向画外空地；左手收在胸下不碰刃，护甲/窄袖留手臂活动空间。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-sword-practice",
+    "name": "练剑进身收势",
+    "prompt": "右脚踏出并承重、左脚稳踩地面，右手握原配道具剑完成侧前方斜劈后的收势，剑尖停在身体外侧；左手空掌收在腰侧，头和目光跟随练习方向，刀鞘仍在已登记位置。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-bow-arrow",
+    "name": "弓箭分手巡望",
+    "prompt": "双脚错开站稳，左手垂握松弦道具弓，右手低持一支软头箭，箭不搭弦、箭尖远离身体；看林间画外。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "bow",
+      "arrow"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "web-sdcc-huntress",
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-shield-sword",
+    "name": "盾剑剧情防守",
+    "prompt": "双脚稳定，左前臂以带固定轻盾于侧前方，左手只握盾内柄；右手持剑垂向右侧空地，盾不挡脸，物件与身体不穿插。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "shield",
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-repair",
+    "name": "单工具检修查看",
+    "prompt": "双脚稳定站于工作台前，右手握圆钝工具，左手固定待检的道具设备外壳；双肘离身体，不碰刀刃或带电设备。",
+    "stance": "stand",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [
+      "tool",
+      "radio"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-radio-contact",
+    "name": "单手通信姿态",
+    "prompt": "双脚落稳，左手托无线电道具到胸侧、收音部与脸留距离，右手掌示意暂停；看画外同伴但配角不入画。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "radio"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-handheld-song",
+    "name": "右手持麦演唱",
+    "prompt": "双脚稳定落地、重心居中，右手在嘴边侧方持麦，左手向观众方向摊掌至胸下；麦克风不遮五官，微张口表现演唱。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "hand_mic"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-headset-dance",
+    "name": "头戴麦侧移切拍",
+    "prompt": "头戴麦戴稳，左脚向侧前方踏出承重、右脚收近，两膝随重拍屈伸；双臂一高一低切过身侧，肩胯有节拍转动，手中无物。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "headset_mic"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-br-practice",
+        "activity-v11-original"
+      ],
+      "local_adaptation": "原创改写为可见的动作阶段，仍以登记衣装活动能力和现有手部套组约束幅度；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-rehearsal-count",
+    "name": "双手数拍排练",
+    "prompt": "双脚髋宽站稳，一手在胸下轻数节拍，另一手落在身侧；目光朝镜墙中的自身，手中无麦、包或笔。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-br-practice",
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-sign",
+    "name": "签名中抬眼",
+    "prompt": "坐于签售桌后靠背椅，双脚落地；左手压住摊开专辑的纸角，右手握一支签名笔在纸面落笔，抬眼看画外来宾；笔帽放在同一桌面。",
+    "stance": "sit",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [
+      "pen",
+      "album"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-meet",
+    "name": "见面会空手挥手",
+    "prompt": "双脚落稳，一手抬到肩下小幅挥手，另一手放在腰前；手中无麦和签名笔，目光看画外观众。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-heritage-fan",
+    "name": "古院折扇MV停步",
+    "prompt": "双脚停稳，右手把一柄打开的折扇举到胸下、扇面不遮脸，左手向侧下方轻展；服装轮廓与古院柱线清楚。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-heritage-round-fan",
+    "name": "古院团扇缓转",
+    "prompt": "双脚转身后已停稳，右手持不可折叠团扇于肩下，左手轻收袖边不占用扇柄；看镜头，团扇保持圆面。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "round_fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-read-cup",
+    "name": "书在腿上一手端杯",
+    "prompt": "稳坐窗边椅上，双脚落地；打开的书放在腿面，左手压书页，右手握杯把将杯停在胸口下方；看窗外，杯不贴唇。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [
+      "book",
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-window-reading",
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-cook",
+    "name": "案边搅拌准备",
+    "prompt": "双脚稳定站在厨房工作台外侧，右手握一件圆钝料理工具停在空杯上方，左手稳住杯身；袖口离开工作面，不出现灶火动作。",
+    "stance": "stand",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [
+      "tool",
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-garden",
+    "name": "桌旁整理小花束",
+    "prompt": "两脚站稳，花束平放桌面，左手拢住花茎、右手调整一片叶；不额外握剪刀，视线看花，桌面承托明确。",
+    "stance": "stand",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [
+      "flower"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-pool-seat",
+    "name": "池沿双手后撑",
+    "prompt": "坐在宽实心池沿，臀部由实体座面承重，双掌分别撑在身后两侧干燥池沿；双脚入浅水、膝自然弯曲，头略仰，上身温和后倾。",
+    "stance": "sit",
+    "requires_support": [
+      "pool_edge"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "mixed_adaptation",
+      "source_ids": [
+        "activity-v11-resort-pool",
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-water-rest",
+    "name": "运动后端水停息",
+    "prompt": "稳坐凳上、双脚落地，右手握盖好的饮水瓶置于膝旁，左手放在左膝；肩稍放松，呼吸刚平复，汗珠依受光出现。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [
+      "water"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-towel-rest",
+    "name": "汗湿擦颊刚停",
+    "prompt": "双脚站稳，右手用一条毛巾轻触颊侧后停住，左手放在腰前；毛巾不遮眼鼻，汗湿范围随可见脸颈和手臂表达。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "towel"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-close-candid",
+    "name": "回身刚停自然抬眼",
+    "prompt": "双脚稳定落地，转身已经停住，双手自然空闲放在身体两侧；头略回看，神态放松。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-hazy",
+    "name": "窗帘侧松弛抬眼",
+    "prompt": "双脚站稳、肩放松，双手自然垂下，上身轻侧向窗帘；可见眼睛保持准确眼部焦点，嘴唇自然，原眼罩或面罩保持佩戴，遮挡妆造以可见面部与服装识别点表达松弛。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ],
+      "local_adaptation": "将画幅与机位从身体动作卡解耦；保留重心、支撑、视线和手部职责；本次为原创本地文字修订，未进行新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-brush",
+    "name": "右手书写左手压纸",
+    "prompt": "坐于书案椅上、双脚落地；左手压平一张纸的纸角，右手握一支毛笔，笔尖轻接纸面；墨碟放案侧，长袖留在桌边。",
+    "stance": "sit",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [
+      "brush",
+      "ink",
+      "paper"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-pour-tea",
+    "name": "右手斟茶左手扶杯",
+    "prompt": "坐于茶案椅上、双脚落地；右手握小茶壶柄，壶嘴朝向桌面一只茶杯，左手扶杯外侧；壶只轻倾，杯底仍由案面承托。",
+    "stance": "sit",
+    "requires_support": [
+      "table"
+    ],
+    "requires_props": [
+      "teapot",
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-orb-spell",
+    "name": "光球双手分工",
+    "prompt": "双脚站稳，左手掌心托一颗软质光球，右手在球侧外方张开；球不悬空，光效只表达球面，脸保持清楚。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "orb"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-ritual-staff",
+    "name": "法杖礼台静立",
+    "prompt": "双脚站稳，右手持道具杖于身体外侧，杖底轻触地面但不承重；左手向胸下收合，宽袖不裹住杖端。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "PRIVATE-POSE-chair-pause",
+    "name": "坐在椅沿呼吸刚停",
+    "prompt": "坐在稳固宽椅前部，双脚落地，一手轻放膝侧、另一手扶椅侧，上身自然前倾后停住，肩颈放松，抬眼看镜头。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-v12-private-original"
+      ]
+    }
+  },
+  {
+    "id": "PRIVATE-POSE-bed-turn",
+    "name": "床沿侧坐回望",
+    "prompt": "稳坐床沿，双脚落地、双腿同向，一手支撑床面另一手放腿侧，上身轻转后回望，头转动已经停住。",
+    "stance": "sit",
+    "requires_support": [
+      "bed"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-v12-private-original"
+      ]
+    }
+  },
+  {
+    "id": "PRIVATE-POSE-wall-pause",
+    "name": "窗旁倚墙停顿",
+    "prompt": "背部轻倚窗旁实墙，双脚稳定落地，肩自然下沉，一手松放腰侧另一手垂下；刚侧头看向摄影者。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-v12-private-original"
+      ]
+    }
+  },
+  {
+    "id": "PRIVATE-POSE-mirror-adjust",
+    "name": "镜前调整饰物",
+    "prompt": "站在固定镜前平地，一手轻触领口或耳侧已有饰物，另一手自然垂下，身体微侧、头轻回看摄影者；不新增饰物。",
+    "stance": "stand",
+    "requires_support": [
+      "mirror"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-v12-private-original"
+      ]
+    }
+  },
+  {
+    "id": "ACT-POSE-cup-pause",
+    "name": "端杯停在窗光里",
+    "prompt": "双脚落地，左手握原杯的杯把停在胸下，右手放松垂于身侧；目光从杯沿移向窗外，肩颈自然放松。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-book-stand",
+    "name": "读到半页抬眼",
+    "prompt": "双脚自然落地，左手托住摊开书册的书脊，右手食指停在当前书页；头略抬起但身体仍留在阅读姿态。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-tool-check",
+    "name": "工作间隙查看工具",
+    "prompt": "双脚落地，右手握原配工具的柄部，左手为空停在腰侧；稍转动手腕查看原工具，目光在工具与工作位置之间。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "tool"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-camera-review",
+    "name": "旅行拍后看相机",
+    "prompt": "双脚停稳，右手握相机柄、左手托机身底部，显示面朝自己，目光低落在相机上；原相机完整，不新增手机。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "camera"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-flower-turn",
+    "name": "花束随回头轻转",
+    "prompt": "左手拢住原花束的茎部，花头停在身体外侧胸下，右手为空自然下垂；身体刚从花廊转回，目光落在画外呼唤方向。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "flower"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-basket-pause",
+    "name": "提篮在途中停一下",
+    "prompt": "双脚停在平整路面，左手握原篮提手放身体外侧大腿旁，右手为空；头转向树荫或院门，篮身不挡服装主体。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "basket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-ready-scan",
+    "name": "换位后侧身观察",
+    "prompt": "前后错步落地，后脚承重，身体斜向前路，一手空掌在胸下示意停顿、另一手空闲放在身侧；目光沿转角或门口观察。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-case-walk",
+    "name": "提箱转过通道",
+    "prompt": "右手握原箱提手、箱体垂在身侧，左手空闲自然摆动；前脚落地、后脚跟进，头轻侧看下一段通道。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "ACT-POSE-bag-route",
+    "name": "肩包途中确认路线",
+    "prompt": "原包以原肩带背在身体侧后，双手空闲，前脚刚落地，身体跟随路径转向；头转向明确前路，不新增地图或手机。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "为原衣装和原物件编写实际行动姿势，手部职责与落脚面明确；原创本地文字修订，未新增网络取材。"
+    }
+  },
+  {
+    "id": "pose-bold-1-landing",
+    "name": "低跃落地的拳斗收势",
+    "prompt": "双脚由低跃落回软地，前脚先承重、后脚紧接落地，双膝屈曲吸收动作；右拳收在颊侧、左前臂斜向护胸，目光追向左前方画外目标，头发与短裙只保留一次惯性摆动。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-1-wall-turn",
+    "name": "墙前急转护身",
+    "prompt": "左脚牢牢踩地作为轴，右脚沿地面转开，背部距实体墙一掌，左前臂贴墙轻触导向但不承担全重；右拳收在胸侧，身体转向排练区中央，眼睛先回看摄影者侧的画外。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-1-knee-recover",
+    "name": "单膝着地后起身",
+    "prompt": "右膝与软地接触，左脚完整踩地，躯干向左脚上方倾；左掌按在左大腿近膝处辅助起身，右拳停在胸口，不按地，目光直追前方画外目标。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-2-cover-drop",
+    "name": "低伏进入掩体内侧",
+    "prompt": "右膝压在防滑地板上，左脚前踏承重；左掌贴腰高实体掩体内侧，右手抬至耳侧通信器而不遮脸，躯干伏低，目光沿掩体边缘望向通道。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-2-step-charge",
+    "name": "踏阶前冲的侦察步",
+    "prompt": "左脚踏上第一层低宽阶台全掌承重，右脚仍在下层地面向后蹬；躯干向前倾而非腾空，左臂后摆、右臂前摆保持平衡，视线沿上层通道推进。",
+    "stance": "dynamic",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-2-wall-scan",
+    "name": "背靠墙后侧身探视",
+    "prompt": "双脚前后错开全掌着地，肩胛轻靠实体墙；左掌停在胸甲上，右掌指尖轻触墙面定位，头与右肩从墙沿探出，腰部保持贴近安全内侧，眼睛看通道尽头。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-3-wide-beat",
+    "name": "宽步下沉的强拍",
+    "prompt": "双脚向两侧宽步落地，膝盖随足尖方向弯曲、重心压低；左前臂横在胸前、右臂朝侧上方展开，肩与髋反向扭转，目光直迎摄影者。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-3-floor-sweep",
+    "name": "地面扫步后定格",
+    "prompt": "臀部和左掌接触防滑木地，左膝弯曲且左足落地，右腿伸向身体侧前方，右足跟贴地；右手抬在胸侧保持空闲，身体沿左掌支撑转出，目光朝右前方。",
+    "stance": "sit",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-3-back-arch",
+    "name": "墙前胸腔打开收拍",
+    "prompt": "双脚分开全掌落地，臀背轻触实体墙，双臂上举后弯肘，掌心朝墙；胸腔轻抬、上背小幅展开，头侧转看摄影者，腰部不深折、不悬空。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-4-cabinet-reach",
+    "name": "单膝整理低柜",
+    "prompt": "右膝接触木地板，左脚全掌落地；左掌搭在左膝上，右手伸到低柜敞开的空格里整理内侧布垫，身体前倾但重量仍落在膝与足，听到画外声音后侧头回望。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-4-window-recline",
+    "name": "窗座侧倚伸展",
+    "prompt": "人物侧坐固定软垫窗座，臀和左前臂接触座垫，双腿自然伸向前方且双足跟落在地面；右臂越过头顶伸展、手掌空闲，躯干沿座面轻侧倚，脸转向侧窗光。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-4-chair-listen",
+    "name": "跨坐椅后前倾听声",
+    "prompt": "双腿位于无扶手木椅两侧，臀部坐实椅面、双足平放地面；双前臂横搭稳固椅背上沿，胸肩向前轻靠而不压塌椅背，头从前臂上方侧转，像听到门口一声招呼。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-5-bench-lounge",
+    "name": "横坐长凳后撑侧转",
+    "prompt": "臀部坐实固定软垫长凳，左腿曲起平放座面，右脚落地；左掌在臀后压住座垫承担部分重量，右手自然放在左膝，胸肩侧转看摄影者，背部适度伸展。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-5-wall-longline",
+    "name": "贴墙长线收步",
+    "prompt": "左脚全掌承重、右脚向侧后方伸长且足尖触地；左肩胛与左前臂轻贴实体墙，右手抬到后颈整理发辫但不拉扯，脸朝右侧转，躯干保持伸长。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-5-low-dance",
+    "name": "低位弓步抬胸",
+    "prompt": "左脚前踏全掌着地、左膝屈曲，右腿后伸且前脚掌着地；右手沿胸侧抬起、左臂向后展开，胸腔轻抬而腰不过度折弯，脸向左前方看，保留强烈低位舞姿。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-6-step-vault",
+    "name": "跨阶回身护势",
+    "prompt": "左足全掌踏在低宽石阶上，右足仍在下层石庭，重心向左腿移；左手在胸前收成护势、右臂向后展开平衡，头回看右后方，左腰带鞘剑沿髋侧而不顶住台阶。",
+    "stance": "dynamic",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-6-low-palm",
+    "name": "沉身单膝掌势",
+    "prompt": "右膝落在干燥石地，左足前踏全掌支撑；右掌横停在肩前、左掌在腹前回收，两手不碰剑鞘；躯干直而重心低，眼睛看向左前方，鞘剑靠左髋不压膝。",
+    "stance": "kneel",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-6-gate-turn",
+    "name": "山门墙边急停拧身",
+    "prompt": "双脚前后错开落地，前腿弯曲吸收急停，后足外转；左肩靠近实体山门墙但不悬挂，右掌张开在胸前、左手压住左腰外侧固定剑鞘，头转向门洞内的画外声源。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-1-mega-structure",
+    "name": "中庭中央抬头辨认楼层",
+    "prompt": "双脚错开落在中庭平地，双手垂在髋侧，肩稍后展、头抬起看高处普通窗列，红色驾驶服在巨大梁架下形成清楚单人色块。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-1-mega-shared",
+    "name": "学院护栏前寻找入口",
+    "prompt": "双脚稳落栏内平地，左掌贴固定护栏上沿，右手抬至眉侧遮住侧光但不盖眼，身体向中庭内侧转，视线追向对面某个普通大小的门。",
+    "stance": "stand",
+    "requires_support": [
+      "rail"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-1-mega-person",
+    "name": "长凳上转头回应召唤",
+    "prompt": "臀部坐实固定长凳、双脚落地，右手搭在右膝、左掌扶座面边缘；身体微向前、头转向摄影者一侧，衣装领口与头饰随转头保持原样。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-2-mega-structure",
+    "name": "后勤城廊巡逻交接",
+    "prompt": "左脚前踏全掌承重，右脚后跟离地而前掌仍触地，右臂前摆、左臂后摆；头抬向高层通道，人物沿巨楼基部的普通巡逻路走过。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-2-mega-shared",
+    "name": "隔墙边确认下一段路",
+    "prompt": "双脚前后错开，左前臂轻触实体墙，右手抬到耳侧通信器；头转向深廊入口，护甲的肩线与重复门洞指向同一通道。",
+    "stance": "stand",
+    "requires_support": [
+      "wall"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-2-mega-person",
+    "name": "任务暂停时握住护栏",
+    "prompt": "双脚留在护栏内平地，双掌前后分开放在固定栏杆上沿，胸肩微前倾，头转回摄影者；靠前的一只手与脸是主要观看对象。",
+    "stance": "stand",
+    "requires_support": [
+      "rail"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-3-mega-structure",
+    "name": "广场上展开舞台臂线",
+    "prompt": "双脚侧向宽步着地、膝微屈，右臂朝侧上方展开、左臂横收胸前，目光沿右臂方向看向塔群；身体只在地面完成舞台定格。",
+    "stance": "dynamic",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-3-mega-shared",
+    "name": "低台上回身接下一拍",
+    "prompt": "左脚全掌踏在固定低台、右脚落在台前地面，右臂向后展开平衡、左手停胸前；躯干回转朝塔楼普通后台门，像刚从排练走向下一个拍摄落点。",
+    "stance": "dynamic",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-3-mega-person",
+    "name": "长凳上拭过额侧收拍",
+    "prompt": "臀部坐实长凳、双脚落地，左掌扶长凳座面，右手指背轻擦额侧后停在太阳穴旁而不遮眼；肩放松，目光侧向摄影者，服装宽带仍在原位。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-4-mega-structure",
+    "name": "花庭里张开双臂伸懒腰",
+    "prompt": "双脚髋宽落地，双臂向侧上方自然张开，胸腔微抬但腰不深弯，头转向楼间天光；亚麻上衣与松裤保留日常轮廓。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-4-mega-shared",
+    "name": "步道上回头辨认单元门",
+    "prompt": "左脚前踏全掌承重，右脚前掌触地，左手自然垂下、右手抬到发带边轻扶；身体继续朝步道前方，头却回看后方普通单元门。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-4-mega-person",
+    "name": "花庭长凳上侧靠听声",
+    "prompt": "臀部坐实长凳，双脚平落地面，左肘支在左大腿上、左掌托住下颌侧而不盖脸，右手放右大腿；肩朝侧方放松、眼睛看摄影者。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-5-mega-structure",
+    "name": "露台末端晚装迎风停步",
+    "prompt": "双脚前后错开稳落露台地面，左手在髋侧轻拢礼服外层裙料但不提高下摆，右臂自然垂落；头朝楼群远端转，暮风只带动裙料余量。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-5-mega-shared",
+    "name": "沿栏回身等待宴会来人",
+    "prompt": "左脚前踏全掌承重，右脚前掌仍触地；左手轻拢裙侧避免踏到，右手空闲停腰侧，身体沿栏内通道前行而头回看普通宴会侧门。",
+    "stance": "walk",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-5-mega-person",
+    "name": "露台椅上抬头赴约",
+    "prompt": "臀部坐实无轮座椅、双脚落地，双膝并拢自然偏向一侧，左掌放在左大腿上、右手落膝上；上身轻前倾、头抬起看近处摄影者，耳饰与肩颈成为主要形。",
+    "stance": "sit",
+    "requires_support": [
+      "chair"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-6-mega-structure",
+    "name": "山城石台上远望宫院",
+    "prompt": "双脚稳落石台，左掌轻压左腰固定剑鞘，右手垂在身侧；头抬向层叠宫院，带鞘剑不出鞘、不借栏杆承重。",
+    "stance": "stand",
+    "requires_support": [
+      "standing_floor"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-6-mega-shared",
+    "name": "踏阶回望来路的剑客",
+    "prompt": "左足全掌踏上低宽石阶，右足仍在下一级；右手空闲停胸侧、左手压住腰侧剑鞘防止摆动，头回看后方连续门洞，前路与来路都由院廊提示。",
+    "stance": "walk",
+    "requires_support": [
+      "steps"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "pose-bold-6-mega-person",
+    "name": "石凳上回身握住剑鞘",
+    "prompt": "臀部坐实石凳，双脚平落石地，左手轻握左腰剑鞘外侧、右掌扶石凳边缘；胸肩转向摄影者、目光停在其旁，剑仍完整收在鞘中。",
+    "stance": "sit",
+    "requires_support": [
+      "bench"
+    ],
+    "requires_props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  }
+]

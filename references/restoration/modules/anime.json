@@ -1,0 +1,31 @@
+{
+  "module_name": "anime",
+  "description": "动漫插画模块——线条、色块、赛璐璐噪点、色溢的修复",
+  "line_art": {
+    "preserve": "线条风格、粗细变化、笔触、手绘感、线条走向、草稿感（如有）",
+    "remove": "线条抖动、断线、毛刺、锯齿、线条脏色、重叠杂线、压缩伪影",
+    "rendering": "线条干净流畅，保持原有的粗细变化和手绘风格，断线处合理连接，不做矢量感过度平滑"
+  },
+  "color_blocks": {
+    "preserve": "色块边界、颜色、渐变、阴影层次、上色风格、赛璐璐分层",
+    "remove": "色溢、混色、色块脏点、颜色溢出边界、渐变banding、压缩伪影",
+    "rendering": "色块边界干净清晰，颜色准确，渐变平滑无banding，赛璐璐阴影层次分明，无色溢"
+  },
+  "cel_noise": {
+    "preserve": "画面内容、线条、色块、画风、色彩风格",
+    "remove": "赛璐璐噪点、数字噪点、压缩伪影、色块颗粒、边缘锯齿",
+    "rendering": "色块内部干净均匀，噪点去除后不产生色带，边缘保持清晰，整体画面干净"
+  },
+  "background": {
+    "preserve": "背景画风、笔触、色彩、空间感、与人物的风格统一",
+    "remove": "背景脏点、噪点、色带、压缩伪影、非预期纹理",
+    "rendering": "背景干净但保持原有画风，不做过度平滑导致与人物风格脱节，空间层次清晰"
+  },
+  "text_sfx": {
+    "preserve": "文字内容、字体、拟声词、效果字、排版位置",
+    "remove": "文字边缘锯齿、模糊、色溢、背景脏点",
+    "rendering": "文字清晰锐利，边缘干净，拟声词效果字保持原有设计风格"
+  },
+  "style_keywords": "clean line art, smooth lines, sharp color edges, no color bleed, clean cel shading, no noise, manga quality, anime style preserved, crisp text, no artifacts",
+  "negative_prompt": "jittery lines, broken lines, color bleed, mixed colors, cel noise, compression artifacts, banding, jagged edges, blurry text, over-smoothed, vector look, lost hand-drawn feel"
+}

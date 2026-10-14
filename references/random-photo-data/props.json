@@ -1,0 +1,578 @@
+[
+  {
+    "id": "prop-fan",
+    "name": "折扇",
+    "kind": "fan",
+    "prompt": "一把轻量折扇，扇骨与握柄清楚，可明确展开或合拢；不可凭空变成团扇。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-round_fan",
+    "name": "团扇",
+    "kind": "round_fan",
+    "prompt": "一柄不可折叠的轻量团扇，圆面与独立柄清楚，保持原形。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-sword",
+    "name": "轻量道具剑",
+    "kind": "sword",
+    "prompt": "一柄所选服装对应的轻量圆钝道具剑，剑柄、剑身与尖端方向可见。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-scabbard",
+    "name": "配套剑鞘",
+    "kind": "scabbard",
+    "prompt": "一件匹配道具刀剑的鞘，鞘口和固定带明确。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-katana",
+    "name": "圆钝道具太刀",
+    "kind": "katana",
+    "prompt": "一柄轻量弧形道具太刀，握柄与刀身完整，非真实武器操作。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-weapon",
+    "name": "服装配套道具武器",
+    "kind": "weapon",
+    "prompt": "按所选妆造文字保留其代表道具形态；数量与状态由本组合明确，不擅自换枪型。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-rifle",
+    "name": "训练长枪道具",
+    "kind": "rifle",
+    "prompt": "一支轻量无功能训练长枪道具，握把、前护木和肩托分区清楚，剧情定格不提供操作教学。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-pistol",
+    "name": "剧情短枪道具",
+    "kind": "pistol",
+    "prompt": "一支轻量无功能短枪道具，只作剧情展示。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-shield",
+    "name": "轻量道具盾",
+    "kind": "shield",
+    "prompt": "一面轻量道具盾，内侧前臂固定带与握位明确，不遮主体脸。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-bow",
+    "name": "道具弓",
+    "kind": "bow",
+    "prompt": "一张轻量道具弓，本库静态套组弦松弛，箭与弓分开登记。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-arrow",
+    "name": "安全道具箭",
+    "kind": "arrow",
+    "prompt": "一支软头圆钝道具箭，箭杆与尖端方向清楚，不做真实发射。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-staff",
+    "name": "轻量法杖",
+    "kind": "staff",
+    "prompt": "一根服装对应的轻量道具杖，底端可触地但不承担体重。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-orb",
+    "name": "软质光球",
+    "kind": "orb",
+    "prompt": "一颗轻量软质光球道具，置于掌心或软垫上，由手/垫真实支撑。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-hand_mic",
+    "name": "手持麦克风",
+    "kind": "hand_mic",
+    "prompt": "一支演唱手持麦克风，单手握柄、收音端朝嘴边而不遮脸。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-headset_mic",
+    "name": "头戴麦克风",
+    "kind": "headset_mic",
+    "prompt": "一副头戴麦克风，耳挂戴稳、收音端在嘴角侧方，双手保持空闲。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-pen",
+    "name": "签名笔",
+    "kind": "pen",
+    "prompt": "一支有帽签名笔，写字时帽盖独立放在桌面，本套组不增加第二支笔。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-album",
+    "name": "签售专辑",
+    "kind": "album",
+    "prompt": "一本摊开放平的纸面专辑，页面由桌面支撑，可由左手压住。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-book",
+    "name": "书册",
+    "kind": "book",
+    "prompt": "一本与服装情境一致的书册，不要求生成可读正文。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-brush",
+    "name": "毛笔",
+    "kind": "brush",
+    "prompt": "一支毛笔，有独立笔杆与笔毫，写字时右手握柄、笔尖接触纸面。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-ink",
+    "name": "墨碟",
+    "kind": "ink",
+    "prompt": "一只平稳放在案上的浅墨碟，不要求液体飞溅。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-paper",
+    "name": "书写纸",
+    "kind": "paper",
+    "prompt": "一张铺平的纸，由桌面支撑，左手压纸角。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-cup",
+    "name": "服装情境杯具",
+    "kind": "cup",
+    "prompt": "一只情境对应的杯具，端持或放置状态具体登记；不默认饮酒。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-teapot",
+    "name": "茶壶",
+    "kind": "teapot",
+    "prompt": "一只小茶壶，壶身、壶柄与壶嘴明确，静态端持及斟茶用手分工。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-water",
+    "name": "饮水瓶",
+    "kind": "water",
+    "prompt": "一瓶带盖饮水瓶，数量和盖子开合状态明确。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-towel",
+    "name": "吸汗毛巾",
+    "kind": "towel",
+    "prompt": "一条折叠毛巾，用于休息时擦脸或放在身旁。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-umbrella",
+    "name": "轻量雨伞",
+    "kind": "umbrella",
+    "prompt": "一柄轻量伞，伞柄、伞骨与展开伞面完整，伞冠高于头。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-hat",
+    "name": "原装帽具",
+    "kind": "hat",
+    "prompt": "一顶所选妆造对应的帽具，佩戴状态由本组合明确，不替换服装帽型。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-helmet",
+    "name": "原装头盔",
+    "kind": "helmet",
+    "prompt": "一顶所选妆造对应的轻量头盔，戴稳或放入收纳位。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-mask",
+    "name": "原装面罩",
+    "kind": "mask",
+    "prompt": "一件所选妆造配套面罩，保留原佩戴部位；不覆盖人物全部身份识别。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-sunglasses",
+    "name": "原装墨镜",
+    "kind": "sunglasses",
+    "prompt": "一副与原装妆造一致的墨镜，不额外叠戴第二副。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-bag",
+    "name": "配套轻量包",
+    "kind": "bag",
+    "prompt": "一个与所选衣装对应的肩包或背包，原有肩带/背带为支撑；无大量内装物。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-case",
+    "name": "配套轻量箱",
+    "kind": "case",
+    "prompt": "一个所选服装对应的轻量箱，握柄和箱底明确。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-radio",
+    "name": "无线电道具",
+    "kind": "radio",
+    "prompt": "一台无功能无线电道具，握持外壳而非操作真实设备。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-camera",
+    "name": "相机道具",
+    "kind": "camera",
+    "prompt": "一台轻量相机，机身与肩带分区明确，握持不遮人物脸。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-cards",
+    "name": "道具卡牌",
+    "kind": "cards",
+    "prompt": "一张或明确数量的道具卡牌，不要求可读文字。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-guitar",
+    "name": "轻量吉他",
+    "kind": "guitar",
+    "prompt": "一把轻量吉他道具，琴身、琴颈与肩带清楚。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-instrument",
+    "name": "原装弦乐道具",
+    "kind": "instrument",
+    "prompt": "一件服装对应的轻量弦乐器，保留原有形制；具体站坐套组不冒充真实演奏。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-record",
+    "name": "唱片道具",
+    "kind": "record",
+    "prompt": "一张装在保护套中的轻量唱片道具。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-phone",
+    "name": "手机道具",
+    "kind": "phone",
+    "prompt": "一台轻量手机道具，低握或举起自拍状态由套组指定。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-tool",
+    "name": "圆钝工具",
+    "kind": "tool",
+    "prompt": "一件圆钝轻量工具道具，观察/检修外壳用，不进行危险真实操作。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-flower",
+    "name": "小束花",
+    "kind": "flower",
+    "prompt": "一小束花，花茎扎好；不擅自增加成巨大花束。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-basket",
+    "name": "轻量篮",
+    "kind": "basket",
+    "prompt": "一个轻量编织篮，篮底真实受托或落地。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-ball",
+    "name": "轻量运动球",
+    "kind": "ball",
+    "prompt": "一颗轻量运动球，双手端托或放在架上。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-racket",
+    "name": "轻量球拍",
+    "kind": "racket",
+    "prompt": "一支轻量球拍，拍柄握位明确。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-gloves",
+    "name": "配套拳套",
+    "kind": "gloves",
+    "prompt": "一副轻量训练拳套，左右手各一只，保留双手空间。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-cape",
+    "name": "原装可提披风",
+    "kind": "cape",
+    "prompt": "一件所选妆造本就具有的可提披风，固定在肩背，持边动作不增加第二件披风。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-pocket",
+    "name": "原装真实裤袋",
+    "kind": "pocket",
+    "prompt": "所选服装确有的一个裤袋口，衣装结构而非额外物件。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  },
+  {
+    "id": "prop-rack",
+    "name": "稳固道具收纳架",
+    "kind": "rack",
+    "prompt": "一个带软垫格位的矮道具架，底座平稳落地；竖向长件由夹位固定，小件由凹槽支撑，不进入走位区域。",
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "activity-v11-original"
+      ]
+    }
+  }
+]

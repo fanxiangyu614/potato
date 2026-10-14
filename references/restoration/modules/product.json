@@ -1,0 +1,26 @@
+{
+  "module_name": "product",
+  "description": "产品静物模块——电商商品、静物的表面洁净、反光与边缘修复",
+  "surface": {
+    "preserve": "产品形状、表面材质纹理、logo、文字、刻印、颜色、结构线、接缝",
+    "remove": "灰尘、指纹、水渍、划痕、脏点、污渍、毛发、纤维、反光不均、表面雾感",
+    "rendering": "干净均匀的产品表面，材质反射正确，哑光、半光、高光各有区分，logo文字清晰锐利"
+  },
+  "edges": {
+    "preserve": "产品轮廓、圆角、倒角、切边、结构边缘",
+    "remove": "锯齿、光晕、边缘脏色、压缩伪影、模糊溢出、抠图残留",
+    "rendering": "边缘精致干净，过渡平滑，无锯齿无光晕，产品与背景分离明确"
+  },
+  "reflection": {
+    "preserve": "合理的环境反射、光源反射、接触阴影、投影",
+    "remove": "反射断裂、杂色反射、过曝高光、死黑阴影、反射中的脏物",
+    "rendering": "反射符合材质特性和光源方向，阴影柔和有层次，接触阴影真实可信"
+  },
+  "background": {
+    "preserve": "背景颜色、渐变、纹理（如有）、空间感",
+    "remove": "背景脏点、非预期噪点、色带与压缩脏纹；实际杂物、文字和水印仅在用户明确要求时移除",
+    "rendering": "原有纯色或平滑背景干净纯粹、完全无非预期噪点，渐变平滑无banding；有纹理背景保留真实材质，不抢产品主体，不改变背景元素和空间关系"
+  },
+  "style_keywords": "clean product surface, dust-free, fingerprint-free, sharp logo, clean edges, proper material reflection, studio product quality, no artifacts, commercial photography standard",
+  "negative_prompt": "dust, fingerprints, scratches, stains, dirty surface, jagged edges, halo, compression artifacts, overexposed highlights, dead black shadows, fake reflection, watermark, background clutter"
+}

@@ -1,0 +1,1758 @@
+[
+  {
+    "id": "outfit-6-001",
+    "name": "束袖行走剑客",
+    "class_id": 6,
+    "subtype": "江湖侠客",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿窄袖交领短袍、分腿长裤与布腰带，护腕和软底靴；高束发、清利眼线、木发簪，佩带鞘轻量剑，前襟完整覆盖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "窄袖短袍长裤",
+      "木发簪高束发",
+      "带鞘剑"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-6-dance",
+      "theme-6-duel",
+      "theme-6-ritual",
+      "theme-6-sword",
+      "theme-6-travel",
+      "theme-6-bold-photo-moment",
+      "theme-6-megastructure-story"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "athletic"
+    ]
+  },
+  {
+    "id": "outfit-6-002",
+    "name": "短披风女侠",
+    "class_id": 6,
+    "subtype": "江湖侠客",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿交领及膝衣、宽腿长裤和短披风，腰封、绑腿靴；侧编辫束发、自然妆、简洁银扣，轻量剑挂腰侧。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短披风交领衣",
+      "宽腿绑腿裤",
+      "腰侧佩剑"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-duel",
+      "theme-6-ritual",
+      "theme-6-sword",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-6-003",
+    "name": "雨行斗笠侠客",
+    "class_id": 6,
+    "subtype": "江湖侠客",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿厚布交领袍与直筒长裤，短蓑衣、平底靴；低束发、淡妆，笠帽露出脸，腰侧带鞘剑，不以帽檐遮完身份。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短蓑衣斗笠",
+      "厚布交领袍",
+      "带鞘剑"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "sword",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-sword",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-004",
+    "name": "游医江湖装",
+    "class_id": 6,
+    "subtype": "江湖侠客",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿束袖长衫与宽腰带、直筒布裤和软鞋，斜挎药箱；半束发、自然暖妆、木簪，小围巾收在领内。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "束袖长衫",
+      "斜挎药箱",
+      "木簪半束发"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "case"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-005",
+    "name": "镖师护送装",
+    "class_id": 6,
+    "subtype": "江湖侠客",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿短护胸马甲叠窄袖交领衣、宽腿裤与布靴；粗辫盘束、干净眼妆，布包与轻量道具刀贴腰固定。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短护胸马甲",
+      "宽腿布裤",
+      "布包道具刀"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "sword",
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-6-dance",
+      "theme-6-duel",
+      "theme-6-ritual",
+      "theme-6-sword",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "martial",
+      "classical",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-6-006",
+    "name": "踏云练剑弟子",
+    "class_id": 6,
+    "subtype": "仙门弟子",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿白色束袖交领衣、分片裙裤和软底靴，浅色腰封；高束发、淡冷妆、玉色发扣，轻量长剑入鞘，胸襟与裙内不透明。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "束袖白衣",
+      "分片裙裤",
+      "玉发扣带鞘剑"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-6-dance",
+      "theme-6-duel",
+      "theme-6-ritual",
+      "theme-6-sword",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "martial",
+      "fantasy",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-6-007",
+    "name": "宽袖仙门礼装",
+    "class_id": 6,
+    "subtype": "仙门弟子",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明交领长裙、宽袖外袍和长腰带，裙摆离地、平底鞋；半束长发、淡妆、双侧玉饰，配折扇，宽袖不遮脸。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽袖外袍长裙",
+      "长腰带双侧玉饰",
+      "折扇"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fantasy",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-008",
+    "name": "炼丹学徒衣",
+    "class_id": 6,
+    "subtype": "仙门弟子",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿束袖短外衣叠交领内衫、九分宽腿裤和平底鞋；低髻、自然妆、木簪，腰系药囊，配道具丹经。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "束袖短外衣",
+      "药囊",
+      "道具丹经"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-literacy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "classical",
+      "fresh"
+    ]
+  },
+  {
+    "id": "outfit-6-009",
+    "name": "御风巡山衣",
+    "class_id": 6,
+    "subtype": "仙门弟子",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿肩部短披帛、合身窄袖长衣与开片裙裤，软腰带和轻靴；高马尾、冷淡妆、玉发结，配轻量短杖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短披帛",
+      "开片裙裤",
+      "玉发结短杖"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-6-dance",
+      "theme-6-magic",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "martial",
+      "fantasy",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-6-010",
+    "name": "仙门琴修衣",
+    "class_id": 6,
+    "subtype": "仙门弟子",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明对襟上衣叠交领内衣、及踝长裙和窄披帛，平底鞋；低盘发、淡暖妆、花形簪，携轻量弦乐道具。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "对襟长裙",
+      "窄披帛花簪",
+      "弦乐道具"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "instrument"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-011",
+    "name": "宫廷圆领袍",
+    "class_id": 6,
+    "subtype": "宫廷华服",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿宽袖圆领长袍、完整内衣和宽腰带，裙摆离地、绣鞋；高盘发、暖色妆、金色简式发冠，配团扇。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "圆领宽袖长袍",
+      "宽腰带",
+      "简式发冠团扇"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "elegant",
+      "stage"
+    ]
+  },
+  {
+    "id": "outfit-6-012",
+    "name": "唐风齐胸襦裙",
+    "class_id": 6,
+    "subtype": "宫廷华服",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿齐胸襦裙配不透明内层与稳固系带、长袖短襦和轻披帛，平底鞋；高髻、花钿妆、花形簪，配团扇，保持宽松裙形。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "齐胸襦裙长袖短襦",
+      "轻披帛",
+      "高髻花钿团扇"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-013",
+    "name": "宋风褙子套装",
+    "class_id": 6,
+    "subtype": "宫廷华服",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿对襟长褙子、完整交领内衣与百褶长裙，布鞋；低盘发、淡妆、细簪，配小书册，褙子前方直线垂坠。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "对襟长褙子",
+      "百褶长裙",
+      "细簪书册"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-literacy",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-014",
+    "name": "明风马面裙装",
+    "class_id": 6,
+    "subtype": "宫廷华服",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿立领长袖短袄和不透明马面长裙、平底绣鞋；盘髻、暖淡妆、小金簪，折扇与窄腰带，裙面保留大褶结构。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "立领短袄马面裙",
+      "小金簪",
+      "折扇"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "elegant",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-6-015",
+    "name": "宫廷女官礼衣",
+    "class_id": 6,
+    "subtype": "宫廷华服",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿端正交领宽袖长衣、分层不透明长裙与软底鞋，宽绶带；规整盘发、细眉淡唇、低冠，配卷册。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽袖分层长衣",
+      "宽绶带低冠",
+      "卷册"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-literacy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "elegant",
+      "dark"
+    ]
+  },
+  {
+    "id": "outfit-6-016",
+    "name": "宫廷骑行华服",
+    "class_id": 6,
+    "subtype": "宫廷华服",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿窄袖圆领袍配分腿长裤、腰带和软靴，短披肩；高束发、简洁眼线、发扣，腰侧带鞘轻量剑，非拖地礼裙。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "窄袖圆领袍长裤",
+      "短披肩",
+      "带鞘剑"
+    ],
+    "era": [
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "sword"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-duel",
+      "theme-6-ritual",
+      "theme-6-sword",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "martial",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-017",
+    "name": "山居布衣隐士",
+    "class_id": 6,
+    "subtype": "山水隐士",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿宽松交领布衫、九分宽腿裤与布鞋，腰系布带；松髻、自然妆、木簪，配旧书册，服装无金属甲片。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽松交领布衫",
+      "九分宽腿裤",
+      "木簪书册"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-literacy",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-018",
+    "name": "竹林茶师衣",
+    "class_id": 6,
+    "subtype": "山水隐士",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿束袖对襟外衣与不透明内衫、及踝素裙和布鞋；低髻、自然暖妆、竹簪，配小茶杯，袖口不落杯中。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "束袖对襟衣",
+      "及踝素裙",
+      "竹簪茶杯"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-6-019",
+    "name": "溪畔琴师衣",
+    "class_id": 6,
+    "subtype": "山水隐士",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿宽袖交领上衣、垂直长裙和窄腰带，平底鞋；长发半束、淡妆、木簪，携轻量古琴道具，袖幅控制到可操作。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽袖交领长裙",
+      "木簪半束发",
+      "古琴道具"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "instrument"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-020",
+    "name": "雪山棉袍隐者",
+    "class_id": 6,
+    "subtype": "山水隐士",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿厚棉交领长袍、完整长裤与短软毛披肩，防滑平底靴；低束发、自然冷妆、木扣，配轻量木杖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "厚棉长袍",
+      "短软毛披肩",
+      "木杖防滑靴"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-magic",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "dark",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-021",
+    "name": "荷塘采莲衣",
+    "class_id": 6,
+    "subtype": "山水隐士",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿束袖短襦与不透明及膝裙、长裤内层和平底鞋；粗辫、自然淡妆、布发结，配小竹篮，不在危险水边摆姿势。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "束袖短襦",
+      "裙裤双层",
+      "小竹篮"
+    ],
+    "era": [
+      "historical",
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "basket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-6-022",
+    "name": "狐灵山行衣",
+    "class_id": 6,
+    "subtype": "妖灵幻想",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明交领短上衣、分层及膝裙和安全内层，软靴；长发半束、狐耳与轻量尾巴、柔棕妆，配小扇，保留用户肤色。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "狐耳轻量尾巴",
+      "分层及膝裙",
+      "小扇"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "classical",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-6-023",
+    "name": "鹿灵林间衣",
+    "class_id": 6,
+    "subtype": "妖灵幻想",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿完整覆盖的树叶形肩片上衣和及踝素裙，内层不透明、平底鞋；编辫、鹿角形轻量发饰、自然暖妆，配木杖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "树叶形肩片",
+      "鹿角形发饰",
+      "木杖"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-magic",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "fresh",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-6-024",
+    "name": "蝶灵轻披帛",
+    "class_id": 6,
+    "subtype": "妖灵幻想",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿有支撑的不透明交领长裙，轻披帛和可拆蝶形背饰仅作外层，平底鞋；双侧盘发、柔粉妆、蝶形发夹，胸臀完整覆盖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "交领长裙轻披帛",
+      "蝶形背饰",
+      "双侧盘发"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-travel",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "fantasy",
+      "romantic",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-6-025",
+    "name": "鹤灵行旅衣",
+    "class_id": 6,
+    "subtype": "妖灵幻想",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明窄袖长衣配白色短羽饰披肩、分片长裙和软鞋；高髻、淡冷妆、细长发簪，配羽形轻量扇。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短羽饰披肩",
+      "分片长裙",
+      "羽形轻量扇"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "elegant",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-6-026",
+    "name": "蛇灵礼仪衣",
+    "class_id": 6,
+    "subtype": "妖灵幻想",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明立领长袖长裙，腰部叠片与软质蛇形肩饰、不露敏感部位，低跟鞋；低髻、墨绿眼线、金色耳饰，轮廓细长。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "立领长裙",
+      "软质蛇形肩饰",
+      "墨绿眼线"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "dark",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-027",
+    "name": "星辰司命礼服",
+    "class_id": 6,
+    "subtype": "神话神祇",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明高领宽袖长衣，层叠长裙与宽绶带，星盘形胸饰和软鞋；高盘发、冷淡妆、简式星冠，配轻量星杖。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "星盘胸饰",
+      "宽绶带长裙",
+      "星冠星杖"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-magic",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-028",
+    "name": "山岳守护甲衣",
+    "class_id": 6,
+    "subtype": "神话神祇",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿交领长裤内衣、轻量岩片形胸甲与开片裙甲，平底厚靴；编辫盘束、坚毅眼线、低冠，携轻量圆盾。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "岩片形胸甲",
+      "开片裙甲",
+      "低冠圆盾"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "kneel"
+    ],
+    "props": [
+      "shield"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "martial",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-6-029",
+    "name": "云水神女礼衣",
+    "class_id": 6,
+    "subtype": "神话神祇",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明交领及踝长裙、弧形云肩和轻披帛，平底鞋；半束长发、柔蓝妆、水滴形耳饰，配轻量云形扇。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "弧形云肩",
+      "交领长裙轻披帛",
+      "云形扇"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "fan"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-tea",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-6-030",
+    "name": "日轮祭司长衣",
+    "class_id": 6,
+    "subtype": "神话神祇",
+    "prompt": "采用用户当次身份参考的成年人物。成年人物穿不透明方领长衣与宽袖外层、垂直长裙和宽腰封，软鞋；盘发、暖金眼妆、日轮形冠，配轻量礼仪杖，不混入真实宗教徽标。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "日轮形冠",
+      "宽袖垂直长裙",
+      "礼仪杖"
+    ],
+    "era": [
+      "fantasy"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "staff"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-magic",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "fantasy",
+      "classical",
+      "stage"
+    ]
+  },
+  {
+    "id": "WEB-CLASS-YELLOW",
+    "name": "杏黄宽袖·湖畔汉服演绎",
+    "class_id": 6,
+    "subtype": "现代汉服出游",
+    "prompt": "成年人物穿杏黄宽袖交领外衣、绿系带与浅色长裙，黑发自然半束，手机道具可随姿势使用；花饰只保留主要分布，衣料不透明，现代汉服出游演绎，不推断图片没有证明的朝代制度。",
+    "recognition_points": [
+      "杏黄宽袖",
+      "交领与绿腰带",
+      "浅色长裙"
+    ],
+    "era": [
+      "modern",
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "phone"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-wuhan-hanfu"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "romantic"
+    ]
+  },
+  {
+    "id": "WEB-CLASS-PINK",
+    "name": "粉袍黑边·古风融合",
+    "class_id": 6,
+    "subtype": "现代古风融合",
+    "prompt": "成年人物穿粉色长外袍，黑色领口边饰、系扣与主要花饰，内搭不透明长衣，手机道具可随姿势使用；黑发与轻饰自然搭配，作为现代古风融合衣装，不冒充某朝代标准形制。",
+    "recognition_points": [
+      "粉色长外袍",
+      "黑色领口与边饰",
+      "传统系扣大形"
+    ],
+    "era": [
+      "modern",
+      "historical"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "phone"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-wuhan-hanfu"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-6-heritage-mv",
+      "theme-6-ritual",
+      "theme-6-travel"
+    ],
+    "styling_families": [
+      "classical",
+      "street",
+      "playful"
+    ]
+  },
+  {
+    "id": "style-outfit-F044",
+    "name": "民国科幻长衫·原创衣装方案",
+    "class_id": 6,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿复古未来交领长衫、长裤与布鞋；克制古风妆、束发。识别配件为丝绸面板、刺绣电路线、盘扣。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "丝绸面板",
+      "刺绣电路线",
+      "盘扣"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-6-heritage-mv",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "elegant",
+      "futuristic",
+      "classical"
+    ],
+    "style_affinities": [
+      "F044"
+    ]
+  }
+]

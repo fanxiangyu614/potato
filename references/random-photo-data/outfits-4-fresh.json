@@ -1,0 +1,1861 @@
+[
+  {
+    "id": "outfit-4-001",
+    "name": "窗边晨起针织",
+    "class_id": 4,
+    "subtype": "清新居家",
+    "prompt": "采用用户当次身份参考的成年人物。柔软圆领针织衫配不透明直筒居家长裤、平底拖鞋；低松髻、自然淡妆，小耳钉，配空温饮杯，衣料垂坠成大褶。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "圆领针织衫",
+      "直筒居家长裤",
+      "低松髻温饮杯"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "cup"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-002",
+    "name": "棉布围裙料理",
+    "class_id": 4,
+    "subtype": "清新居家",
+    "prompt": "采用用户当次身份参考的成年人物。长袖棉衬衫、及踝棉裙和包脚平底鞋，外系宽带围裙；低辫、自然暖妆，小发夹，配木勺道具。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽带围裙",
+      "棉衬衫长裙",
+      "木勺"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "tool"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-home",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "classical",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-003",
+    "name": "条纹睡衣阅读",
+    "class_id": 4,
+    "subtype": "清新居家",
+    "prompt": "采用用户当次身份参考的成年人物。完整扣合的翻领棉睡衣上下装，宽松长袖长裤和软拖鞋；披肩发、淡妆，细框眼镜，配轻薄书册。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "翻领棉睡衣套装",
+      "细框眼镜",
+      "书册"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "playful",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-4-004",
+    "name": "窗台园艺日常",
+    "class_id": 4,
+    "subtype": "清新居家",
+    "prompt": "采用用户当次身份参考的成年人物。棉质T恤、宽腿七分工装裤和防滑平底鞋，系短工作围裙；盘发、自然妆、布手套，配小型圆钝园艺工具。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短工作围裙",
+      "七分工装裤",
+      "布手套园艺工具"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "tool"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-home",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-4-005",
+    "name": "毛衣沙发日常",
+    "class_id": 4,
+    "subtype": "清新居家",
+    "prompt": "采用用户当次身份参考的成年人物。宽松高领毛衣配不透明针织及膝裙和厚袜、软底拖鞋；半束长发、柔棕妆，细链项饰，袖口不过手指。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽松高领毛衣",
+      "针织及膝裙",
+      "半束长发"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "elegant",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-4-006",
+    "name": "亚麻家居套装",
+    "class_id": 4,
+    "subtype": "清新居家",
+    "prompt": "采用用户当次身份参考的成年人物。亚麻短袖翻领衫、松紧腰九分长裤和平底凉拖，前襟完整闭合；齐颈短发、淡妆，布发带，轮廓宽松轻盈。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "亚麻翻领套装",
+      "九分长裤",
+      "布发带"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-home",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk",
+      "theme-4-bold-photo-moment",
+      "theme-4-megastructure-story"
+    ],
+    "styling_families": [
+      "fresh",
+      "elegant",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-4-007",
+    "name": "大学图书馆日常",
+    "class_id": 4,
+    "subtype": "成人青春",
+    "prompt": "采用用户当次身份参考的成年人物。成年大学生日常开衫叠圆领T、高腰牛仔长裤和帆布鞋；直发半束、清淡妆，帆布包和借阅书册，不做中小学制服。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "开衫圆领T",
+      "牛仔长裤",
+      "帆布包书册"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "elegant",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-4-008",
+    "name": "大学社团排练",
+    "class_id": 4,
+    "subtype": "成人青春",
+    "prompt": "采用用户当次身份参考的成年人物。成年乐队成员穿宽松衬衫、完整内搭和直筒短裤、安全内层及运动鞋；短发、自然妆、织物腕带，背轻量吉他道具。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽松衬衫直筒短裤",
+      "织物腕带",
+      "吉他道具"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "guitar"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-4-exercise",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "stage",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-009",
+    "name": "毕业旅行背带裤",
+    "class_id": 4,
+    "subtype": "成人青春",
+    "prompt": "采用用户当次身份参考的成年人物。短袖棉衫叠宽腿牛仔背带长裤、运动鞋；成年形象、双辫与自然淡妆，斜挎相机道具，肩带长度稳固。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "牛仔背带长裤",
+      "双辫",
+      "斜挎相机"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "camera"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-4-exercise",
+      "theme-4-outing",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "street",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-010",
+    "name": "城市骑行日常",
+    "class_id": 4,
+    "subtype": "成人青春",
+    "prompt": "采用用户当次身份参考的成年人物。完整覆盖的运动上衣、过膝骑行裤与抓地运动鞋，薄防风衣系腰；低马尾、淡妆，配头盔，成年休闲骑行者。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "过膝骑行裤",
+      "腰系防风衣",
+      "头盔"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "helmet"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-4-exercise",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "athletic",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-4-011",
+    "name": "大学美术写生",
+    "class_id": 4,
+    "subtype": "成人青春",
+    "prompt": "采用用户当次身份参考的成年人物。宽松棉衬衫、卷边直筒牛仔裤和帆布鞋，短布围裙；成年形象，低丸子头、自然妆，配写生本，袖口卷到小臂。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短布围裙",
+      "卷边牛仔裤",
+      "写生本"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-012",
+    "name": "成人球场休闲",
+    "class_id": 4,
+    "subtype": "成人青春",
+    "prompt": "采用用户当次身份参考的成年人物。圆领运动T、及膝宽松运动短裤和运动鞋，完整胸臀覆盖；成年形象、高马尾、清淡妆与护腕，配轻量球。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "及膝运动短裤",
+      "高马尾护腕",
+      "轻量球"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "ball"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-4-exercise",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "athletic",
+      "fresh",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-013",
+    "name": "棉麻海边散步",
+    "class_id": 4,
+    "subtype": "夏日户外",
+    "prompt": "采用用户当次身份参考的成年人物。不透明棉麻吊带长裙配薄短开衫、平底凉鞋，胸部有稳固支撑；成年形象、松编辫、暖淡妆，宽檐草帽。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "棉麻长裙短开衫",
+      "宽檐草帽",
+      "松编辫"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-014",
+    "name": "野餐格纹裙",
+    "class_id": 4,
+    "subtype": "夏日户外",
+    "prompt": "采用用户当次身份参考的成年人物。方领短袖格纹及膝裙、内层不透明、平底鞋；成年形象、长发半束、粉棕妆，小发结，配轻量野餐篮。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "方领格纹裙",
+      "小发结",
+      "野餐篮"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "basket"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-outing",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-015",
+    "name": "山路轻徒步",
+    "class_id": 4,
+    "subtype": "夏日户外",
+    "prompt": "采用用户当次身份参考的成年人物。轻薄防风衣、完整运动内衫和宽松登山长裤，防滑登山鞋；成年形象、编辫、自然妆，小背包与宽表带。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "防风衣登山裤",
+      "防滑鞋",
+      "小背包"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel",
+      "dynamic"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "portrait-private-sweat",
+      "theme-4-exercise",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "athletic",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-4-016",
+    "name": "花市连身短裤",
+    "class_id": 4,
+    "subtype": "夏日户外",
+    "prompt": "采用用户当次身份参考的成年人物。不透明短袖连身短裤带宽腰结、安全内层和平底凉鞋；成年形象、侧束长发、暖淡妆，配单束花，不加繁复首饰。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短袖连身短裤",
+      "宽腰结",
+      "单束花"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "flower"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-home",
+      "theme-4-reading",
+      "theme-4-romance",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "playful",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-4-017",
+    "name": "雨天轻便套装",
+    "class_id": 4,
+    "subtype": "夏日户外",
+    "prompt": "采用用户当次身份参考的成年人物。薄连帽雨衣叠完整棉衫、九分直筒裤与防滑雨靴；成年形象、低马尾、淡妆，配透明伞，衣摆不过膝。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "薄连帽雨衣",
+      "九分直筒裤雨靴",
+      "透明伞"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "umbrella"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-environment",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-rain",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "street",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-018",
+    "name": "夏夜市集便装",
+    "class_id": 4,
+    "subtype": "夏日户外",
+    "prompt": "采用用户当次身份参考的成年人物。不透明短袖宽领上衣配棉质阔腿长裤、平底凉鞋；成年形象、短波波发、淡暖妆，斜挎小布包，袖领稳定不滑落。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短袖宽领上衣",
+      "棉阔腿裤",
+      "小布包"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "street",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-019",
+    "name": "书店约会裙装",
+    "class_id": 4,
+    "subtype": "浪漫约会",
+    "prompt": "采用用户当次身份参考的成年人物。短袖裹身式及膝裙以暗扣固定胸襟、内层不透明，低跟鞋；成年形象、柔卷长发、淡玫瑰妆、小耳钉，配书册。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "暗扣裹身及膝裙",
+      "柔卷长发",
+      "书册"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-rain",
+      "theme-4-reading",
+      "theme-4-romance",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "romantic",
+      "fresh",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-020",
+    "name": "河畔约会开衫",
+    "class_id": 4,
+    "subtype": "浪漫约会",
+    "prompt": "采用用户当次身份参考的成年人物。短针织开衫搭完整吊带内衫、及踝A字裙与平底鞋；成年形象、低束发、暖淡妆，细项链，裙摆不拖地。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短开衫吊带内衫",
+      "及踝A字裙",
+      "细项链"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-rain",
+      "theme-4-reading",
+      "theme-4-romance",
+      "theme-4-solitude",
+      "theme-4-walk",
+      "portrait-general-environment"
+    ],
+    "styling_families": [
+      "romantic",
+      "fresh",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-4-021",
+    "name": "电影约会裤装",
+    "class_id": 4,
+    "subtype": "浪漫约会",
+    "prompt": "采用用户当次身份参考的成年人物。圆领短西装配不透明内衫、高腰九分直筒裤和低跟鞋；成年形象、中长发侧分、棕红妆，配小手提包，轮廓简洁。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "圆领短西装",
+      "九分直筒裤",
+      "小手提包"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "street",
+      "fresh",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-022",
+    "name": "花园订婚日装",
+    "class_id": 4,
+    "subtype": "浪漫约会",
+    "prompt": "采用用户当次身份参考的成年人物。不透明方领泡泡袖及踝连衣裙、稳固腰封与低跟鞋；成年形象、编辫盘发、淡粉妆，小珍珠耳饰，配小花束。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "泡泡袖长裙",
+      "编辫盘发",
+      "小花束"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "flower"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-romance",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "romantic",
+      "elegant",
+      "fresh"
+    ]
+  },
+  {
+    "id": "outfit-4-023",
+    "name": "旅行午后衬衫裙",
+    "class_id": 4,
+    "subtype": "文艺日常",
+    "prompt": "采用用户当次身份参考的成年人物。宽腰带衬衫式及膝裙、前襟完整扣合和平底短靴；成年形象、齐肩短发、自然妆，细框眼镜和挂颈相机道具。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽腰带衬衫裙",
+      "细框眼镜",
+      "挂颈相机"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "camera"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-outing",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "elegant",
+      "street"
+    ]
+  },
+  {
+    "id": "outfit-4-024",
+    "name": "陶艺工作围裙",
+    "class_id": 4,
+    "subtype": "文艺日常",
+    "prompt": "采用用户当次身份参考的成年人物。宽袖棉衬衫收紧袖口、宽腿工装长裤与包脚鞋，长工作围裙；成年形象、低髻、自然妆，配圆钝木质雕塑工具。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "长工作围裙",
+      "收袖棉衬衫",
+      "木质雕塑工具"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "tool"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "classical",
+      "playful"
+    ]
+  },
+  {
+    "id": "outfit-4-025",
+    "name": "唱片店针织衫",
+    "class_id": 4,
+    "subtype": "文艺日常",
+    "prompt": "采用用户当次身份参考的成年人物。短针织圆领衫配高腰灯芯绒直裤、平底皮鞋；成年形象、波浪短发、暖棕妆，小耳环，配一张有纸套的道具唱片。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "圆领针织衫灯芯绒裤",
+      "波浪短发",
+      "纸套唱片"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "record"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-026",
+    "name": "散文阅读长马甲",
+    "class_id": 4,
+    "subtype": "文艺日常",
+    "prompt": "采用用户当次身份参考的成年人物。宽松长马甲叠高领薄内衫、及踝棉裙和平底鞋；成年形象、长发松束、淡妆，细金属眼镜与书册。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "长马甲高领内衫",
+      "及踝棉裙",
+      "细框眼镜书册"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "book"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "classical",
+      "elegant"
+    ]
+  },
+  {
+    "id": "outfit-4-027",
+    "name": "果园工作装",
+    "class_id": 4,
+    "subtype": "田园浪漫",
+    "prompt": "采用用户当次身份参考的成年人物。长袖棉衫、九分宽松背带长裤与防滑布鞋；成年形象、双辫、自然暖妆，草帽与空果篮，裤脚离开地面。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "九分背带长裤",
+      "草帽双辫",
+      "空果篮"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "basket",
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-outing",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-4-028",
+    "name": "乡间邮差裙装",
+    "class_id": 4,
+    "subtype": "田园浪漫",
+    "prompt": "采用用户当次身份参考的成年人物。短翻领衬衫配不透明及膝伞裙、平底皮鞋，短开衫敞开；成年形象、低辫、淡暖妆，斜挎邮差包。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "短衬衫及膝伞裙",
+      "低辫",
+      "邮差包"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "bag"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "classical",
+      "fresh",
+      "romantic"
+    ]
+  },
+  {
+    "id": "outfit-4-029",
+    "name": "庭院棉布长裙",
+    "class_id": 4,
+    "subtype": "田园浪漫",
+    "prompt": "采用用户当次身份参考的成年人物。立领宽袖棉布长裙、宽腰结、内层不透明与软底鞋；成年形象、长发半束、自然淡妆，布发结，配一枝花。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽袖棉布长裙",
+      "宽腰结布发结",
+      "单枝花"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit",
+      "kneel"
+    ],
+    "props": [
+      "flower"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-home",
+      "theme-4-reading",
+      "theme-4-romance",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "romantic",
+      "fresh",
+      "classical"
+    ]
+  },
+  {
+    "id": "outfit-4-030",
+    "name": "麦田背心套装",
+    "class_id": 4,
+    "subtype": "田园浪漫",
+    "prompt": "采用用户当次身份参考的成年人物。有支撑的棉质宽肩背心配高腰亚麻长裤、平底凉鞋；成年形象、短卷发、暖淡妆，配草帽，裤腰完整覆盖臀部。服装以主要轮廓和大形呈现，不绑定具体画风。",
+    "recognition_points": [
+      "宽肩棉背心",
+      "高腰亚麻裤",
+      "短卷发草帽"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "hat"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-text-library-v1"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "WEB-FRESH-WHITE",
+    "name": "白蓬袖·轻松城市日常",
+    "class_id": 4,
+    "subtype": "清新日常",
+    "prompt": "成年人物穿白色蓬袖短外套、黑色阔腿七分裤、黑色低跟凉鞋与墨镜，细项链；轮廓松弛轻盈，日常散步或静立，不将同图其他人物身份和衣着带入。",
+    "recognition_points": [
+      "白色蓬袖短外套",
+      "黑色阔腿七分裤",
+      "轻便凉鞋与细项链"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [
+      "sunglasses"
+    ],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "web_visual_distilled",
+      "source_ids": [
+        "web-cph-white"
+      ],
+      "local_adaptation": "根据该衣装剪裁、人物语境与材质填写正向风格亲和标签；服装正文和识别点保持原值；本次为原创本地文字修订，未进行新增网络取材。"
+    },
+    "theme_ids": [
+      "portrait-general-close",
+      "portrait-general-formal",
+      "portrait-general-window",
+      "portrait-private-candid",
+      "portrait-private-combined",
+      "portrait-private-hazy",
+      "theme-4-reading",
+      "theme-4-solitude",
+      "theme-4-walk"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "elegant"
+    ]
+  },
+  {
+    "id": "style-outfit-F007",
+    "name": "森女旧目录·原创衣装方案",
+    "class_id": 4,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿层叠棉麻长裙、宽松针织披肩与平底鞋；轻淡暖妆、松散编发。识别配件为棉麻叠层、木质扣、针织披肩。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "棉麻叠层",
+      "木质扣",
+      "针织披肩"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-4-solitude",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "classical"
+    ],
+    "style_affinities": [
+      "F007"
+    ]
+  },
+  {
+    "id": "style-outfit-F011",
+    "name": "机能雨壳Lookbook·原创衣装方案",
+    "class_id": 4,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿防水雨壳外套、速干长裤与户外鞋；清爽淡妆、收拢头发。识别配件为防水拉链、压胶拼缝、连帽结构。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "防水拉链",
+      "压胶拼缝",
+      "连帽结构"
+    ],
+    "era": [
+      "modern",
+      "future"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-4-solitude",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "street",
+      "athletic",
+      "futuristic"
+    ],
+    "style_affinities": [
+      "F011"
+    ]
+  },
+  {
+    "id": "style-outfit-F041",
+    "name": "山地度假针织·原创衣装方案",
+    "class_id": 4,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿图案毛衣、保暖长裤与徒步鞋；清淡妆、松散束发。识别配件为几何针织图案、围巾、罗纹袖口。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "几何针织图案",
+      "围巾",
+      "罗纹袖口"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-4-solitude",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "fresh",
+      "romantic",
+      "athletic",
+      "classical"
+    ],
+    "style_affinities": [
+      "F041"
+    ]
+  },
+  {
+    "id": "style-outfit-F050",
+    "name": "工艺市集手作穿搭·原创衣装方案",
+    "class_id": 4,
+    "subtype": "风格配套完整妆造",
+    "prompt": "成年人物穿拼布围裙、棉麻上衣与长裤；暖淡妆、编发。识别配件为拼布、珠饰、小工具口袋。这是本地原创文字妆造，正常穿着，不改变参考人物的脸型与五官比例。",
+    "recognition_points": [
+      "拼布",
+      "珠饰",
+      "小工具口袋"
+    ],
+    "era": [
+      "modern"
+    ],
+    "mobility": [
+      "stand",
+      "walk",
+      "sit"
+    ],
+    "props": [],
+    "media": [
+      "真人",
+      "2D",
+      "3D",
+      "CG"
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "random-photo-style-linked-original-v2"
+      ],
+      "local_adaptation": "依据本地风格文字设计相应衣装或可实际容纳人物的场景；原创文字方案，未新增网络观察或热度证据。"
+    },
+    "theme_ids": [
+      "theme-4-solitude",
+      "portrait-general-environment",
+      "portrait-private-candid"
+    ],
+    "styling_families": [
+      "fresh",
+      "classical",
+      "playful"
+    ],
+    "style_affinities": [
+      "F050"
+    ]
+  }
+]

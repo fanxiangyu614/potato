@@ -1,0 +1,791 @@
+[
+  {
+    "id": "theme-1-display",
+    "name": "角色识别展示",
+    "prompt": "展示所选角色服装版本、发型与代表识别点，身份来自本次参考。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-1-convention",
+    "name": "漫展到场",
+    "prompt": "主角在展馆摄影区与漫展动线中自然停留。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-1-drama",
+    "name": "角色剧情演绎",
+    "prompt": "用已指定情境和道具讲出一个角色正在经历的事件。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-1-ability",
+    "name": "能力与招式",
+    "prompt": "在真实支撑地面定格该角色适用的招式，特效只表达能力不替代手部关系。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-1-adventure",
+    "name": "角色冒险",
+    "prompt": "沿已登记的路面探寻线索或观察前路。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-1-stage",
+    "name": "漫展舞台表演",
+    "prompt": "主角在明确的舞台表演位置完成一个动作，观众默认画外。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-1-daily",
+    "name": "角色日常",
+    "prompt": "保留完整角色妆造，表现阅读、茶歇或休息的日常。",
+    "branch": "themed",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "id": "theme-2-alert",
+    "name": "持枪警戒",
+    "prompt": "在警戒落点观察远处，道具武器与持有手配套。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-patrol",
+    "name": "巡逻与侦察",
+    "prompt": "沿明确动线巡逻，主角观察空间而不是凭空漂浮。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-combat",
+    "name": "对敌交战",
+    "prompt": "剧情交战或射击定格；目标/对手默认画外，预配武器状态。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-training",
+    "name": "战术与武技训练",
+    "prompt": "在道场、训练平台或任务场地完成进身、护势、换位与收势；动作幅度遵循本张衣装及装备的活动余量。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-ceremony",
+    "name": "仪仗与装备展示",
+    "prompt": "稳定站姿展示护甲、服装和装备，手部职责清楚。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-repair",
+    "name": "装备检修",
+    "prompt": "在工作面检查圆钝道具工具与设备外壳。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-rest",
+    "name": "任务间休整",
+    "prompt": "在真实座面或休息平台放松，装备安放明确。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-performance",
+    "name": "战士漫展剧情表演",
+    "prompt": "现代展馆中表演战士剧情，古今衣装均属于扮演而非年代冲突。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-drawblade",
+    "name": "佩刀与拔刀",
+    "prompt": "刀、刀鞘和两手职责一套登记，留出拔刀方向的空间。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-archery",
+    "name": "弓盾与远望",
+    "prompt": "弓、箭或盾的套组明确，不从散池补道具。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-2-communication",
+    "name": "通信与情报",
+    "prompt": "无线电或情报册的观察动作在对应现场成立。",
+    "branch": "themed",
+    "classes": [
+      2
+    ]
+  },
+  {
+    "id": "theme-3-street",
+    "name": "时尚街拍",
+    "prompt": "服装轮廓与城市动线相连，采用稳定小步或停步。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-editorial",
+    "name": "杂志时装",
+    "prompt": "衣装与城市、后台、建筑或专门摄影布景形成编辑摄影情境，轮廓与个人神态保持清楚。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-runway",
+    "name": "秀场与侧台",
+    "prompt": "在秀台及侧台位置小步走位或完成展示停步。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-airport",
+    "name": "机场私服",
+    "prompt": "行李与肩包安放明确，机场候机与小步行走。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-rehearsal",
+    "name": "舞台排练",
+    "prompt": "练习室中的分段排练：听拍、滑步、换重心、转步后复盘，各动作有明确足底支撑。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-choreography",
+    "name": "KPOP编舞",
+    "prompt": "编舞动作与服装活动能力配套，手持麦与双手编舞分开。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-concert",
+    "name": "现场演唱",
+    "prompt": "手持麦与头戴麦各有完整演唱动作套组。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-mv",
+    "name": "现代MV",
+    "prompt": "现代拍摄现场的表演与取景位置明确。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-fansign",
+    "name": "签售",
+    "prompt": "签售桌面、座椅、签名笔和专辑的动作关系明确。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-fanmeet",
+    "name": "见面会",
+    "prompt": "主角向画外观众致意，少量登记配角仅服务主角。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-3-heritage-mv",
+    "name": "古建KPOP MV",
+    "prompt": "故事是现代MV拍摄，古建是取景风貌，现代衣装与设备成立。",
+    "branch": "themed",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "id": "theme-4-reading",
+    "name": "阅读与书店",
+    "prompt": "在可坐可放书的具体位置阅读，书页与手部关系明确。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-home",
+    "name": "居家生活",
+    "prompt": "料理、整理或茶歇的生活动作在实际工作面成立。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-exercise",
+    "name": "轻运动",
+    "prompt": "在球场、步道或绿地完成轻跑、踏步、换位或运动后的自然停息，动作用适配活动衣装。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-walk",
+    "name": "散步",
+    "prompt": "沿清楚的步道与稳定鞋型自然小步。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-outing",
+    "name": "轻松出游",
+    "prompt": "取景、野餐或园艺的物件安放与主角动线配套。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-rain",
+    "name": "雨天",
+    "prompt": "伞和握柄手已登记，脚下为有遮挡的稳定路面。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-solitude",
+    "name": "独处与窗边",
+    "prompt": "在人物实际生活的房间、书店、花廊或旅途中短暂独处；一件刚做完的小事、停住的手与目光共同讲述时刻。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-4-romance",
+    "name": "浪漫日常",
+    "prompt": "花束和轻微画外互动服务主角，默认为单人。",
+    "branch": "themed",
+    "classes": [
+      4
+    ]
+  },
+  {
+    "id": "theme-5-vacation",
+    "name": "泳装与度假",
+    "prompt": "泳装及度假衣装在泳池边、海边的实体落点展示。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-5-evening",
+    "name": "晚装",
+    "prompt": "晚装在宴会侧廊或等候区停步、转身和倚靠。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-5-fashion",
+    "name": "成人时装展示",
+    "prompt": "用自然站坐展示衣装轮廓与成人气质。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-5-dance",
+    "name": "成人舞台舞蹈",
+    "prompt": "只使用具有活动余量的妆造，编舞定格与手部空闲配套。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-5-postworkout",
+    "name": "运动后休息",
+    "prompt": "训练后真实休息，汗珠、湿润光泽与衣装识别并存。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-5-reception",
+    "name": "酒会与会客",
+    "prompt": "杯具和桌面配套，主角独处或与一位从属来宾互动。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-5-personal",
+    "name": "个人空间写真活动",
+    "prompt": "镜前、窗旁和休息角中的衣装展示与自然放松。",
+    "branch": "themed",
+    "classes": [
+      5
+    ]
+  },
+  {
+    "id": "theme-6-travel",
+    "name": "古风巡游",
+    "prompt": "沿古道或回廊行走，衣袖拖尾不遮住落脚面。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-sword",
+    "name": "练剑",
+    "prompt": "在练剑庭、道场或山门空地完成进身、守势、侧步与收剑定格，剑与刀鞘保持原配套组。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-duel",
+    "name": "交手演绎",
+    "prompt": "主角与画外或明确从属对手进行剧情定格。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-magic",
+    "name": "法术演绎",
+    "prompt": "法器与手势分工清楚，主角站在实体平台。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-ritual",
+    "name": "古风仪式",
+    "prompt": "礼台站位与服装大形清楚，动作克制。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-literacy",
+    "name": "读写与书案",
+    "prompt": "书、毛笔、墨碟和桌椅的动作套组完整。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-tea",
+    "name": "古风茶事",
+    "prompt": "茶具安稳置案，单杯端持或斟茶分别登记。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-dance",
+    "name": "古风舞蹈",
+    "prompt": "宽袖、披帛与原衣装活动能力对应的踏点、转步和收拍，袖与地面有自然运动关系。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "theme-6-heritage-mv",
+    "name": "古建与国风MV",
+    "prompt": "现代摄影取景情境保留古风服装，扇或无道具表演预配。",
+    "branch": "themed",
+    "classes": [
+      6
+    ]
+  },
+  {
+    "id": "portrait-general-formal",
+    "name": "正式肖像",
+    "prompt": "保留本张妆造，以站姿和清楚神态完成正式肖像。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "general"
+  },
+  {
+    "id": "portrait-general-window",
+    "name": "窗边写真",
+    "prompt": "窗侧实际落点，人物与服装是观看重点。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "general"
+  },
+  {
+    "id": "portrait-general-environment",
+    "name": "环境人像",
+    "prompt": "既定空间提供身份与活动环境，人物保持清楚观看重点。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "general"
+  },
+  {
+    "id": "portrait-general-close",
+    "name": "近距离肖像",
+    "prompt": "画面内保留发型、领口、饰物或护甲边缘等妆造识别点。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "general"
+  },
+  {
+    "id": "portrait-private-candid",
+    "name": "私房自然抓拍",
+    "prompt": "成年人物穿本张原妆造，在有生活痕迹的房间中阅读停顿、整理已有饰物或回身听到摄影者；神态舒适自然。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "private"
+  },
+  {
+    "id": "portrait-private-sweat",
+    "name": "汗湿休息特写",
+    "prompt": "温热拍摄、舞后或训练后，脸颊、颈肩与可见皮肤上汗珠和汗痕依受光呈现；不是全域细节强化。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "private"
+  },
+  {
+    "id": "portrait-private-hazy",
+    "name": "迷离神态",
+    "prompt": "成年人物在私人休息间刚结束一次阅读、试装或排练，眼神松弛、呼吸平稳；柔和光影与准确可见眼部焦点共同成立。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "private"
+  },
+  {
+    "id": "portrait-private-combined",
+    "name": "汗湿迷离近距离",
+    "prompt": "成年人物在排练或温热取景后自然休息，原妆造保持，可见脸颈汗痕、放松神态与生活环境彼此相连。",
+    "branch": "portrait",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "portrait_kind": "private"
+  },
+  {
+    "id": "theme-1-bold-photo-moment",
+    "name": "大幅动作与非常规观察·第1类",
+    "prompt": "定格有动作幅度、情绪与衣装关系的身体事件，机位随当前事件安排。",
+    "branch": "themed",
+    "classes": [
+      1
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-2-bold-photo-moment",
+    "name": "大幅动作与非常规观察·第2类",
+    "prompt": "定格有动作幅度、情绪与衣装关系的身体事件，机位随当前事件安排。",
+    "branch": "themed",
+    "classes": [
+      2
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-3-bold-photo-moment",
+    "name": "大幅动作与非常规观察·第3类",
+    "prompt": "定格有动作幅度、情绪与衣装关系的身体事件，机位随当前事件安排。",
+    "branch": "themed",
+    "classes": [
+      3
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-4-bold-photo-moment",
+    "name": "大幅动作与非常规观察·第4类",
+    "prompt": "定格有动作幅度、情绪与衣装关系的身体事件，机位随当前事件安排。",
+    "branch": "themed",
+    "classes": [
+      4
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-5-bold-photo-moment",
+    "name": "大幅动作与非常规观察·第5类",
+    "prompt": "定格有动作幅度、情绪与衣装关系的身体事件，机位随当前事件安排。",
+    "branch": "themed",
+    "classes": [
+      5
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-6-bold-photo-moment",
+    "name": "大幅动作与非常规观察·第6类",
+    "prompt": "定格有动作幅度、情绪与衣装关系的身体事件，机位随当前事件安排。",
+    "branch": "themed",
+    "classes": [
+      6
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-1-megastructure-story",
+    "name": "巨构空间与人物事件·第1类",
+    "prompt": "在真实落脚面上让建筑体量、人物事件与观看距离形成关系；每条活动明确巨构主导、人景叙事或人物主导的构图职责。",
+    "branch": "themed",
+    "classes": [
+      1
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-2-megastructure-story",
+    "name": "巨构空间与人物事件·第2类",
+    "prompt": "在真实落脚面上让建筑体量、人物事件与观看距离形成关系；每条活动明确巨构主导、人景叙事或人物主导的构图职责。",
+    "branch": "themed",
+    "classes": [
+      2
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-3-megastructure-story",
+    "name": "巨构空间与人物事件·第3类",
+    "prompt": "在真实落脚面上让建筑体量、人物事件与观看距离形成关系；每条活动明确巨构主导、人景叙事或人物主导的构图职责。",
+    "branch": "themed",
+    "classes": [
+      3
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-4-megastructure-story",
+    "name": "巨构空间与人物事件·第4类",
+    "prompt": "在真实落脚面上让建筑体量、人物事件与观看距离形成关系；每条活动明确巨构主导、人景叙事或人物主导的构图职责。",
+    "branch": "themed",
+    "classes": [
+      4
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-5-megastructure-story",
+    "name": "巨构空间与人物事件·第5类",
+    "prompt": "在真实落脚面上让建筑体量、人物事件与观看距离形成关系；每条活动明确巨构主导、人景叙事或人物主导的构图职责。",
+    "branch": "themed",
+    "classes": [
+      5
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  },
+  {
+    "id": "theme-6-megastructure-story",
+    "name": "巨构空间与人物事件·第6类",
+    "prompt": "在真实落脚面上让建筑体量、人物事件与观看距离形成关系；每条活动明确巨构主导、人景叙事或人物主导的构图职责。",
+    "branch": "themed",
+    "classes": [
+      6
+    ],
+    "provenance": {
+      "kind": "original_design",
+      "source_ids": [
+        "original-bold-photo-megastructure-20261014"
+      ],
+      "local_adaptation": "原创动作、现场及机位文字设计；巨构尺度依据用户给出的空间原则。未联网，未查看外部图片，未生成媒体，不声称网络热门或摄影实测。"
+    }
+  }
+]
